@@ -3,8 +3,6 @@
 
 packer="sudo pacman -S --noconfirm --needed"
 
-$packer dunst
-$packer pdfarranger
 $packer adobe-source-sans-fonts
 $packer aic94xx-firmware
 $packer alacritty
@@ -17,7 +15,11 @@ $packer cpuid
 $packer curl
 $packer dconf-editor
 $packer downgrade
+$packer dracula-cursors-git
+$packer dracula-gtk-theme
+$packer dracula-icons-git
 $packer duf
+$packer dunst
 $packer font-manager
 $packer galculator
 $packer gimp
@@ -35,6 +37,8 @@ $packer hardinfo-gtk3
 $packer hddtemp
 $packer htop
 $packer hw-probe
+$packer libreoffice-fresh
+$packer libreoffice-fresh-pl
 $packer linux-firmware-qlogic
 $packer logrotate
 $packer lolcat
@@ -42,34 +46,35 @@ $packer lollypop
 $packer lshw
 $packer man-db
 $packer man-pages
-$packer mkinitcpio-firmware
-$packer mlocate
 $packer meld
 $packer mintstick-git
+$packer mkinitcpio-firmware
+$packer mlocate
 $packer most
 $packer neofetch
 $packer networkmanager-openvpn
 $packer noto-fonts
-$packer ntp
 $packer nss-mdns
+$packer ntp
 $packer openresolv
 $packer pavucontrol
+$packer pdfarranger
 $packer playerctl
+$packer pv
 $packer python-pylint
 $packer python-pywal
-$packer pv
 $packer qbittorrent
 $packer rate-mirrors-bin
 $packer ripgrep
 $packer rsync
 $packer scrot
-$packer sublime-text-4
 $packer simplescreenrecorder
 $packer sparklines-git
 $packer speedtest-cli-git
 $packer spotify
-$packer starship
 $packer squashfs-tools
+$packer starship
+$packer sublime-text-4
 $packer system-config-printer
 $packer time
 $packer tree
@@ -89,7 +94,5 @@ $packer wget
 $packer wttr
 $packer xcolor
 $packer xorg-xkill
-$packer libreoffice-fresh
-$packer libreoffice-fresh-pl
 sudo systemctl enable avahi-daemon.service
 sudo systemctl enable ntpd.service
