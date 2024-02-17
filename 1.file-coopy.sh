@@ -17,12 +17,8 @@ cp ~/dwm-install/files/.bashrc ~/
 
 cp -r ~/dwm-install/files/.config/dwm/.icons ~/
 cp -r ~/dwm-install/files/.config/* ~/.config
+cp -r ~/dwm-install/files/.config/dwm ~/.config
 
 sudo chsh hubert -s /bin/fish
-
-cd ~/.config/dwm && make && sudo make clean install && cd ~/
-cd ~/.config/dwm/dmenu && make && sudo make clean install && cd ~/
-cd ~/.config/dwm/slstatus && make && sudo make clean install && cd ~/
-cd ~/.config/dwm/st && make && sudo make clean install && cd ~/
 
 exit 0
