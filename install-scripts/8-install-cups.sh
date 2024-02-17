@@ -75,7 +75,6 @@ yay brother-dcp1610w
 yay brscan4
 
 sudo systemctl enable --now cups.service
-sudo systemctl start cups.services
 sudo brsaneconfig4 -a name=SCANNER_DCP1610W model=DCP-1610W ip=192.168.0.183
 
 echo
