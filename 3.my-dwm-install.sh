@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd ~/.config/suckless/dmenu && make && sudo make clean install && cd ~/
-cd ~/.config/suckless/dwm && make && sudo make clean install && cd ~/
+cd ~/.config/dwm && make && sudo make clean install && cd ~/
+cd ~/.config/dwm/dmemu && make && sudo make clean install && cd ~/
 #cd ~/.config/dwm/dwmblocks && make && sudo make clean install && cd ~/
 cd ~/.config/dwm/slstatus && make && sudo make clean install && cd ~/
 cd ~/.config/dwm/st && make && sudo make clean install && cd ~/
