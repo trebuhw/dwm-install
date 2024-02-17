@@ -52,7 +52,6 @@ $packer picom
 $packer polkit
 $packer polkit-gnome
 $packer cups
-$packer sublime-text-4
 $packer sxhkd
 $packer bibata-cursor-theme-bin
 $packer lxappearance
