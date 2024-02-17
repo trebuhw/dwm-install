@@ -78,15 +78,8 @@ $packer sublime-text-4
 $packer system-config-printer
 $packer time
 $packer tree
-$packer ttf-bitstream-vera
-$packer ttf-dejavu
-$packer ttf-droid
 $packer ttf-hack
 $packer ttf-inconsolata
-$packer ttf-liberation
-$packer ttf-roboto
-$packer ttf-roboto-mono
-$packer ttf-ubuntu-font-family
 $packer upd72020x-fw
 $packer vlc
 $packer wd719x-firmware

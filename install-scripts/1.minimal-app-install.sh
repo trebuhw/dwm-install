@@ -40,6 +40,7 @@ $packer neofetch
 $packer neovim
 $packer network-manager-applet
 $packer numlockx
+$packer os-prober
 $packer p7zip
 $packer papirus-icon-theme
 $packer picom
