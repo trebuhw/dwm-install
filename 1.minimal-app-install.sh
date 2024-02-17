@@ -65,6 +65,7 @@ $packer trash-cli
 $packer numlockx
 $packer nm-applet
 $packer xclip
+$packer xfce4-notifyd
 yay archlinux-tweak-tool-git
 yay google-chrome-stable
 

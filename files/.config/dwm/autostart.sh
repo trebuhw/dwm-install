@@ -29,19 +29,19 @@ run nm-applet &
 #run "blueberry-tray" &
 run /usr/libexec/xfce4/notifyd/xfce4-notifyd & #OpenSuse
 # run /usr/lib/xfce4/notifyd/xfce4-notifyd & Arch
-#run "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1" & # Archlinux authentication
-run /usr/libexec/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
-picom -b  --config ~/.config/suckless/dwm/picom.conf &
+run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # Archlinux authentication
+#run /usr/libexec/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
+picom -b  --config ~/.config/dwm/picom.conf &
 run numlockx on &
 #run "volumeicon" &
 run slstatus &
-sxhkd -c ~/.config/suckless/dwm/sxhkd/sxhkdrc &
+sxhkd -c ~/.config/dwm/sxhkd/sxhkdrc &
 # sxhkd -c ~/.config/arco-dwm/sxhkd/sxhkdrc &
 #run "nitrogen --restore" &
 #run "conky -c $HOME/.config/arco-dwm/system-overview" &
 #you can set wallpapers in themes as well &
 #feh --bg-fill /usr/share/backgrounds/archlinux/arch-wallpaper.jpg &
-feh --bg-fill $HOME/.config/suckless/dwm/bg/sea.jpg &
+feh --bg-fill $HOME/.config/dwm/bg/sea.jpg &
 #feh --bg-fill $HOME/.background &
 #wallpaper for other Arch based systems &
 #feh --bg-fill /usr/share/archlinux-tweak-tool/data/wallpaper/wallpaper.png &
