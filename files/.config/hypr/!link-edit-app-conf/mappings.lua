@@ -1,1 +1,0 @@
-/home/hubert/.config/nvim/lua/astronvim/mappings.lua

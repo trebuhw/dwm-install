@@ -1,1 +1,0 @@
-/home/hubert/.config/hypr/cheatsheet.md

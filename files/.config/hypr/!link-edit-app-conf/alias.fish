@@ -1,1 +1,0 @@
-/home/hubert/.config/fish/alias.fish
