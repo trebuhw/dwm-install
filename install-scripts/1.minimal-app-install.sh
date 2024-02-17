@@ -17,6 +17,7 @@ sudo pacman -Syyu
 
 $packer alacritty
 $packer arc-gtk-theme
+$packer bat
 $packer bash-completion
 $packer brightnessctl
 $packer btop
@@ -24,11 +25,13 @@ $packer cups
 $packer dunst
 $packer fastfetch
 $packer feh
+$packer file-roller
 $packer firefox
 $packer fish
 $packer flameshot
 $packer gcolor3
 $packer git
+$packer gzip
 $packer i3lock
 $packer kitty
 $packer lm_sensors
@@ -36,8 +39,9 @@ $packer lsd
 $packer lxappearance
 $packer neofetch
 $packer neovim
-$packer nm-applet
+$packer network-manager-applet
 $packer numlockx
+$packer p7zip
 $packer papirus-icon-theme
 $packer picom
 $packer polkit
@@ -54,6 +58,8 @@ $packer tldr
 $packer tlp
 $packer trash-cli
 $packer ttf-jetbrains-mono-nerd
+$packer unrar
+$packer unzip
 $packer vim
 $packer xclip
 $packer xdg-user-dirs
