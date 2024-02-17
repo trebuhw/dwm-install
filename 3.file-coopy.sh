@@ -20,10 +20,10 @@ cp ~/dwm-install/files/.background ~/
 cp ~/dwm-install/files/.bash_history ~/
 cp ~/dwm-install/files/.bashrc ~/
 
-cp -r ~/dwm-install/files/.config/dwm/.icons ~/
+cp -r ~/dwm-install/files/.config/.icons ~/
 cp -r ~/dwm-install/files/.config/* ~/.config
-rm -r ~/dwm-install/files/.config/suckless
-cp -r ~/dwm-install/files/.config/suckless/* ~/.config
+rm -r ~/dwm-install/files/.config/dwm
+cp -r ~/dwm-install/files/.config/dwm/* ~/.config
 
 sudo chsh hubert -s /bin/fish
 
