@@ -63,30 +63,7 @@ static const char unknown_str[] = "n/a";
  * wifi_essid          WiFi ESSID                      interface name (wlan0)
  * wifi_perc           WiFi signal in percent          interface name (wlan0)
  */
-static const char vol[]         = "[ `amixer sget Master | tail -n 1 | awk '{print $6;}'` = \"[on]\" ] \
-                                   && printf \"`amixer sget Master | tail -n 1 | awk '{print $5;}' | grep -Po '\\[\\K[^%]*'`%%\" \
-                                   || printf 'Off'";
-
-static const char mic[]         = "[ `amixer sget Capture | tail -n 1 | awk '{print $6;}'` = \"[on]\" ] \
-                                   && printf \"`amixer sget Capture | tail -n 1 | awk '{print $5;}' | grep -Po '\\[\\K[^%]*'`%%\" \
-                                   || printf 'Off'";
-
 static const struct arg args[] = {
-        /* function format          argument */
-        { cpu_perc,             "[ CPU %s% ]",    NULL },
-        { run_command,          "[ TEM %s ]",    "sensors | awk '/^Package/ {print $4}' | sed 's/+//'" },
-        //{ temp,               "[ TEM %s°C ]", "/sys/devices/platform/coretemp.0/hwmon/hwmon5/temp1_input" },
-        { ram_perc,             "[ MEM %s% ]",    NULL },
-        { ram_used,             "[ RAM %s ]",     NULL },
-        { run_command,          "[ BRI%s ]",      "sl-bkl.sh" },
-        //{ battery_state,      "[   (%s) ]  ",   "BAT0" },
-        { run_command,          "[ VOL %s ]",     vol },
-        //{ run_command,        "[  %s ]  ",     mic },
-        //{ keymap,             " %s ",          NULL },
-        { battery_perc,         "[ BAT %s%% ]",   "BAT0" },
-        //{ run_command,        "[%s]",           "TZ=Europe/Warsaw date +\"%a %Y/%m/%d - %H:%M\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        { run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%a %d/%m/%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        //{ run_command,        "[%s]",           "TZ=Europe/Warsaw date +\"%a %F %T\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        { datetime,             "[ %s ]",         "%H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        //{ datetime,           "[%s]",           "%y/%m/%d %a - %H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
+	/* function format          argument */
+	{ datetime, "%s",           "%F %T" },
 };
