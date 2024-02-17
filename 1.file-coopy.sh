@@ -16,7 +16,7 @@ cp ~/dwm-install/files/.bash_history ~/
 cp ~/dwm-install/files/.bashrc ~/
 
 cp -r ~/dwm-install/files/.config/dwm/.icons ~/
-cp -r ~/dwm-install/files/.config/* ~/.config
+cp -r ~/dwm-install/files/.config/. ~/.config
 
 sudo chsh hubert -s /bin/fish
 
