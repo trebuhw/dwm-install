@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -e
 
-packer="$sudo pacman -S --noconfirm --needed"
+packer="sudo pacman -S --noconfirm --needed"
 
 $packer dunst
 $packer pdfarranger
