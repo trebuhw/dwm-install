@@ -5,7 +5,7 @@ cd ~/dwm-install/files/
 
 cp .vimrc .xinitrc .Xresorces ~/
 
-cp ~/dwm-install/files/.config/* ~/.config
+cp -r ~/dwm-install/files/.config/* ~/.config
 
 cd ~/.config/dwm && make && sudo make clean install
 cd ~/.config/dwm/dmenu && make && sudo make clean install
