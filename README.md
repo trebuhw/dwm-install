@@ -12,8 +12,10 @@
 
 5. Options install scripts: 7, 8
 
-Install scripts 9 only false (1,2,3,4,5)
-to jest orginalne repo suckless
+---
+
+Scripts 9 install only false install scripts -  (1,2,3,4,5)
+this is the original repository Suckless
 
 
 
