@@ -1,8 +1,8 @@
 # dwm-install
 
-1. Install scripts: 1, 3, 4, 5
+1. Install scripts 0.install.sh
 
-2. Reboot
+2. Reboot (automate)
 
 3. Run ATT - archlinux-tweak-tool ( pacman - add repo arcolinux, add key)
 
@@ -14,7 +14,7 @@
 
 ---
 
-Scripts 9 install only false install scripts -  (1,2,3,4,5)
+Scripts 9 install only false install scripts 0.install.sh - (1,2,3,4,5)
 this is the original repository Suckless
 
 
