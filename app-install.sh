@@ -3,6 +3,8 @@
 packer="sudo pacman -S --noconfirm --needed"
 #packer="sudo zypper install --no-recommends"
 
+sudo pacman -Syyu
+
 ## Xorg & DWM
 
 ### Programs
@@ -48,6 +50,12 @@ $packer sublime-text
 $packer libreoffice
 $packer libreoffice-l10n-pl
 $packer sxhkd
+$packer bibata-cursor-theme-bin
+$packer lxappearance
+$packer tlp
+$packer ttf-jetbrains-mono-nerd
+$packer arc-gtk-theme
+$packer papirus-icon-theme
 
 exit 0
 
