@@ -65,6 +65,7 @@ $packer yazi
 $packer trash-cli
 $packer numlockx
 $packer nm-applet
+$packer xclip
 yay archlinux-tweak-tool-git
 
 
