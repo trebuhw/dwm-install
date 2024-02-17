@@ -3,6 +3,10 @@
 packer="sudo pacman -S --noconfirm --needed"
 #packer="sudo zypper install --no-recommends"
 
+cd ~/ && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si && cd ~/
+
+#rm -r ~/yay
+
 sudo pacman -Syyu
 
 ## Xorg & DWM
@@ -61,6 +65,9 @@ $packer yazi
 $packer trash-cli
 $packer numlockx
 $packer nm-applet
+yay archlinux-tweak-tool-git
+
+
 
 exit 0
 
