@@ -1,4 +1,4 @@
-# dwm-install
+# dwm-install Archlinux
 
 1. Install scripts 0.install.sh
 
