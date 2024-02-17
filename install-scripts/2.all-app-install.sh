@@ -1,77 +1,93 @@
 #!/bin/bash
+#set -e
 
-packer="sudo pacman -S --noconfirm --needed"
-#packer="sudo zypper install --no-recommends"
+packer="$sudo pacman -S --noconfirm --needed"
 
-cd ~/ && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si && cd ~/
-
-#rm -r ~/yay
-
-sudo pacman -Syyu
-
-## Xorg & DWM
-
-### Programs
-
-$packer xorg-server
-$packer xorg-xinit
-$packer xorg-xrandr
-$packer xorg-xsetroot
-$packer xdg-user-dirs
-$packer bash-completion
-$packer kitty
-$packer thunar
-$packer firefox
-$packer git
-$packer vim
-$packer feh
 $packer dunst
-$packer btop
-$packer fish
-$packer starship
-$packer flameshot
-$packer lsd
-$packer neofetch
-$packer fastfetch
-$packer neovim
 $packer pdfarranger
-$packer ranger
-$packer rclone
+$packer adobe-source-sans-fonts
+$packer aic94xx-firmware
+$packer alacritty
+$packer arandr
+$packer archiso
+$packer avahi
+$packer awesome-terminal-fonts
+$packer baobab
+$packer cpuid
+$packer curl
+$packer dconf-editor
+$packer downgrade
+$packer duf
+$packer font-manager
+$packer galculator
+$packer gimp
+$packer git
+$packer gitahead-bin
+$packer gitfiend
+$packer gnome-disk-utility
+$packer gparted
+$packer grub-customizer
+$packer gtop
+$packer gvfs-smb
+$packer hardcode-fixer-git
+$packer hardinfo-gtk3
+$packer hddtemp
+$packer htop
+$packer hw-probe
+$packer linux-firmware-qlogic
+$packer logrotate
+$packer lolcat
+$packer lollypop
+$packer lshw
+$packer man-db
+$packer man-pages
+$packer mkinitcpio-firmware
+$packer mlocate
+$packer meld
+$packer mintstick-git
+$packer most
+$packer neofetch
+$packer networkmanager-openvpn
+$packer noto-fonts
+$packer ntp
+$packer nss-mdns
+$packer openresolv
+$packer pavucontrol
+$packer playerctl
+$packer python-pylint
+$packer python-pywal
+$packer pv
+$packer qbittorrent
+$packer rate-mirrors-bin
+$packer ripgrep
 $packer rsync
-$packer tldr
-$packer zathura
-$packer sxiv
-$packer rofi
-$packer i3lock
-$packer i3color
-$packer gcolor2
-$packer brigtnessctl
-$packer lm-sensors
-$packer picom
-$packer polkit
-$packer polkit-gnome
-$packer cups
-$packer sublime-text
-$packer libreoffice
-$packer libreoffice-l10n-pl
-$packer sxhkd
-$packer bibata-cursor-theme-bin
-$packer lxappearance
-$packer tlp
-$packer ttf-jetbrains-mono-nerd
-$packer arc-gtk-theme
-$packer papirus-icon-theme
-$packer yazi
-$packer trash-cli
-$packer numlockx
-$packer nm-applet
-$packer xclip
-yay archlinux-tweak-tool-git
-
-
-
-exit 0
-
-
-
-
+$packer scrot
+$packer simplescreenrecorder
+$packer sparklines-git
+$packer speedtest-cli-git
+$packer spotify
+$packer starship
+$packer squashfs-tools
+$packer system-config-printer
+$packer time
+$packer tree
+$packer ttf-bitstream-vera
+$packer ttf-dejavu
+$packer ttf-droid
+$packer ttf-hack
+$packer ttf-inconsolata
+$packer ttf-liberation
+$packer ttf-roboto
+$packer ttf-roboto-mono
+$packer ttf-ubuntu-font-family
+$packer upd72020x-fw
+$packer vlc
+$packer wd719x-firmware
+$packer wget
+$packer wttr
+$packer xcolor
+$packer xorg-xkill
+$packer libreoffice-fresh
+$packer libreoffice-fresh-pl
+sudo systemctl enable avahi-daemon.service
+sudo systemctl enable ntpd.service
