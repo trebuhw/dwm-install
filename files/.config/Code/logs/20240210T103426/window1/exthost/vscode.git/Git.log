@@ -1,0 +1,464 @@
+2024-02-10 10:34:33.266 [info] Log level: Info
+2024-02-10 10:34:33.266 [info] Validating found git in: "git"
+2024-02-10 10:34:33.266 [info] Using git "2.43.0" from "git"
+2024-02-10 10:34:33.266 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-10 10:34:33.266 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.266 [info] > git rev-parse --show-toplevel [35ms]
+2024-02-10 10:34:33.266 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.268 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-10 10:34:33.279 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-10 10:34:33.293 [info] Open repository: /home/hubert/Dokumenty/GitHub/dwm
+2024-02-10 10:34:33.309 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-10 10:34:33.309 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.309 [info] > git config --get commit.template [9ms]
+2024-02-10 10:34:33.327 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-10 10:34:33.327 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.334 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-02-10 10:34:33.335 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.335 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.352 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-10 10:34:33.352 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.359 [info] > git status -z -uall [8ms]
+2024-02-10 10:34:33.370 [info] > git rev-parse --show-toplevel [12ms]
+2024-02-10 10:34:33.370 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.380 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-10 10:34:33.380 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.381 [info] > git config --get commit.template [11ms]
+2024-02-10 10:34:33.420 [info] > git rev-parse --show-toplevel [25ms]
+2024-02-10 10:34:33.420 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.420 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2024-02-10 10:34:33.443 [info] > git rev-parse --show-toplevel [17ms]
+2024-02-10 10:34:33.443 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.461 [info] > git status -z -uall [2ms]
+2024-02-10 10:34:33.461 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-10 10:34:33.461 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.472 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-10 10:34:33.472 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.481 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.481 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.489 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.490 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.497 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.497 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.504 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.504 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.512 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.513 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.519 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.519 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.527 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.527 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.534 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.534 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.541 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.541 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.548 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.549 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.556 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.556 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.562 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.562 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.571 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-10 10:34:33.571 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.580 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-10 10:34:33.580 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.587 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.587 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.600 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-10 10:34:33.600 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.619 [info] > git rev-parse --show-toplevel [12ms]
+2024-02-10 10:34:33.619 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.627 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.627 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.634 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.634 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.649 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-10 10:34:33.649 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.656 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.656 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.662 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.662 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.669 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.669 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.675 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.675 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.683 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.683 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.689 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.689 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.696 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.696 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.703 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.703 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.709 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.709 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.716 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.716 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.723 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.723 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.729 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.736 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-10 10:34:33.747 [info] Open repository: /home/hubert/.config/nvim
+2024-02-10 10:34:33.761 [info] > git config --get commit.template [8ms]
+2024-02-10 10:34:33.764 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-10 10:34:33.764 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.778 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2024-02-10 10:34:33.785 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-10 10:34:33.785 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.791 [info] > git status -z -uall [7ms]
+2024-02-10 10:34:33.800 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-10 10:34:33.800 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.807 [info] > git config --get commit.template [8ms]
+2024-02-10 10:34:33.808 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.808 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.827 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-10 10:34:33.827 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.828 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [14ms]
+2024-02-10 10:34:33.840 [info] > git check-ignore -v -z --stdin [14ms]
+2024-02-10 10:34:33.841 [info] > git status -z -uall [7ms]
+2024-02-10 10:34:33.842 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.842 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.850 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.850 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.859 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.859 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.865 [info] > git fetch [573ms]
+2024-02-10 10:34:33.872 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-10 10:34:33.872 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.879 [info] > git config --get commit.template [7ms]
+2024-02-10 10:34:33.885 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-10 10:34:33.886 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.893 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-02-10 10:34:33.894 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.894 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.907 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-10 10:34:33.907 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.915 [info] > git status -z -uall [9ms]
+2024-02-10 10:34:33.915 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.915 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.925 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.925 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.934 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.934 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.943 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.943 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.950 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.951 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.958 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.958 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.965 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.965 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.971 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.971 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.979 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:33.979 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.989 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:33.989 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:33.999 [info] > git rev-parse --show-toplevel [0ms]
+2024-02-10 10:34:33.999 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.020 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-10 10:34:34.020 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.027 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:34.028 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.037 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-10 10:34:34.045 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-10 10:34:34.055 [info] Open repository: /home/hubert/Dokumenty/dwm
+2024-02-10 10:34:34.084 [info] > git show --textconv :README.md [22ms]
+2024-02-10 10:34:34.086 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-10 10:34:34.086 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.086 [info] > git config --get commit.template [10ms]
+2024-02-10 10:34:34.087 [info] > git ls-files --stage -- /home/hubert/Dokumenty/GitHub/dwm/README.md [18ms]
+2024-02-10 10:34:34.101 [info] > git cat-file -s b8e16ffd8f07561b5f16f9d4c3443feea1df595e [9ms]
+2024-02-10 10:34:34.108 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-10 10:34:34.108 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-02-10 10:34:34.116 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:34.116 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.131 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-10 10:34:34.131 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.138 [info] > git status -z -uall [8ms]
+2024-02-10 10:34:34.148 [info] > git rev-parse --show-toplevel [10ms]
+2024-02-10 10:34:34.148 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.155 [info] > git config --get commit.template [8ms]
+2024-02-10 10:34:34.156 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-10 10:34:34.156 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-10 10:34:34.156 [info] > git fetch [410ms]
+2024-02-10 10:34:34.170 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-02-10 10:34:34.171 [info] > git config --get commit.template [2ms]
+2024-02-10 10:34:34.185 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2024-02-10 10:34:34.195 [info] > git status -z -uall [12ms]
+2024-02-10 10:34:34.197 [info] > git status -z -uall [2ms]
+2024-02-10 10:34:34.606 [info] > git check-ignore -v -z --stdin [6ms]
+2024-02-10 10:34:34.607 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-10 10:34:34.616 [info] > git fetch [562ms]
+2024-02-10 10:34:34.627 [info] > git config --get commit.template [6ms]
+2024-02-10 10:34:34.628 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:34:34.639 [info] > git status -z -uall [5ms]
+2024-02-10 10:34:59.844 [info] > git config --get commit.template [20ms]
+2024-02-10 10:34:59.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-02-10 10:34:59.866 [info] > git status -z -uall [6ms]
+2024-02-10 10:35:04.912 [info] > git config --get commit.template [21ms]
+2024-02-10 10:35:04.914 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-10 10:35:04.941 [info] > git status -z -uall [8ms]
+2024-02-10 10:35:09.993 [info] > git config --get commit.template [24ms]
+2024-02-10 10:35:09.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:35:10.022 [info] > git status -z -uall [7ms]
+2024-02-10 10:35:15.072 [info] > git config --get commit.template [21ms]
+2024-02-10 10:35:15.075 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:35:15.099 [info] > git status -z -uall [6ms]
+2024-02-10 10:35:21.498 [info] > git config --get commit.template [22ms]
+2024-02-10 10:35:21.501 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:35:21.529 [info] > git status -z -uall [9ms]
+2024-02-10 10:35:38.445 [info] > git config --get commit.template [6ms]
+2024-02-10 10:35:38.445 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:35:38.452 [info] > git status -z -uall [2ms]
+2024-02-10 10:35:43.488 [info] > git config --get commit.template [13ms]
+2024-02-10 10:35:43.489 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:35:43.499 [info] > git status -z -uall [2ms]
+2024-02-10 10:35:48.520 [info] > git config --get commit.template [8ms]
+2024-02-10 10:35:48.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:35:48.530 [info] > git status -z -uall [3ms]
+2024-02-10 10:35:53.555 [info] > git config --get commit.template [11ms]
+2024-02-10 10:35:53.556 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-10 10:35:53.571 [info] > git status -z -uall [4ms]
+2024-02-10 10:36:04.960 [info] > git config --get commit.template [13ms]
+2024-02-10 10:36:04.962 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:36:04.976 [info] > git status -z -uall [4ms]
+2024-02-10 10:36:10.022 [info] > git config --get commit.template [21ms]
+2024-02-10 10:36:10.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:36:10.051 [info] > git status -z -uall [7ms]
+2024-02-10 10:37:02.890 [info] > git config --get commit.template [6ms]
+2024-02-10 10:37:02.891 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:37:02.898 [info] > git status -z -uall [2ms]
+2024-02-10 10:37:09.730 [info] > git config --get commit.template [16ms]
+2024-02-10 10:37:09.732 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-10 10:37:09.753 [info] > git status -z -uall [6ms]
+2024-02-10 10:37:14.800 [info] > git config --get commit.template [21ms]
+2024-02-10 10:37:14.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:37:14.828 [info] > git status -z -uall [7ms]
+2024-02-10 10:37:20.885 [info] > git config --get commit.template [21ms]
+2024-02-10 10:37:20.888 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:37:20.913 [info] > git status -z -uall [7ms]
+2024-02-10 10:37:27.661 [info] > git config --get commit.template [16ms]
+2024-02-10 10:37:27.662 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-10 10:37:27.674 [info] > git status -z -uall [3ms]
+2024-02-10 10:37:34.582 [info] > git fetch [645ms]
+2024-02-10 10:37:34.624 [info] > git config --get commit.template [22ms]
+2024-02-10 10:37:34.627 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:37:34.660 [info] > git status -z -uall [17ms]
+2024-02-10 10:37:34.684 [info] > git fetch [467ms]
+2024-02-10 10:37:34.700 [info] > git config --get commit.template [8ms]
+2024-02-10 10:37:34.706 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [6ms]
+2024-02-10 10:37:34.715 [info] > git status -z -uall [3ms]
+2024-02-10 10:37:35.249 [info] > git fetch [590ms]
+2024-02-10 10:37:35.290 [info] > git config --get commit.template [20ms]
+2024-02-10 10:37:35.296 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-02-10 10:37:35.337 [info] > git status -z -uall [22ms]
+2024-02-10 10:37:35.890 [info] > git config --get commit.template [20ms]
+2024-02-10 10:37:35.923 [info] > git config --get commit.template [37ms]
+2024-02-10 10:37:35.924 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [17ms]
+2024-02-10 10:37:35.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-02-10 10:37:35.947 [info] > git status -z -uall [13ms]
+2024-02-10 10:37:35.952 [info] > git status -z -uall [6ms]
+2024-02-10 10:37:36.410 [info] > git config --get commit.template [20ms]
+2024-02-10 10:37:36.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:37:36.455 [info] > git status -z -uall [23ms]
+2024-02-10 10:37:36.484 [info] > git ls-files --stage -- /home/hubert/Dokumenty/GitHub/dwm/README.md [3ms]
+2024-02-10 10:37:36.496 [info] > git cat-file -s b8e16ffd8f07561b5f16f9d4c3443feea1df595e [2ms]
+2024-02-10 10:37:36.512 [info] > git show --textconv :README.md [4ms]
+2024-02-10 10:37:43.012 [info] > git config --get commit.template [6ms]
+2024-02-10 10:37:43.013 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:37:43.021 [info] > git status -z -uall [2ms]
+2024-02-10 10:37:50.502 [info] > git config --get commit.template [21ms]
+2024-02-10 10:37:50.506 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:37:50.533 [info] > git status -z -uall [8ms]
+2024-02-10 10:37:58.958 [info] > git config --get commit.template [1ms]
+2024-02-10 10:37:58.965 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:37:58.972 [info] > git status -z -uall [2ms]
+2024-02-10 10:38:04.014 [info] > git config --get commit.template [20ms]
+2024-02-10 10:38:04.016 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:38:04.041 [info] > git status -z -uall [6ms]
+2024-02-10 10:38:09.087 [info] > git config --get commit.template [20ms]
+2024-02-10 10:38:09.090 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:38:09.115 [info] > git status -z -uall [7ms]
+2024-02-10 10:38:14.160 [info] > git config --get commit.template [21ms]
+2024-02-10 10:38:14.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:38:14.188 [info] > git status -z -uall [7ms]
+2024-02-10 10:38:19.217 [info] > git config --get commit.template [6ms]
+2024-02-10 10:38:19.218 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:38:19.225 [info] > git status -z -uall [2ms]
+2024-02-10 10:38:24.267 [info] > git config --get commit.template [17ms]
+2024-02-10 10:38:24.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-10 10:38:24.284 [info] > git status -z -uall [4ms]
+2024-02-10 10:38:29.330 [info] > git config --get commit.template [21ms]
+2024-02-10 10:38:29.334 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:38:29.360 [info] > git status -z -uall [8ms]
+2024-02-10 10:38:34.519 [info] > git config --get commit.template [17ms]
+2024-02-10 10:38:34.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-10 10:38:34.533 [info] > git status -z -uall [3ms]
+2024-02-10 10:38:39.578 [info] > git config --get commit.template [22ms]
+2024-02-10 10:38:39.581 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:38:39.607 [info] > git status -z -uall [7ms]
+2024-02-10 10:38:55.261 [info] > git config --get commit.template [8ms]
+2024-02-10 10:38:55.262 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:38:55.274 [info] > git status -z -uall [4ms]
+2024-02-10 10:39:00.321 [info] > git config --get commit.template [20ms]
+2024-02-10 10:39:00.324 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:39:00.350 [info] > git status -z -uall [7ms]
+2024-02-10 10:39:27.080 [info] > git config --get commit.template [21ms]
+2024-02-10 10:39:27.083 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:39:27.109 [info] > git status -z -uall [8ms]
+2024-02-10 10:39:32.158 [info] > git config --get commit.template [22ms]
+2024-02-10 10:39:32.161 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:39:32.187 [info] > git status -z -uall [7ms]
+2024-02-10 10:39:37.232 [info] > git config --get commit.template [20ms]
+2024-02-10 10:39:37.235 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-10 10:39:37.260 [info] > git status -z -uall [7ms]
+2024-02-10 10:39:42.376 [info] > git config --get commit.template [23ms]
+2024-02-10 10:39:42.379 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:39:42.397 [info] > git status -z -uall [4ms]
+2024-02-10 10:40:17.556 [info] > git config --get commit.template [7ms]
+2024-02-10 10:40:17.563 [info] > git ls-files --stage -- /home/hubert/Dokumenty/GitHub/dwm/README.md [7ms]
+2024-02-10 10:40:17.568 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:40:17.575 [info] > git cat-file -s 5c98230fd8783796255d3839fd36dc68a50316e8 [7ms]
+2024-02-10 10:40:17.582 [info] > git status -z -uall [7ms]
+2024-02-10 10:40:17.586 [info] > git show --textconv :README.md [4ms]
+2024-02-10 10:40:22.628 [info] > git config --get commit.template [21ms]
+2024-02-10 10:40:22.631 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:40:22.658 [info] > git status -z -uall [8ms]
+2024-02-10 10:40:35.257 [info] > git fetch [521ms]
+2024-02-10 10:40:35.269 [info] > git config --get commit.template [5ms]
+2024-02-10 10:40:35.273 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [4ms]
+2024-02-10 10:40:35.280 [info] > git status -z -uall [3ms]
+2024-02-10 10:40:35.295 [info] > git fetch [609ms]
+2024-02-10 10:40:35.306 [info] > git config --get commit.template [5ms]
+2024-02-10 10:40:35.307 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:40:35.314 [info] > git status -z -uall [2ms]
+2024-02-10 10:40:35.330 [info] > git config --get commit.template [7ms]
+2024-02-10 10:40:35.331 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:40:35.338 [info] > git status -z -uall [2ms]
+2024-02-10 10:40:36.127 [info] > git fetch [782ms]
+2024-02-10 10:40:36.127 [info] From https://github.com/trebuhw/dwm
+   64a9d43..276ddf0  master     -> origin/master
+2024-02-10 10:40:36.157 [info] > git config --get commit.template [11ms]
+2024-02-10 10:40:36.179 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:40:36.198 [info] > git status -z -uall [9ms]
+2024-02-10 10:40:36.499 [info] > git config --get commit.template [4ms]
+2024-02-10 10:40:36.517 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2024-02-10 10:40:36.526 [info] > git status -z -uall [2ms]
+2024-02-10 10:40:37.326 [info] > git ls-files --stage -- /home/hubert/Dokumenty/GitHub/dwm/README.md [5ms]
+2024-02-10 10:40:37.349 [info] > git cat-file -s 5c98230fd8783796255d3839fd36dc68a50316e8 [5ms]
+2024-02-10 10:40:37.368 [info] > git show --textconv :README.md [3ms]
+2024-02-10 10:40:40.384 [info] > git config --get commit.template [21ms]
+2024-02-10 10:40:40.387 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:40:40.413 [info] > git status -z -uall [7ms]
+2024-02-10 10:40:45.465 [info] > git config --get commit.template [22ms]
+2024-02-10 10:40:45.469 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:40:45.495 [info] > git status -z -uall [7ms]
+2024-02-10 10:41:14.960 [info] > git config --get commit.template [21ms]
+2024-02-10 10:41:14.963 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-10 10:41:14.990 [info] > git status -z -uall [8ms]
+2024-02-10 10:41:23.368 [info] > git config --get commit.template [21ms]
+2024-02-10 10:41:23.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:41:23.398 [info] > git status -z -uall [7ms]
+2024-02-10 10:41:28.417 [info] > git config --get commit.template [6ms]
+2024-02-10 10:41:28.418 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:41:28.426 [info] > git status -z -uall [2ms]
+2024-02-10 10:41:38.104 [info] > git config --get commit.template [9ms]
+2024-02-10 10:41:38.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:41:38.115 [info] > git status -z -uall [3ms]
+2024-02-10 10:41:43.165 [info] > git config --get commit.template [24ms]
+2024-02-10 10:41:43.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-02-10 10:41:43.190 [info] > git status -z -uall [5ms]
+2024-02-10 10:41:48.235 [info] > git config --get commit.template [22ms]
+2024-02-10 10:41:48.238 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:41:48.264 [info] > git status -z -uall [7ms]
+2024-02-10 10:41:53.312 [info] > git config --get commit.template [20ms]
+2024-02-10 10:41:53.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-02-10 10:41:53.341 [info] > git status -z -uall [7ms]
+2024-02-10 10:41:58.363 [info] > git config --get commit.template [9ms]
+2024-02-10 10:41:58.364 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:41:58.376 [info] > git status -z -uall [4ms]
+2024-02-10 10:42:03.395 [info] > git config --get commit.template [6ms]
+2024-02-10 10:42:03.395 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:42:03.403 [info] > git status -z -uall [2ms]
+2024-02-10 10:42:14.497 [info] > git config --get commit.template [5ms]
+2024-02-10 10:42:14.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-10 10:42:14.505 [info] > git status -z -uall [2ms]
+2024-02-10 10:42:33.019 [info] > git config --get commit.template [6ms]
+2024-02-10 10:42:33.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-10 10:42:33.029 [info] > git status -z -uall [3ms]

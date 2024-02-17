@@ -1,0 +1,1 @@
+/home/hubert/.config/fish/config.fish

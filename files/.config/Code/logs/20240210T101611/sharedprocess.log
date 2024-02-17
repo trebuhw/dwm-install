@@ -1,0 +1,76 @@
+2024-02-10 10:16:18.907 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-10 10:16:21.649 [info] Getting Manifest... arrterian.nix-env-selector
+2024-02-10 10:16:21.651 [info] Getting Manifest... ms-python.python
+2024-02-10 10:16:21.652 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-10 10:16:21.734 [info] Installing extension: ms-python.python
+2024-02-10 10:16:21.736 [info] Installing extension: ms-python.vscode-pylance
+2024-02-10 10:16:21.756 [info] Installing extension: arrterian.nix-env-selector
+2024-02-10 10:16:22.256 [info] Getting Manifest... ms-python.debugpy
+2024-02-10 10:16:22.389 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-10 10:16:22.405 [info] Getting Manifest... ms-python.python
+2024-02-10 10:16:22.760 [info] Getting Manifest... ms-python.debugpy
+2024-02-10 10:16:22.825 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-02-10 10:16:22.825 [info] Waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance
+2024-02-10 10:16:24.318 [info] Extension signature is verified: arrterian.nix-env-selector
+2024-02-10 10:16:24.424 [info] Extracted extension to file:///home/hubert/.vscode/extensions/arrterian.nix-env-selector-1.0.11: arrterian.nix-env-selector
+2024-02-10 10:16:24.428 [info] Renamed to /home/hubert/.vscode/extensions/arrterian.nix-env-selector-1.0.11
+2024-02-10 10:16:24.429 [info] Extracting extension completed. arrterian.nix-env-selector
+2024-02-10 10:16:24.440 [info] Extension installed successfully: arrterian.nix-env-selector
+2024-02-10 10:16:24.445 [info] Marked extension as uninstalled arrterian.nix-env-selector-1.0.10
+2024-02-10 10:16:24.505 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-10 10:16:24.690 [info] Extension signature is verified: ms-python.debugpy
+2024-02-10 10:16:25.135 [info] Extracted extension to file:///home/hubert/.vscode/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-10 10:16:25.140 [info] Renamed to /home/hubert/.vscode/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-10 10:16:25.142 [info] Extracting extension completed. ms-python.debugpy
+2024-02-10 10:16:25.222 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-10 10:16:25.355 [info] Extension signature is verified: ms-python.vscode-pylance
+2024-02-10 10:16:27.395 [info] Extension signature is verified: ms-python.python
+2024-02-10 10:16:29.748 [info] Extracted extension to file:///home/hubert/.vscode/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-10 10:16:29.754 [info] Renamed to /home/hubert/.vscode/extensions/ms-python.python-2024.0.1
+2024-02-10 10:16:29.758 [info] Extracting extension completed. ms-python.python
+2024-02-10 10:16:29.767 [info] Extension installed successfully: ms-python.debugpy
+2024-02-10 10:16:29.767 [info] Extension installed successfully: ms-python.python
+2024-02-10 10:16:29.768 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-02-10 10:16:29.768 [info] Finished waiting for already requested installing extension ms-python.debugpy ms-python.vscode-pylance
+2024-02-10 10:16:29.775 [info] Marked extension as uninstalled ms-python.python-2023.22.1
+2024-02-10 10:16:29.843 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-10 10:16:29.949 [info] Extracted extension to file:///home/hubert/.vscode/extensions/ms-python.vscode-pylance-2024.2.1: ms-python.vscode-pylance
+2024-02-10 10:16:29.953 [info] Renamed to /home/hubert/.vscode/extensions/ms-python.vscode-pylance-2024.2.1
+2024-02-10 10:16:29.956 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-10 10:16:29.963 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-10 10:16:29.968 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.12.1
+2024-02-10 10:16:30.036 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)

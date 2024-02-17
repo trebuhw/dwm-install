@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "/home/hubert/.config/Code"
+		},
+		{
+			"path": "../../../dunst"
+		},
+		{
+			"path": "../../../fish"
+		},
+		{
+			"path": "../../../hypr"
+		},
+		{
+			"path": "../../../i3"
+		}
+	],
+	"settings": {}
+}

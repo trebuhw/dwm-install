@@ -1,0 +1,100 @@
+2024-01-20 12:56:19.214 [info] Getting Manifest... pkief.material-icon-theme
+2024-01-20 12:56:19.216 [info] Getting Manifest... yzhang.markdown-all-in-one
+2024-01-20 12:56:19.315 [info] Installing extension: yzhang.markdown-all-in-one
+2024-01-20 12:56:19.327 [info] Installing extension: pkief.material-icon-theme
+2024-01-20 12:56:21.267 [info] Extension signature is verified: yzhang.markdown-all-in-one
+2024-01-20 12:56:21.285 [info] Extension signature is verified: pkief.material-icon-theme
+2024-01-20 12:56:21.352 [info] Extracted extension to file:///home/hubert/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2: yzhang.markdown-all-in-one
+2024-01-20 12:56:21.356 [info] Renamed to /home/hubert/.vscode/extensions/yzhang.markdown-all-in-one-3.6.2
+2024-01-20 12:56:21.359 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2024-01-20 12:56:21.369 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2024-01-20 12:56:21.374 [info] Marked extension as uninstalled yzhang.markdown-all-in-one-3.5.1
+2024-01-20 12:56:21.444 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-20 12:56:21.842 [info] Extracted extension to file:///home/hubert/.vscode/extensions/pkief.material-icon-theme-4.33.0: pkief.material-icon-theme
+2024-01-20 12:56:21.846 [info] Renamed to /home/hubert/.vscode/extensions/pkief.material-icon-theme-4.33.0
+2024-01-20 12:56:21.847 [info] Extracting extension completed. pkief.material-icon-theme
+2024-01-20 12:56:21.855 [info] Extension installed successfully: pkief.material-icon-theme
+2024-01-20 12:56:21.864 [info] Marked extension as uninstalled pkief.material-icon-theme-4.32.0
+2024-01-20 12:56:21.928 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-20 12:57:20.700 [info] Getting Manifest... bbenoist.nix
+2024-01-20 12:57:20.710 [info] Installing extension: bbenoist.nix
+2024-01-20 12:57:22.097 [info] Extension signature is verified: bbenoist.nix
+2024-01-20 12:57:22.108 [info] Extracted extension to file:///home/hubert/.vscode/extensions/bbenoist.nix-1.0.1: bbenoist.nix
+2024-01-20 12:57:22.110 [info] Renamed to /home/hubert/.vscode/extensions/bbenoist.nix-1.0.1
+2024-01-20 12:57:22.112 [info] Extracting extension completed. bbenoist.nix
+2024-01-20 12:57:22.119 [info] Extension installed successfully: bbenoist.nix
+2024-01-20 12:57:22.196 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-20 12:57:54.272 [info] Getting Manifest... pinage404.nix-extension-pack
+2024-01-20 12:57:54.282 [info] Installing extension: pinage404.nix-extension-pack
+2024-01-20 12:57:54.616 [info] Getting Manifest... jnoortheen.nix-ide
+2024-01-20 12:57:54.641 [info] Getting Manifest... arrterian.nix-env-selector
+2024-01-20 12:57:54.670 [info] Getting Manifest... mkhl.direnv
+2024-01-20 12:57:54.798 [info] Installing extension: jnoortheen.nix-ide pinage404.nix-extension-pack
+2024-01-20 12:57:54.798 [info] Installing extension: arrterian.nix-env-selector pinage404.nix-extension-pack
+2024-01-20 12:57:54.798 [info] Installing extension: mkhl.direnv pinage404.nix-extension-pack
+2024-01-20 12:57:56.279 [info] Extension signature is verified: jnoortheen.nix-ide
+2024-01-20 12:57:56.303 [info] Extracted extension to file:///home/hubert/.vscode/extensions/jnoortheen.nix-ide-0.2.2: jnoortheen.nix-ide
+2024-01-20 12:57:56.306 [info] Renamed to /home/hubert/.vscode/extensions/jnoortheen.nix-ide-0.2.2
+2024-01-20 12:57:56.308 [info] Extracting extension completed. jnoortheen.nix-ide
+2024-01-20 12:57:56.387 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-20 12:57:56.435 [info] Extension signature is verified: arrterian.nix-env-selector
+2024-01-20 12:57:56.513 [info] Extracted extension to file:///home/hubert/.vscode/extensions/arrterian.nix-env-selector-1.0.10: arrterian.nix-env-selector
+2024-01-20 12:57:56.516 [info] Renamed to /home/hubert/.vscode/extensions/arrterian.nix-env-selector-1.0.10
+2024-01-20 12:57:56.517 [info] Extracting extension completed. arrterian.nix-env-selector
+2024-01-20 12:57:56.599 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-20 12:58:01.283 [info] Extension signature is verified: mkhl.direnv
+2024-01-20 12:58:01.290 [info] Extracted extension to file:///home/hubert/.vscode/extensions/mkhl.direnv-0.16.0: mkhl.direnv
+2024-01-20 12:58:01.293 [info] Renamed to /home/hubert/.vscode/extensions/mkhl.direnv-0.16.0
+2024-01-20 12:58:01.295 [info] Extracting extension completed. mkhl.direnv
+2024-01-20 12:58:01.376 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-01-20 12:58:02.483 [info] Extension signature is verified: pinage404.nix-extension-pack
+2024-01-20 12:58:02.489 [info] Extracted extension to file:///home/hubert/.vscode/extensions/pinage404.nix-extension-pack-3.0.0: pinage404.nix-extension-pack
+2024-01-20 12:58:02.492 [info] Renamed to /home/hubert/.vscode/extensions/pinage404.nix-extension-pack-3.0.0
+2024-01-20 12:58:02.493 [info] Extracting extension completed. pinage404.nix-extension-pack
+2024-01-20 12:58:02.500 [info] Extension installed successfully: jnoortheen.nix-ide
+2024-01-20 12:58:02.501 [info] Extension installed successfully: arrterian.nix-env-selector
+2024-01-20 12:58:02.501 [info] Extension installed successfully: mkhl.direnv
+2024-01-20 12:58:02.501 [info] Extension installed successfully: pinage404.nix-extension-pack
+2024-01-20 12:58:02.574 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hubert/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
