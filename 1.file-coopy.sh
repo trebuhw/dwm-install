@@ -1,21 +1,18 @@
 #!/bin/bash
 
 
-cd ~/dwm-install/files/
+cp ~/dwm-install/files/etc/pacman.conf /etc
+cp ~/dwm-install/files/etc/tlp.conf /etc
+cp ~/dwm-install/files/etc/pacman.d/arcolinux-mirrorlist /etc/pacman.d
 
 cp ~/dwm-install/files/.vimrc ~/
 cp ~/dwm-install/files/.xinitrc ~/
 cp ~/dwm-install/files/.Xresources ~/
+cp ~/dwm-install/files/.config/dwm/.icons ~/
 
 cp -r ~/dwm-install/files/.config/* ~/.config
 
-cd etc && sudo cp pacman.conf tlp.conf /etc
-
-cd pacman.d && sudo cp arcolinux-mirrorlist /etc/pacman.d
-
-cp ~/dwm-install/files/.config/dwm/.icons ~/
-
-sudo cp ~/dwm-install/files/.config/dwm/usr/share/* /usr
+sudo cp ~/dwm-install/files/usr/share/* /usr
 
 
 cd ~/.config/dwm && make && sudo make clean install
