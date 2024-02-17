@@ -1,14 +1,15 @@
 #!/bin/bash
 
 
-sudo cp ~/dwm-install/files/etc/pacman.conf /etc
+#sudo cp ~/dwm-install/files/etc/pacman.conf /etc
 sudo cp ~/dwm-install/files/etc/tlp.conf /etc
-sudo cp ~/dwm-install/files/etc/pacman.d/arcolinux-mirrorlist /etc/pacman.d
+#sudo cp ~/dwm-install/files/etc/pacman.d/arcolinux-mirrorlist /etc/pacman.d
 sudo cp -r ~/dwm-install/files/usr/share/* /usr/share
 
-sudo pacman-key --init
-sudo pacman-key --refresh-keys
-sudo pacman -Sy archlinux-keyring
+#sudo pacman-key --init
+#sudo pacman-key --refresh-keys
+#sudo pacman -Sy archlinux-keyring
+
 sudo pacman -Syyu
 
 
