@@ -65,8 +65,7 @@ $packer numlockx
 $packer nm-applet
 $packer xclip
 yay archlinux-tweak-tool-git
-
-
+yay google-chrome-stable
 
 exit 0
 
