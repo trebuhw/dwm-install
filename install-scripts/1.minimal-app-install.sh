@@ -22,7 +22,6 @@ $packer bash-completion
 $packer brightnessctl
 $packer btop
 $packer cups
-$packer dunst
 $packer fastfetch
 $packer feh
 $packer file-roller
