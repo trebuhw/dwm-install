@@ -11,9 +11,14 @@ sudo pacman -Syyu
 cp ~/dwm-install/files/.vimrc ~/
 cp ~/dwm-install/files/.xinitrc ~/
 cp ~/dwm-install/files/.Xresources ~/
+cp ~/dwm-install/files/.background ~/
+cp ~/dwm-install/files/.bash_history ~/
+cp ~/dwm-install/files/.bashrc ~/
 cp ~/dwm-install/files/.config/dwm/.icons ~/
 
 cp -r ~/dwm-install/files/.config/* ~/.config
+
+sudo chsh hubert -s /bin/fish
 
 cd ~/.config/dwm && make && sudo make clean install
 cd ~/.config/dwm/dmenu && make && sudo make clean install
