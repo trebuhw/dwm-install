@@ -56,6 +56,7 @@ $packer tlp
 $packer ttf-jetbrains-mono-nerd
 $packer arc-gtk-theme
 $packer papirus-icon-theme
+$packer yazi
 
 exit 0
 

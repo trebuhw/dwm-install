@@ -3,7 +3,9 @@
 
 cd ~/dwm-install/files/
 
-cp .vimrc .xinitrc .Xresorces ~/
+cp ~/dwm-install/files/.vimrc ~/
+cp ~/dwm-install/files/.xinitrc ~/
+cp ~/dwm-install/files/.Xresources ~/
 
 cp -r ~/dwm-install/files/.config/* ~/.config
 
