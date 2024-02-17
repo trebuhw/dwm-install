@@ -5,6 +5,8 @@ cp ~/dwm-install/files/etc/pacman.conf /etc
 cp ~/dwm-install/files/etc/tlp.conf /etc
 cp ~/dwm-install/files/etc/pacman.d/arcolinux-mirrorlist /etc/pacman.d
 
+sudo pacman -Syyu
+
 cp ~/dwm-install/files/.vimrc ~/
 cp ~/dwm-install/files/.xinitrc ~/
 cp ~/dwm-install/files/.Xresources ~/
