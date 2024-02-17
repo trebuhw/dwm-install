@@ -72,9 +72,6 @@ $packer yazi
 $packer zathura
 yay archlinux-tweak-tool-git
 yay bibata-cursor-theme
-yay dracula-gtk-theme
-yay dracula-cursors-git
-yay dracula-icons-git
 
 exit 0
 
