@@ -47,7 +47,6 @@ $packer cups
 $packer sublime-text
 $packer libreoffice
 $packer libreoffice-l10n-pl
-$packer sxhkd
 
 cd ~/Pobrane && mkdir -p Suckless && cd Suckless
 
