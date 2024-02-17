@@ -43,6 +43,7 @@ $packer i3color
 $packer gcolor2
 $packer brigtnessctl
 $packer lm-sensors
+$packer picom
 $packer polkit
 $packer polkit-gnome
 $packer cups
