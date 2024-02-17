@@ -58,6 +58,7 @@ $packer ttf-jetbrains-mono-nerd
 $packer arc-gtk-theme
 $packer papirus-icon-theme
 $packer yazi
+$packer trash-cli
 
 exit 0
 
