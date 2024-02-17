@@ -44,10 +44,10 @@ $packer tldr
 $packer zathura
 $packer sxiv
 $packer rofi
-$packer i3lock-color
-$packer gcolor2
-$packer brigtnessctl
-$packer lm-sensors
+$packer i3lock
+$packer gcolor3
+$packer brightnessctl
+$packer lm_sensors
 $packer picom
 $packer polkit
 $packer polkit-gnome
@@ -68,6 +68,7 @@ $packer xclip
 $packer xfce4-notifyd
 yay archlinux-tweak-tool-git
 yay google-chrome-stable
+yay sublime-text-4
 
 exit 0
 
