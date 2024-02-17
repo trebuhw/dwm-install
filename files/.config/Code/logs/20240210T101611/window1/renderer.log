@@ -1,7 +1,0 @@
-2024-02-10 10:16:17.544 [info] Started local extension host with pid 7376.
-2024-02-10 10:16:18.076 [error] Extension 'ms-python.python' wants API proposal 'saveEditor' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-02-10 10:16:18.581 [error] [Extension Host] Command error ["nix-instantiate","--parse","/home/hubert/Dokumenty/GitHub/nixos/etc/nixos/configuration.nix"] Error: spawn nix-instantiate ENOENT
-	at Process.onexit (node:internal/child_process:283:19)
-	at onErrorNT (node:internal/child_process:476:16)
-	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
-2024-02-10 10:16:20.648 [info] [perf] Render performance baseline is 45ms

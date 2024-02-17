@@ -1,8 +1,0 @@
-2024-01-27 20:09:03.897 [info] Extension host with pid 19381 started
-2024-01-27 20:09:03.897 [info] Skipping acquiring lock for /home/hubert/.config/Code/User/workspaceStorage/e8079e6f2b6f6ba4ed5e6aaab07f7f5e.
-2024-01-27 20:09:04.199 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-01-27 20:09:04.208 [info] ExtensionService#_doActivateExtension arrterian.nix-env-selector, startup: false, activationEvent: 'onLanguage'
-2024-01-27 20:09:04.240 [info] ExtensionService#_doActivateExtension mkhl.direnv, startup: false, activationEvent: 'onLanguage'
-2024-01-27 20:09:04.244 [info] ExtensionService#_doActivateExtension jnoortheen.nix-ide, startup: false, activationEvent: 'onLanguage:nix'
-2024-01-27 20:09:04.384 [info] Extension host terminating: renderer closed the MessagePort
-2024-01-27 20:09:04.387 [info] Extension host with pid 19381 exiting with code 0
