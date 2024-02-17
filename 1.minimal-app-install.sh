@@ -22,6 +22,7 @@ $packer xorg-xsetroot
 $packer xdg-user-dirs
 $packer bash-completion
 $packer kitty
+$packer alacritty
 $packer thunar
 $packer firefox
 $packer git
