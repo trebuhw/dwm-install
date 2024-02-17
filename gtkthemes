@@ -2,7 +2,13 @@
 
 ## Set GTK Themes, Icons, Cursor and Fonts
 
-THEME='Dracula'
+packer="sudo pacman -S --noconfirm --needed"
+
+sudo $packer ttf-jetbrains-mono-nerd
+sudo $packer arc-gtk-theme
+sudo $packer papirus-icon-theme
+
+THEME='arc-darc'
 ICONS='Papirus-Dark'
 FONT='JetBrainsMono Nerd Font 10'
 CURSOR='Dracula-cursors'
