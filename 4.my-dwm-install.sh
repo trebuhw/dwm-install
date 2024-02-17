@@ -1,11 +1,10 @@
 #!/bin/bash
 
-cd ~/.config/dwm && make && sudo make clean install
-cd ~/.config/dwm/dmenu && make && sudo make clean install
-#cd ~/.config/dwm/slstatus && make && sudo make clean install
-cd ~/.config/dwm/st && make && sudo make clean install
-
-cd ~/.config/suckless/slstatus && make && sudo make clean install
+cd ~/.config/suckless/dmenu && make && sudo make clean install && cd ~/
+cd ~/.config/suckless/dwm && make && sudo make clean install && cd ~/
+#cd ~/.config/dwm/dwmblocks && make && sudo make clean install && cd ~/
+cd ~/.config/dwm/slstatus && make && sudo make clean install && cd ~/
+cd ~/.config/dwm/st && make && sudo make clean install && cd ~/
 
 ## Install Suckless slstatus błąd w mojej instalacji
 #mkdir ~/.config/dwm/suckles/
