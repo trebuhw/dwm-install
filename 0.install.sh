@@ -1,11 +1,12 @@
 #!/bin/bash
 
-cd ~/dwm-install/ && sh file-coppy.sh
-cd ~/dwm-install/ && sh app-install
-cd ~/dwm-install/ && sh my-dwm-install
-cd ~/dwm-install/ && sh gtkthemes
+cd ~/dwm-install/ && 
+sh 1.minimal-app-install.sh && 
+sh 3.file-copy.sh && 
+sh 4.my-dwm-install.sh && 
+sh 5.set-gtkthemes.sh &&
 
-sudo reboot
+cd ~/.config/dwm/slstatus && make && sudo make clean install
 
+systemctl reboot
 
-exit 0
