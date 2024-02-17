@@ -59,6 +59,8 @@ $packer arc-gtk-theme
 $packer papirus-icon-theme
 $packer yazi
 $packer trash-cli
+$packer numlockx
+$packer nm-applet
 
 exit 0
 

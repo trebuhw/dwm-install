@@ -1,0 +1,70 @@
+#################################################################
+#     SUPER KEYS
+#################################################################
+
+# st
+alt + Return
+    st
+
+# Sublime-text-4
+super + s
+    subl
+
+#Rofi
+alt + d
+    rofi -show drun
+
+#Rofi
+shift + alt + d
+    rofi -show run    
+
+#Pavucontrol
+super + v
+    pavucontrol
+
+# Restart DWM
+super + shift + q
+    pkill dwm
+
+
+
+#################################################################
+#     MULTIMEDIA KEYS
+#################################################################
+
+#Raises volume
+XF86AudioRaiseVolume
+    ~/.config/hypr/scripts/volume --inc
+
+#Lowers volume
+XF86AudioLowerVolume
+    ~/.config/hypr/scripts/volume --dec
+
+#Mute
+XF86AudioMute
+    ~/.config/hypr/scripts/volume --toogle
+
+#PLAY
+XF86AudioPlay
+    playerctl play-pause
+
+#Next
+XF86AudioNext
+    playerctl next
+
+#previous
+XF86AudioPrev
+    playerctl previous
+
+#Stop
+XF86AudioStop
+    playerctl stop
+
+#Brightness up
+XF86MonBrightnessUp
+    brightnessctl s 10%+
+
+#Brightness down
+XF86MonBrightnessDown
+    brightnessctl s 10%-
+
