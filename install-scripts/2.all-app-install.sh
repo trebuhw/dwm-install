@@ -25,6 +25,7 @@ $packer git
 $packer gitahead-bin
 $packer gitfiend
 $packer gnome-disk-utility
+$packer google-chrome
 $packer gparted
 $packer grub-customizer
 $packer gtop
@@ -62,6 +63,7 @@ $packer rate-mirrors-bin
 $packer ripgrep
 $packer rsync
 $packer scrot
+$packer sublime-text-4
 $packer simplescreenrecorder
 $packer sparklines-git
 $packer speedtest-cli-git

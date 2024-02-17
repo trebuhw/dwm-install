@@ -53,6 +53,7 @@ $packer starship
 $packer sxhkd
 $packer sxiv
 $packer thunar
+$packer thunar-volman
 $packer tldr
 $packer tlp
 $packer trash-cli
@@ -74,8 +75,6 @@ yay bibata-cursor-theme
 yay dracula-gtk-theme
 yay dracula-cursors-git
 yay dracula-icons-git
-yay google-chrome-stable
-yay sublime-text-4
 
 exit 0
 
