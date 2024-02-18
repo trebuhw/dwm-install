@@ -1,1 +1,0 @@
-Vue.component("app-modal",{template:"#app-modal-template"});

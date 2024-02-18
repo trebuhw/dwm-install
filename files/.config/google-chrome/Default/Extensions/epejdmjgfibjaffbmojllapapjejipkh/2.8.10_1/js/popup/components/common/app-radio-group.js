@@ -1,1 +1,0 @@
-Vue.component("app-radio-group",{name:"app-radio-group",template:"#app-radio-template",props:["options","value"],methods:{select(option){this.$emit("input",option.value)}}});
