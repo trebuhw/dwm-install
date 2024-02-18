@@ -1,5 +1,19 @@
 # dwm-install Archlinux
 
+### **Keybindings:**
+
+- `super=alt` `ModKey1` - default
+- `super=win` `ModKey4` - alternate
+- `super + enter` = terminal `kitty`
+- `super + c` = web browser `google-chrome-stable`
+- `super + s` = editor `sublime-text-4`
+- `super + d` = launcher `dmenu`
+- `super + p` = launcher `dmenu - powermenu`
+- `alt + d` = launcher `rofi -show drun`
+- `alt + shift+ d` = launcher `rofi -show run`
+- `super + q` = kill window `pkill`
+- `super + shift + q` = reload `dwm`
+
 1. **Install scripts:** `0.install.sh`
 
 2. **Reboot (automate)**
