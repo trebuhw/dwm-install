@@ -1,1 +1,5 @@
-TerminalEmulator=kitty
+FileManager=Thunar
+TerminalEmulator=xfce4-terminal
+MailReader=thunderbird
+WebBrowser=google-chrome
+
