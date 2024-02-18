@@ -1,5 +1,5 @@
 FileManager=Thunar
-TerminalEmulator=xfce4-terminal
+TerminalEmulator=kitty
 MailReader=thunderbird
-WebBrowser=google-chrome
+WebBrowser=google-chrome-stable
 
