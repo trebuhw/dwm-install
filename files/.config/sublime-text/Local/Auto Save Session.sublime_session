@@ -327,7 +327,7 @@
 					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/README.md",
 					"settings":
 					{
-						"buffer_size": 2424,
+						"buffer_size": 2435,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -1472,6 +1472,14 @@
 							},
 							"AQAAAG0GAAAAAAAAbgYAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAAbQYAAAAAAABtBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							156,
+							1,
+							"",
+							null,
+							"AgAAAHgGAAAAAAAAlAYAAAAAAAAAAAAAlAYAAAAAAACUBgAAAAAAABEAAAAvZXRjL2RlZmF1bHQvZ3J1Yg",
+							"AQAAAAAAAAABAAAAiQYAAAAAAAB4BgAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1861,15 +1869,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2424,
+								"buffer_size": 2435,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1646,
-										1646
+										1685,
+										1685
 									]
 								],
 								"settings":

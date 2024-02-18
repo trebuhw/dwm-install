@@ -75,7 +75,7 @@ Detection of other systems and update of grub
 
 - find os-prober 
 
-- delate # `/etc/default/grub`
+- delate # `GRUB_DISABLE_OS_PROBER=false`
 
 - run `update-grub`
 
