@@ -1,8 +1,10 @@
 # dwm-install Archlinux
 
-1. **Install scripts:** `00.install.sh` - `(01.minimal-app-install.sh`, `03.file-copy.sh`, `04.my-dwm-install.sh`, `05.set-gtkthemes-arc.sh`)
+1. **Install scripts:** `00.install.sh`
 
-`remove "#" 00.install.sh if you want to install immediately 07-install-bluetooth.sh, 08-install-cups.sh, 09.install-virtualbox.sh`  
+- he installs `(01.minimal-app-install.sh`, `03.file-copy.sh`, `04.my-dwm-install.sh`, `05.set-gtkthemes-arc.sh`)
+
+- remove "#" `00.install.sh` if you want to install immediately `07-install-bluetooth.sh`, `08-install-cups.sh`, `09.install-virtualbox.sh`  
 
 ---
 
