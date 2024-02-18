@@ -1,6 +1,18 @@
 # dwm-install Archlinux
 
-1. **Install scripts:** `00.install.sh`
+1.**Install Archlinux:**
+
+- Download archlinux, do `archinstall`, do `minimal install`, install `git, vim, kitty, firefox`. Restart.
+
+- Log in,
+
+- run `pacman -Syyu`
+
+- `git clone http://github.com/trebuhw/dwm-install.git`
+
+- cd `~/dwm-install.git`
+
+2. **Install scripts:** `00.install.sh`
 
 - he installs `(01.minimal-app-install.sh`, `03.file-copy.sh`, `04.my-dwm-install.sh`, `05.set-gtkthemes-arc.sh`)
 
@@ -8,21 +20,27 @@
 
 ---
 
-2. **Reboot (automate)**
+3. **Reboot (automate)**
 
 ---
 
-3. Run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
+4. **Start DWM**
+
+- log in, 
+
+- run startx 
+
+- run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
 
 ---
 
-4. **Install scripts:** 
+5. **Install scripts:** 
 
 `02.all-app-install.sh` 
 
 ---
 
-5. **Options install scripts:** 
+6. **Options install scripts:** 
 
 `07-install-bluetooth.sh`, 
 
