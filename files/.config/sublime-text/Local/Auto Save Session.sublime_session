@@ -321,6 +321,242 @@
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/README.md",
+					"settings":
+					{
+						"buffer_size": 532,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n---"
+							},
+							"BgAAANwAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAN8AAAAAAAAAAAAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADhAAAAAAAAAAAAAADhAAAAAAAAAOIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAADtA"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "Scripts"
+							},
+							"BwAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOEAAAAAAAAAAAAAAOEAAAAAAAAA4gAAAAAAAAAAAAAA4gAAAAAAAADjAAAAAAAAAAAAAADjAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": " 10"
+							},
+							"AwAAAOUAAAAAAAAA5gAAAAAAAAAAAAAA5gAAAAAAAADnAAAAAAAAAAAAAADnAAAAAAAAAOgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA5QAAAAAAAADlAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": ".l"
+							},
+							"AgAAAOgAAAAAAAAA6QAAAAAAAAAAAAAA6QAAAAAAAADqAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "n-"
+							},
+							"AgAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6gAAAAAAAADqAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "git"
+							},
+							"AwAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "hub"
+							},
+							"AwAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "-conf"
+							},
+							"BQAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPUAAAAAAAAAAAAAAPUAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "ig"
+							},
+							"AgAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " -"
+							},
+							"AgAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA+gAAAAAAAAD7AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+QAAAAAAAAD5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							2,
+							"left_delete",
+							null,
+							"AgAAAPsAAAAAAAAA+wAAAAAAAAABAAAAIPoAAAAAAAAA+gAAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": ">"
+							},
+							"AQAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPoAAAAAAAAA+gAAAAAAAAABAAAAPg",
+							"AQAAAAAAAAABAAAA+wAAAAAAAAD7AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": "->"
+							},
+							"AgAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPwAAAAAAAAA/QAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "run"
+							},
+							"AwAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA/gAAAAAAAAD/AAAAAAAAAAAAAAD/AAAAAAAAAAABAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/QAAAAAAAAD9AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": " to"
+							},
+							"AwAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAAMBAAAAAAAABAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "after"
+							},
+							"BQAAAAQBAAAAAAAABQEAAAAAAAAAAAAABQEAAAAAAAAGAQAAAAAAAAAAAAAGAQAAAAAAAAcBAAAAAAAAAAAAAAcBAAAAAAAACAEAAAAAAAAAAAAACAEAAAAAAAAJAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": " install"
+							},
+							"CAAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAALAQAAAAAAAAwBAAAAAAAAAAAAAAwBAAAAAAAADQEAAAAAAAAAAAAADQEAAAAAAAAOAQAAAAAAAAAAAAAOAQAAAAAAAA8BAAAAAAAAAAAAAA8BAAAAAAAAEAEAAAAAAAAAAAAAEAEAAAAAAAARAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"",
+							null,
+							"AgAAAPoAAAAAAAAAlwEAAAAAAAAAAAAAlwEAAAAAAACXAQAAAAAAABcAAAAtPiBydW4gdG8gYWZ0ZXIgaW5zdGFsbA",
+							"AQAAAAAAAAABAAAAEQEAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+						]
+					]
 				}
 			],
 			"build_system": "",
@@ -462,7 +698,6 @@
 						{
 							"buffer": 0,
 							"file": "/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-github-config.sh",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
@@ -482,6 +717,36 @@
 									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/hubert/Dokumenty/GitHub/dwm-install/README.md",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 532,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										407,
+										407
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
