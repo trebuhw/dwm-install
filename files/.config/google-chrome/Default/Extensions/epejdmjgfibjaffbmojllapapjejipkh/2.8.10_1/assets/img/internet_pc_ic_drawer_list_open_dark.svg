@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>internet_pc_ic_drawer_list_open_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.94810115,0.177404607 L4.59530115,3.55740461 C4.56090115,3.59180461 4.52090115,3.59900461 4.49370115,3.59900461 C4.46570115,3.59900461 4.42730115,3.59180461 4.39290115,3.55740461 L1.02570115,0.176604607 C0.79130115,-0.0585953925 0.41210115,-0.0585953925 0.17690115,0.175004607 C-0.0582988501,0.408604607 -0.0590988501,0.788604607 0.17530115,1.02380461 L3.54170115,4.40380461 C3.79610115,4.65900461 4.13290115,4.79900461 4.49370115,4.79900461 L4.49450115,4.79900461 C4.85450115,4.79820461 5.19290115,4.65820461 5.44650115,4.40140461 L8.79930115,1.02300461 C9.03290115,0.787804607 9.03130115,0.407004607 8.79690115,0.174204607 C8.56170115,-0.0593953925 8.18170115,-0.0577953925 7.94810115,0.177404607" id="path-1"></path>
+    </defs>
+    <g id="internet_pc_ic_drawer_list_open_dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.513198, 5.600498)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Fill-1" fill="#797979" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

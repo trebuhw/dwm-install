@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="27px" viewBox="0 0 43 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PC/Light_theme/03_CONTROLLER/Switch_off_press</title>
+    <g id="PC/Light_theme/03_CONTROLLER/Switch_off_press" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Overlay">
+            <g id="Group">
+                <rect id="switch_bg" fill="#999999" x="3" y="3.25" width="37" height="20.5" rx="10.25"></rect>
+                <circle id="switch_fill" stroke="#8C8C8C" fill="#FCFCFC" cx="14" cy="13.5" r="10.5"></circle>
+            </g>
+            <rect fill="#000000" opacity="0.4" x="0" y="0" width="43" height="27"></rect>
+        </g>
+        <circle id="switch_fill" stroke="#5B5B5B" fill="#FAFAFA" cx="14" cy="13.5" r="10.5"></circle>
+    </g>
+</svg>

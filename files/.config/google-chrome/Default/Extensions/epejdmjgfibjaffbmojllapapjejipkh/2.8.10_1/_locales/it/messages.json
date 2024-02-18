@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "Aggiungi a Preferiti"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "Aggiungi preferiti a Internet Samsung"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "Nessun elemento da importare"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "Preferito aggiunto"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "Preferito già esistente."
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "Cercare i preferiti"
+   },
+   "Bookmarks_Text": {
+      "message": "Preferiti"
+   },
+   "CANCEL": {
+      "message": "Annulla"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "Scegliete un’altra cartella..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "Contattateci"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "Copia URL"
+   },
+   "CONTEXT_DELETE": {
+      "message": "Elimina"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "Elimina tutto"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "Elimina"
+   },
+   "CONTEXT_EDIT": {
+      "message": "Modifica"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "Esportare i preferiti"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "Importare i preferiti"
+   },
+   "CONTEXT_OPEN": {
+      "message": "Apri"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "Aprire tutti gli elementi"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "Aprire tutti i preferiti"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Apri tutto nelle nuove finestre"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "Aprire tutti gli elementi in una finestra segreta"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "Aprire in una finestra segreta"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "Apri in nuova scheda"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "Apri in nuova finestra"
+   },
+   "CONTEXT_RENAME": {
+      "message": "Rinomina"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "Ordina per nome"
+   },
+   "CREATE": {
+      "message": "Crea"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "Crea cartella"
+   },
+   "DONE": {
+      "message": "Fatto"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "Non mostrare più"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "Accedete automaticamente ai siti Web utilizzando le password e i nomi utente salvati."
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "Impossibile sincronizzare i nomi utente e le password perché l’applicazione Samsung Pass per PC e l’estensione Internet Samsung sono connesse a Samsung account diversi."
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "Impossibile ottenere ID utente e password da Samsung Pass."
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Requisiti di sistema di Samsung Pass:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "Crea cart. in quella selezionata"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "Sposta"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "Salva"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "Impostazioni"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "Importa preferiti di %s"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "Posizione"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "Nome"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "Preferiti di %s"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "Seleziona posizione"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "Schede sincronizzate"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "Aggiornare le informazioni di accesso in Samsung Pass?"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "Indirizzo Web"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "Aggiungi"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "Aggiungi preferito"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Aggiungi ai preferiti Chrome correnti"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "Aggiungi ai preferiti di %s correnti"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "Preferiti in Internet Samsung"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "Preferiti Chrome"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "Modifica preferito"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "Espandi in una nuova scheda"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "Esporta preferiti"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "Importa preferiti"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "Importa preferiti Chrome"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "Apri tutti i preferiti"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "Apri tutti in una finestra di navigazione in incognito"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Apri tutto in una nuova finestra"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "Apri in una finestra di navigazione in incognito"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Sostituisci preferiti Chrome correnti"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "Sostituisci preferiti di %s correnti"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "Computer Samsung"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "Ordina per nome"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (Trusted Platform Module) 2.0 o versione successiva"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 o Windows 10 versione 1903 o successiva"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "Preferiti"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "Riempimento autom. info accesso"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "Salva informazioni di accesso"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "Sincronizza con Samsung Cloud"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "Nomi utente e password"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "Vedi info accesso in Samsung Pass"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "I dati delle applicazioni verranno sincronizzati con Samsung Cloud se:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "Come funziona la sincronizzazione?"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "Impossibile sincronizzare note e altri contenuti di dimensioni superiori a %1$s%2$s."
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "Sincronizzazione in corso…"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "La sincronizzazione dell’applicazione è attivata in Impostazioni."
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "Di quali informazioni viene eseguita la sincronizzazione?"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "Avete effettuato l’accesso al Samsung account."
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "Imposs. sincronizzare dati"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "Sincronizzazione di %s"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "Versione %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "Altre informazioni"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: note e altri dati"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d elementi"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "Ultima sincronizzazione: %s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "Sincronizza con"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "1 elemento eliminato."
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "%d elementi eliminati."
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "Sincronizza adesso"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "Avviso sulla privacy"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "Cerca"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Apri in nuova finestra"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "Elimina"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "Modifica"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "Importa"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "URL copiato."
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "Informazioni su %s"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "Accesso eseguito"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "Supporto"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "Salvare nome utente e password sul %s?"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "Non chiedere più per questo sito"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "Vedi tutti gli account"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "Aggiorna"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "Differenze tra dispositivo e sistema operativo"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "Disattivato"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "Attivato"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "Versione di One UI"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "Importazione in corso…"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "Modifica preferito"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "Modifica cartella"
+   },
+   "ERROR_STRING": {
+      "message": "Errore"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "Internet Samsung"
+   },
+   "FOLDER": {
+      "message": "Cartella"
+   },
+   "FOLDER_NAME": {
+      "message": "Nome"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "Nome cartella già esistente."
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "Inserite nome cartella"
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "Nome cartella"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "Impossibile spostare cartella."
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "Preferiti"
+   },
+   "GUIDE_DESC_1": {
+      "message": "Apri i tuoi preferiti su qualsiasi computer utilizzando l'estensione Internet Samsung per il browser del PC"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "Sincronizzazione dei preferiti di Internet Samsung"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "Usa sul tuo PC i Preferiti Internet Samsung salvati su altri dispositivi, come il tuo telefono cellulare o tablet, nonché l’accesso Web sicuro e semplice grazie a Samsung Pass."
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "Come posso usare la funzione dell’estensione Internet Samsung in modo più efficiente?"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Accesso Web semplice con Samsung Pass"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "Come posso usare l’accesso Web semplice e sicuro Samsung Pass?"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ Questa funzione può essere usata solo su dispositivi che supportano l’applicazione Samsung Pass per PC."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "Per verificare dispositivi supportati e istruzioni dettagliate, visita il sito Web di seguito."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "È supportata solo su serie Galaxy Book 3. Il supporto verrà ampliato in un secondo momento."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "Supporta l’accesso Web sicuro e semplice attraverso l’applicazione Samsung Pass per PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "Attiva il menu “Impostazioni” > “Nomi utente e password”."
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "Seleziona l’icona Samsung Pass sulla schermata di accesso della pagina Web."
+   },
+   "GUIDE_TITLE": {
+      "message": "Sincronizza i preferiti su Internet Samsung e sul browser del PC"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "Guida"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "Aggiungi a Preferiti"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "Nessun elemento"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "Preferiti Samsung"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "Annulla"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "Posiz. archiviazione"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "Preferito"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "Elimina tutto"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "Copia"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "Crea cartella"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "Nuova cartella"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "Apri in nuova scheda"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "Apri in nuova scheda"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Apri in nuova finestra"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "Rinomina"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "Preferito già esistente."
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "Copia URL"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "Importati."
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "%d elementi eliminati."
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "1 elemento copiato"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "%d elementi copiati."
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "Annulla"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "Discon."
+   },
+   "IMPORT": {
+      "message": "Importa"
+   },
+   "IMPORTED": {
+      "message": "Importati."
+   },
+   "IMPORTING": {
+      "message": "Importazione..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "Aggiunge semplicemente nuovi preferiti all’elenco esistente dei preferiti importato da $1."
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "Opzioni di Importa preferiti di $1"
+   },
+   "IMPORT_ERROR": {
+      "message": "Import. non riuscita."
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "Potete aggiungere nuovi elementi o sostituire tutti gli elementi esistenti in questa cartella."
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "Usa i preferiti di $1 in Internet Samsung"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "Imposta le opzioni di Importa preferiti di $1"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "Chiedi ogni volta"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "Opzioni per Importa"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "Aggiungi"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "Cancella i preferiti esistenti importati da $1 e crea una nuova copia dei preferiti di $1."
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "Sostituisci"
+   },
+   "IMPORT_TEXT": {
+      "message": "Importa preferiti di $1"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "In seguito all'importazione dei preferiti da $1, potrete utilizzarli nel dispositivo mobile Samsung."
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "Utilizzate i preferiti da $1 sul dispositivo mobile Samsung."
+   },
+   "INITIAL_SETTINGS": {
+      "message": "Impostazioni iniziali"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "Come posso usare la funzione dell’estensione Internet Samsung?"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "Seleziona l’icona “Estensione” che si trova sul menu superiore del browser del PC."
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "Seleziona la funzione dell’estensione Internet Samsung. ※ Aggiungila al menu superiore usando il pulsante “Aggiungi”"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "Accedi al tuo Samsung account e prova la funzione dell’estensione Internet Samsung."
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "La connessione a Internet è stata interrotta. Riprova."
+   },
+   "ITEMS_TEXT": {
+      "message": "elementi"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "Ultimi importati"
+   },
+   "LAST_SYNCED": {
+      "message": "Ultima sincronizzazione: "
+   },
+   "LOCATION_TEXT": {
+      "message": "Posizione di memoria"
+   },
+   "LOGIN_INTRO": {
+      "message": "Accedete all'account Samsung per accedere ai preferiti sugli altri dispositivi."
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "Preferiti Mobile"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "Nome"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "Nuova cartella"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "La pagina web è stata aggiunta ai Preferiti."
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "Accedete all'account Samsung da aggiungere ai preferiti Samsung."
+   },
+   "NO_BOOKMARKS": {
+      "message": "Nessun preferito"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "Nessun risultato della ricerca"
+   },
+   "NO_TABS": {
+      "message": "Nessuna scheda"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Installate %s per sincronizzare i nomi utente e le password degli altri dispositivi."
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass non fa più parte dell’estensione Samsung Internet. Per continuare a utilizzare Samsung Pass per inserire nomi utente e password online, ottenete l’estensione Samsung Pass."
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Accedete a %s per sincronizzare i nomi utente e le password degli altri dispositivi."
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "Ottieni l’estensione Samsung Pass"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "Installa %s"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "Accedi a %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "Ottieni la nuova estensione Samsung Pass"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "I dati che potete sincronizzare potrebbero variare in base al computer e al software di sistema."
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "Samsung Settings: associazione con Galaxy Buds"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Solo Wi-Fi ed Ethernet"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, Ethernet e connessione dati"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "Apri"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "Verrà arrestata la sincronizzazione per tutte le applicazioni Samsung su questo computer."
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "Il Samsung account verrà rimosso da questo computer."
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "La sincronizzazione delle applicazioni verrà arrestata"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "Deseleziona tutto"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "Seleziona tutto"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "Contattateci"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "%d selezionati"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "Aggiungere un nuovo preferito"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "Aggiungere una nuova cartella"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "Rinomina cartella"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "Tutti i preferiti"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "Apri schede"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "Preferiti Samsung"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "Apri schede da altri dispos."
+   },
+   "SAVE": {
+      "message": "Salva"
+   },
+   "SETTING": {
+      "message": "Impostazione"
+   },
+   "SHOW_LOGS": {
+      "message": "Visualizza registri"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "Accesso al Samsung account completato."
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "Disconnetti"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "Sincronizzazione..."
+   },
+   "SYNC_ERROR": {
+      "message": "La sincronizzazione sta riscontrando qualche problema. Presto sarà di nuovo attiva"
+   },
+   "SYNC_FAIL": {
+      "message": "Sincr. non eseguita."
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "Sincronizza Preferiti Samsung"
+   },
+   "TITLE": {
+      "message": "Titolo"
+   },
+   "TITLE_EMPTY": {
+      "message": "Il campo non può essere vuoto."
+   },
+   "TOAST_DELETED": {
+      "message": "'$1' eliminato."
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "Cartelle ordinate."
+   },
+   "TOAST_URL_COPIED": {
+      "message": "URL copiato."
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "Il campo non può essere vuoto."
+   },
+   "URL_INVALID": {
+      "message": "URL non valida."
+   },
+   "WEB_ADDRESS": {
+      "message": "Indirizzo Web"
+   }
+}

@@ -1,0 +1,1 @@
+function SyncConstants(){this.ACCOUNT_TYPE=SamsungSCloudSyncService.ACCOUNT_TYPE,this.ACCOUNT_NAME=SamsungSCloudSyncService.ACCOUNT_NAME,this.REQUEST_POST=0,this.REQUEST_GET=1,this.REQUEST_POST_MULTIPART=2,this.REQUEST_GET_FILE=4,this.REQUEST_GET_META=5}

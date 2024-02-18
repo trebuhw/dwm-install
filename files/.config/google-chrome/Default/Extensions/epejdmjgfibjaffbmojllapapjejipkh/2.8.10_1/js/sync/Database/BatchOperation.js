@@ -1,0 +1,1 @@
+function BatchOperation(operation,uri,values,selection,selectionArgs,sortOrder){this.operation=operation,this.uri=uri,this.values=values,this.selection=selection,this.selectionArgs=selectionArgs,this.sortOrder=sortOrder}

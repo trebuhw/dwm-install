@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "Legg til i Bokmerker"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "Legg til bokmerker i Samsung Internett"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "Ingenting å importere"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "Bokmerke lagt til"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "Bokmerket finnes allerede."
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "Bokmerkesøk"
+   },
+   "Bookmarks_Text": {
+      "message": "Bokmerker"
+   },
+   "CANCEL": {
+      "message": "Avbryt"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "Velg en annen mappe ..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "Kontakt oss"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "Kopier URL"
+   },
+   "CONTEXT_DELETE": {
+      "message": "Slett"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "Slett alle"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "Slett"
+   },
+   "CONTEXT_EDIT": {
+      "message": "Rediger"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "Eksporter bokmerker"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "Importer bokmerker"
+   },
+   "CONTEXT_OPEN": {
+      "message": "Åpne"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "Åpne alle"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "Åpne alle bokmerker"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Åpne alle i nye vinduer"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "Åpne alle i hemmelig vindu"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "Åpne i hemmelig vindu"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "Åpne i ny fane"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "Åpne i nytt vindu"
+   },
+   "CONTEXT_RENAME": {
+      "message": "Endre navn"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "Sorter etter navn"
+   },
+   "CREATE": {
+      "message": "Opprett"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "Opprett mappe"
+   },
+   "DONE": {
+      "message": "Utført"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "Ikke vis igjen"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "Logg på nettsteder automatisk ved å bruke lagrede brukernavn og passord."
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "Kan ikke synkronisere brukernavn og passord fordi Samsung Pass-PC-appen og Samsung Internett-utvidelsen er logget på ulike Samsung account."
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "Kunne ikke hente bruker-ID og passord fra Samsung Pass."
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Systemkrav for Samsung Pass:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "Opprett mappe i valgt mappe"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "Flytt"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "Lagre"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "Innstillinger"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "Importer %s-bokmerker"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "Posisjon"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "Navn"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "%s-bokmerker"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "Velg posisjon"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "Synkroniserte faner"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "Vil du oppdatere påloggingsinformasjonen i Samsung Pass?"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "Nettadresse"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "Legg til"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "Legg til bokmerke"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Legg til i nåværende Chrome-bokmerker"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "Legg til i nåværende %s-bokmerker"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "Bokmerke i Samsung Internett"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "Chrome-bokmerker"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "Rediger bokmerke"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "Utvid i ny fane"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "Eksporter bokmerker"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "Importer bokmerker"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "Importer Chrome-bokmerker"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "Åpne alle bokmerker"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "Åpne alle i inkognitovindu"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Åpne alle i nytt vindu"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "Åpne i inkognitovindu"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Erstatt nåværende Chrome-bokmerker"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "Erstatt nåværende %s-bokmerker"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "Samsung-datamaskin"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "Sorter etter navn"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (klarert plattformmodul) 2.0 eller nyere"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 eller Windows 10, versjon 1903 eller nyere"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "Bokmerker"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "Autoutfyll påloggingsinformasjon"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "Lagre påloggingsinformasjon"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "Synkroniser med Samsung Cloud"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "Brukernavn og passord"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "Vis påloggingsinfo i Samsung Pass"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "Data fra appene blir synkronisert med Samsung Cloud hvis:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "Hvordan fungerer synkronisering?"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "Notater og annet innhold som er større enn %1$s %2$s, kan ikke synkroniseres."
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "Synkroniserer …"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "Appen har Synkronisering slått på i Innstillinger."
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "Hvilken informasjon synkroniseres?"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "Du er logget på Samsung account."
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "Kunne ikke synkr. data"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "%s-synkronisering"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "Versjon %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "Mer informasjon"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: merknader og andre data"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d elementer"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "Sist synkronisert: %s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "Synkroniser ved å bruke"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "1 element ble slettet."
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "%d elementer ble slettet."
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "Synkroniser nå"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "Personvernerklæring"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "Søk"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Åpne i nytt vindu"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "Slett"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "Rediger"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "Importer"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "URL ble kopiert."
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "Om %s"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "Pålogget"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "Hjelp"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "Vil du lagre brukernavn og passord til %s?"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "Ikke spør igjen for dette nettstedet"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "Vis alle kontoer"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "Oppdater"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "Forskjeller mellom enhet og OS"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "Av"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "På"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "One UI-versjon"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "Importerer …"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "Rediger bokmerke"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "Rediger mappe"
+   },
+   "ERROR_STRING": {
+      "message": "Feil"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "Samsung Internett"
+   },
+   "FOLDER": {
+      "message": "Mappe"
+   },
+   "FOLDER_NAME": {
+      "message": "Navn"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "Mappenavnet finnes allerede."
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "Angi mappenavn."
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "Mappenavn"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "Kan ikke flytte mappe."
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "Bookmarks"
+   },
+   "GUIDE_DESC_1": {
+      "message": "Open your bookmarks on any computer using the Samsung Internet extension for PC browser"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmarks"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "Use Samsung Internet Bookmarks saved on other devices, such as your mobile phone or tablet, as well as secure and easy web login with Samsung Pass, on your PC."
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "How can I use the Samsung Internet extension feature more efficiently?"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Samsung Pass easy web login"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "How can I use the Samsung Pass secure and easy web login?"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ This feature can only be used on devices that support the Samsung Pass app for PC. "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "For supported devices and detailed instructions, please go to the website below."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "It is only supported on the Galaxy Book 3 series. Support will be expanded later."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "Supports secure and easy web login through the Samsung Pass app for PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "Turn on the “Settings” > “Usernames and passwords” menu."
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "Select the Samsung Pass icon on the login screen of the webpage."
+   },
+   "GUIDE_TITLE": {
+      "message": "Sync bookmarks across your Samsung Internet and PC browser"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "Hjelp"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "Legg til i Bokmerker"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "Ingen elementer"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "Samsung-bokmerker"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "Avbryt"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "Lagringssted"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "Bokmerke"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "Slett alle"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "Kopier"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "Opprett mappe"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "Ny mappe"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "Åpne i ny fane"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "Åpne i ny fane"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Åpne i nytt vindu"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "Endre navn"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "Bokmerket finnes allerede."
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "Kopier URL"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "Importert."
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "%d er slettet."
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "1 element kopiert"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "%d elementer kopiert."
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "Angre"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "Logg av"
+   },
+   "IMPORT": {
+      "message": "Importer"
+   },
+   "IMPORTED": {
+      "message": "Importert."
+   },
+   "IMPORTING": {
+      "message": "Importerer..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "Legger ganske enkelt til nye bokmerker i den eksisterende listen med bokmerker som ble importert fra $1."
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "Alternativer for Importer $1-bokmerker"
+   },
+   "IMPORT_ERROR": {
+      "message": "Import mislyktes."
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "Du kan legge til nye elementer eller erstatte alle eksisterende elementer til denne mappen."
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "Bruk $1-bokmerkene i Samsung Internett"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "Angi alternativer for Importer $1-bokmerker"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "Spør hver gang"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "Alternativer for Importer"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "Legg til"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "Fjerner eksisterende bokmerker som ble importert fra $1, og oppretter en ny kopi av $1-bokmerkene."
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "Erstatt"
+   },
+   "IMPORT_TEXT": {
+      "message": "Importer $1-bokmerker"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "Når du importerer $1-bokmerker, kan du bruke $1-bokmerker på Samsung-mobilen."
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "Bruk $1-bokmerkene på Samsung-mobilen."
+   },
+   "INITIAL_SETTINGS": {
+      "message": "Initial settings"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "How can I use the Samsung Internet extension feature?"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "Select the “Extension” icon located in the top menu of your PC browser."
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "Select the Samsung Internet extension feature. ※ Pin to the top menu using the “Pin” button"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "Log in to your Samsung account and try out the Samsung Internet extension feature."
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "Internett-tilkoblingen ble avbrutt. Prøv igjen."
+   },
+   "ITEMS_TEXT": {
+      "message": "elementer"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "Sist importert"
+   },
+   "LAST_SYNCED": {
+      "message": "Sist synkronisert: "
+   },
+   "LOCATION_TEXT": {
+      "message": "Lagringssted"
+   },
+   "LOGIN_INTRO": {
+      "message": "Logg på Samsung-kontoen din for å få tilgang til bokmerker på andre enheter."
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "Mobilbokmerker"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "Navn"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "Ny mappe"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "Nettside er lagt til i Bokmerker."
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "Logg på Samsung-kontoen din for å legge til Samsung-bokmerker."
+   },
+   "NO_BOOKMARKS": {
+      "message": "Ingen bokmerker"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "Ingen søkeresultater"
+   },
+   "NO_TABS": {
+      "message": "Ingen faner"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Installer %s for å synkronisere brukernavn og passord fra de andre enhetene dine."
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass er ikke lenger en del av Samsung Internett-utvidelsen. Hvis du vil fortsette å bruke Samsung Pass til å fylle ut brukernavn og passord på nettet, må du skaffe deg Samsung Pass-utvidelsen."
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Logg på %s for å synkronisere brukernavn og passord fra de andre enhetene dine."
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "Skaff deg Samsung Pass-utvidelsen"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "Installer %s"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "Logg på %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "Skaff deg den nye Samsung Pass-utvidelsen"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "Dataene som du kan synkronisere, kan variere avhengig av datamaskinen og systemprogramvaren."
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "Samsung Settings: sammenkoblede Galaxy Buds"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Bare Wi-Fi og Ethernet"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, Ethernet og mobildata"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "Åpne"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "Synkronisering stopper for alle Samsung-apper på denne datamaskinen."
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "Samsung account blir fjernet fra denne datamaskinen."
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "Apper slutter å synkroniseres"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "Fjern alle merker"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "Velg alle"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "Kontakt oss"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "%d ble valgt"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "Legg til et nytt bokmerke"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "Legg til en ny mappe"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "Endre mappenavn"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "Alle bokmerker"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "Åpne faner"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "Samsung-bokmerker"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "Åpne faner fra andre enheter"
+   },
+   "SAVE": {
+      "message": "Lagre"
+   },
+   "SETTING": {
+      "message": "Innstilling"
+   },
+   "SHOW_LOGS": {
+      "message": "Vis logger"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "Pålogging til Samsung account var vellykket."
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "Logg av"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "Synkroniserer ..."
+   },
+   "SYNC_ERROR": {
+      "message": "Synkronisering opplever for øyeblikket problemer. Det er snart tilbake"
+   },
+   "SYNC_FAIL": {
+      "message": "Synkronisering mislyktes."
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "Synkroniser Samsung-bokmerker"
+   },
+   "TITLE": {
+      "message": "Tittel"
+   },
+   "TITLE_EMPTY": {
+      "message": "Feltet kan ikke være tomt."
+   },
+   "TOAST_DELETED": {
+      "message": "'$1' slettet."
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "Sorterte mapper."
+   },
+   "TOAST_URL_COPIED": {
+      "message": "URL ble kopiert."
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "Feltet kan ikke være tomt."
+   },
+   "URL_INVALID": {
+      "message": "Ugyldig URL."
+   },
+   "WEB_ADDRESS": {
+      "message": "Nettadresse"
+   }
+}

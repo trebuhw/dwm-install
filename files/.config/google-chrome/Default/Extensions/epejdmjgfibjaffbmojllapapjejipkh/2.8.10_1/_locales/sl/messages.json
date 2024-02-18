@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "Dodaj med zaznamke"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "Dodajanje zaznamkov v aplikacijo Samsung Internet"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "Ni elementov za uvoz"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "Zaznamek dodan"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "Zaznamek že obstaja."
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "Iskanje zaznamka"
+   },
+   "Bookmarks_Text": {
+      "message": "Zaznamki"
+   },
+   "CANCEL": {
+      "message": "Prekliči"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "Izberite drugo mapo ..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "Pišite nam"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "Kopiraj URL"
+   },
+   "CONTEXT_DELETE": {
+      "message": "Izbriši"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "Izbriši vse"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "Izbriši"
+   },
+   "CONTEXT_EDIT": {
+      "message": "Uredi"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "Izvoz zaznamkov"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "Uvoz zaznamkov"
+   },
+   "CONTEXT_OPEN": {
+      "message": "Odpri"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "Odpiranje vseh"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "Odpiranje vseh zaznamkov"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Odpri vse v novih oknih"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "Odpiranje vseh v skrivnem oknu"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "Odpiranje v skrivnem oknu"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "Odpri na novem zavihku"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "Odpri v novem oknu"
+   },
+   "CONTEXT_RENAME": {
+      "message": "Preimenuj"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "Razvrsti po imenu"
+   },
+   "CREATE": {
+      "message": "Ustvari"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "Ustvari mapo"
+   },
+   "DONE": {
+      "message": "Končano"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "Ne pokaži znova"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "Samodejno se prijavite na spletna mesta s shranjenimi uporabniškimi imeni in gesli."
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "Uporabniških imen in gesel ni mogoče sinhronizirati, ker ste v aplikaciji Samsung Pass za računalnik in razširitvi Samsung Internet prijavljeni v različna računa Samsung account."
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "Ni bilo mogoče pridobiti uporabniškega ID-ja in gesla iz aplikacije Samsung Pass."
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Račun Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Sistemske zahteve za Samsung Pass:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "Ustvari mapo v izbrani mapi"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "Premakni"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "Shrani"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "Nastavitve"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "Uvoz zaznamkov iz brskalnika %s"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "Lokacija"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "Ime"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "Zaznamki iz brskalnika %s"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "Izbira lokacije"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "Sinhronizirani zavihki"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "Želite posodobiti podatke za prijavo v aplikaciji Samsung Pass?"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "Spletni naslov"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "Dodaj"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "Dodaj zaznamek"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Dodaj med trenutne zaznamke brskalnika Chrome"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "Dodaj med trenutne zaznamke brskalnika %s"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "Dodaj med zaznamke v aplikaciji Samsung Internet"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "Zaznamki brskalnika Chrome"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "Uredi zaznamek"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "Razširi v novem zavihku"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "Izvozi zaznamke"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "Uvozi zaznamke"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "Uvozi zaznamke brskalnika Chrome"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "Odpri vse zaznamke"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "Odpri vse v anonimnem oknu"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Odpri vse v novem oknu"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "Odpri v anonimnem oknu"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Zamenjaj trenutne zaznamke brskalnika Chrome"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "Zamenjaj trenutne zaznamke brskalnika %s"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "Računalnik Samsung"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "Razvrsti po imenu"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (Trusted Platform Module) 2.0 ali novejši"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 ali Windows 10 različice 1903 ali novejše"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "Zaznamki"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "Sam. izpolnj. podatkov za prijavo"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "Shrani podatke za prijavo"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "Sinhr. s storit. Samsung Cloud"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "Uporabniška imena in gesla"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "Ogl. pod. za prij. v Samsung Pass"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "Podatki iz aplikacij bodo sinhronizirani s storitvijo Samsung Cloud, če:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "Kako deluje sinhronizacija?"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "Zapiskov in druge vsebine, večje od %1$s %2$s, ni mogoče sinhronizirati."
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "Sinhronizacija …"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "Aplikacija ima v meniju Nastavitve vklopljeno funkcijo Sinhronizacija."
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "Katere informacije se sinhronizirajo?"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "Prijavljeni ste v Samsung account."
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "Sinh. pod. ni bila mogoča"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "Sinhronizacija aplikacije %s"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "Različica: %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "Več informacij"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: zapiski in drugi podatki"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "Št. elementov: %d"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "Zadnjič sinhronizirano: %s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "Sinhronizacija z uporabo:"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "1 element je bil izbrisan."
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "Nekaj (%d) elementov je izbrisanih."
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "Sinhroniziraj zdaj"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "Obvestilo o zasebnosti"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "Išči"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Odpri v novem oknu"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "Izbriši"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "Uredi"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "Uvoz"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "URL je kopiran."
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "Več o aplikaciji %s"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "Prijavljeni ste"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "Pomoč"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "Želite uporabniško ime in geslo shraniti v %s?"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "Ne vprašaj več za to spletno mesto"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "Prikaži vse račune"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "Posodobi"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "Razlike med napravami in operacijskimi sistemi"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "Izklopljeno"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "Vklop"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "Različica programa One UI"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "Uvažanje …"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "Uredi zaznamek"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "Uredi mapo"
+   },
+   "ERROR_STRING": {
+      "message": "Napaka"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "Samsung Internet"
+   },
+   "FOLDER": {
+      "message": "Mapa"
+   },
+   "FOLDER_NAME": {
+      "message": "Ime"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "Ime mape že obstaja."
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "Vnesite ime mape."
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "Ime mape"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "Mape ni mogoče premakniti."
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "Bookmarks"
+   },
+   "GUIDE_DESC_1": {
+      "message": "Open your bookmarks on any computer using the Samsung Internet extension for PC browser"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmarks"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "Use Samsung Internet Bookmarks saved on other devices, such as your mobile phone or tablet, as well as secure and easy web login with Samsung Pass, on your PC."
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "How can I use the Samsung Internet extension feature more efficiently?"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Samsung Pass easy web login"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "How can I use the Samsung Pass secure and easy web login?"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ This feature can only be used on devices that support the Samsung Pass app for PC. "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "For supported devices and detailed instructions, please go to the website below."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "It is only supported on the Galaxy Book 3 series. Support will be expanded later."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "Supports secure and easy web login through the Samsung Pass app for PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "Turn on the “Settings” > “Usernames and passwords” menu."
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "Select the Samsung Pass icon on the login screen of the webpage."
+   },
+   "GUIDE_TITLE": {
+      "message": "Sync bookmarks across your Samsung Internet and PC browser"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "Pomoč"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "Dodaj med zaznamke"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "Ni elementov"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "Zaznamki Samsung"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "Prekliči"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "Lokacija shrambe"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "Zaznamek"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "Izbriši vse"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "Kopiraj"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "Ustvari mapo"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "Nova mapa"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "Odpri na novem zavihku"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "Odpri na novem zavihku"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Odpri v novem oknu"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "Preimenuj"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "Zaznamek že obstaja."
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "Kopiraj URL"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "Uvoženo."
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "Izbrisanih: %d."
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "1 element kopiran"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "%d elementov kopiranih."
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "Razveljavi"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "Odjava"
+   },
+   "IMPORT": {
+      "message": "Uvoz"
+   },
+   "IMPORTED": {
+      "message": "Uvoženo."
+   },
+   "IMPORTING": {
+      "message": "Uvažam ..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "Preprosto doda nove zaznamke na obstoječi seznam zaznamkov, ki so bili uvoženi iz brskalnika $1."
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "Možnosti uvoza zaznamkov brskalnika $1"
+   },
+   "IMPORT_ERROR": {
+      "message": "Uvoz ni uspel."
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "Dodate lahko nove elemente ali zamenjate vse obstoječe v tej mapi."
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "Uporabljajte zaznamke brskalnika $1 v aplikaciji Samsung Internet."
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "Nastavitev možnosti uvoza zaznamkov brskalnika $1"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "Vedno vprašaj"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "Možnosti uvoza"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "Dodaj"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "Počisti obstoječe zaznamke, ki so bili uvoženi iz brskalnika $1 in ustvari svežo kopijo zaznamkov brskalnika $1."
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "Zamenjaj"
+   },
+   "IMPORT_TEXT": {
+      "message": "Uvozite zaznamke $1"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "Ko uvozite zaznamke $1, lahko zaznamke $1 uporabljate v mobilni napravi Samsung."
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "Uporabljajte zaznamke $1 v mobilni napravi Samsung."
+   },
+   "INITIAL_SETTINGS": {
+      "message": "Initial settings"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "How can I use the Samsung Internet extension feature?"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "Select the “Extension” icon located in the top menu of your PC browser."
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "Select the Samsung Internet extension feature. ※ Pin to the top menu using the “Pin” button"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "Log in to your Samsung account and try out the Samsung Internet extension feature."
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "Vaša internetna povezava je bila prekinjena. Poskusite znova."
+   },
+   "ITEMS_TEXT": {
+      "message": "predmeti"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "Zadnji uvoženi"
+   },
+   "LAST_SYNCED": {
+      "message": "Zadnjič sinhronizirano: "
+   },
+   "LOCATION_TEXT": {
+      "message": "Mesto shranjevanja"
+   },
+   "LOGIN_INTRO": {
+      "message": "Za dostop do zaznamkov v drugih napravah se prijavite v Samsung račun."
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "Mobilni zaznamki"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "Ime"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "Nova mapa"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "Spletna stran je bila dodana med zaznamke."
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "Če želite dodati zaznamke Samsung, se prijavite v Samsung račun."
+   },
+   "NO_BOOKMARKS": {
+      "message": "Ni zaznamkov"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "Ni rezultatov iskanja"
+   },
+   "NO_TABS": {
+      "message": "Brez zavihkov"
+   },
+   "OK": {
+      "message": "V redu"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Install %s to sync the usernames and passwords from your other devices."
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass isn't part of the Samsung Internet extension anymore. To keep using Samsung Pass to fill in usernames and passwords online, get the Samsung Pass extension."
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Sign in to %s to sync the usernames and passwords from your other devices."
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "Get the Samsung Pass extension"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "Namestite aplikacijo %s"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "Sign in to %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "Get the new Samsung Pass extension"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "The data that you can sync may differ based on your computer and system software."
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "Samsung Settings: paired Galaxy Buds"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Wi-Fi and Ethernet only"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, Ethernet, and mobile data"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "Odpri"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "All Samsung apps on this computer will stop syncing."
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "Your Samsung account will be removed from this computer."
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "Apps will stop syncing"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "Deselect all"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "Select all"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "Stik z nami"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "Izbrano: %d"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "Dodajanje novega zaznamka"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "Dodajanje nove mape"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "Preimenuj mapo"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "Vsi zaznamki"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "Odpri zavihke"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "Zaznamki Samsung"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "Odp. zavih. iz drugih naprav"
+   },
+   "SAVE": {
+      "message": "Shrani"
+   },
+   "SETTING": {
+      "message": "Nastavitev"
+   },
+   "SHOW_LOGS": {
+      "message": "Prikaz dnevnikov"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "Prijava v račun Samsung account je uspela."
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "Odjava"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "Sinhroniziram ..."
+   },
+   "SYNC_ERROR": {
+      "message": "Sinhronizacija ima trenutno težave. Kmalu se vrne"
+   },
+   "SYNC_FAIL": {
+      "message": "Sinhronizacija ni uspela."
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "Sinhroniziraj zaznamke Samsung"
+   },
+   "TITLE": {
+      "message": "Naslov"
+   },
+   "TITLE_EMPTY": {
+      "message": "Polje ne more biti prazno."
+   },
+   "TOAST_DELETED": {
+      "message": "'$1' zbrisano."
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "Mape so razvrščene."
+   },
+   "TOAST_URL_COPIED": {
+      "message": "URL je kopiran."
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "Polje ne more biti prazno."
+   },
+   "URL_INVALID": {
+      "message": "Nepravilen URL."
+   },
+   "WEB_ADDRESS": {
+      "message": "Spletni naslov"
+   }
+}

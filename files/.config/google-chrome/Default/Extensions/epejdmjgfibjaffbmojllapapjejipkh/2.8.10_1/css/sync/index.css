@@ -1,0 +1,446 @@
+/* Dependencies */
+@import './folder-tree.css';
+@import './modal.css';
+@import './imported-folder.css';
+@import './partial-load.css';
+@import './floating-icon.css';
+@import './divider.css';
+
+/* Sync Page */
+.syncPage {
+  position: absolute;
+  width: 100%;
+  top: 0px;
+}
+
+/* Bookmarks Breadcrumb */
+.bookmarkFolderPath {
+  display: block;
+}
+
+.opacity-70 {
+  opacity: 0.7;
+}
+
+.bookmarkReferenceParentContainer {
+  width: 100%;
+  height: 48px;
+  padding: 0 20px;
+  display: none;
+  border-bottom: 2px solid #e4e4e4;
+  top: 0;
+  background-color: white;
+  z-index: 999;
+  padding-top: 12px;
+  overflow-x: auto;
+}
+
+.bookmarkReferenceContainer {
+  display: flex;
+  font-family: SegoeUI-Semibold;
+  scroll-behavior: smooth;
+  transition: all 0.25s;
+  overflow: hidden;
+  font-size: 14px;
+  width: 100%;
+  color: #252525;
+}
+
+.reference_text_wrapper {
+  display: flex;
+  align-items: center;
+  opacity: 0.6;
+}
+
+.reference_text:active {
+  outline: none;
+}
+.reference_text {
+  position: relative;
+  text-align: center;
+  font-family: SegoeUI-Semibold;
+  font-size: 14px;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  max-width: 120px;
+  overflow: hidden;
+  margin: 1px;
+  cursor: pointer;
+  white-space: nowrap;
+  z-index: 999;
+}
+
+.reference_text_separation {
+  z-index: 999;
+  height: 20px;
+  width: 20px;
+  margin: 0 6px;
+  opacity: 0.6;
+  background: url('/assets/img/ic_arrow.png') no-repeat;
+}
+
+.reference_text_wrapper:last-child {
+  opacity: 1;
+}
+
+.reference_text_wrapper:only-child .reference_text {
+  cursor: default;
+}
+.reference_text_wrapper:last-child .reference_text {
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 14px;
+}
+.reference_text_wrapper:first-child .reference_text {
+  animation: none;
+}
+
+.reference_text_wrapper:last-child .reference_text_separation {
+  display: none;
+}
+
+.bookmarks {
+  position: relative;
+  z-index: 9;
+  height: 474px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bookmarksData {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  display: block;
+  flex-grow: 1;
+  transform: translateZ(0);
+}
+
+.noItemText {
+  position: relative;
+  height: 46px;
+  width: 100%;
+  text-align: center;
+  font-size: 15px;
+  color: rgb(101, 101, 101);
+  margin-top: 45%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  opacity: 0.8;
+}
+
+.headerIconDiv {
+  width: 28px;
+  height: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerIconDiv .headerIcon:not(.sync) {
+  width: 28px;
+  height: 28px;
+}
+
+.headerIcon.sync:focus {
+  outline: none;
+}
+.headerIcon.sync {
+  animation: rotate-forever 1s linear 0s infinite;
+}
+
+.bookmarkLoaderIcon {
+  display: none;
+  width: 26px;
+  height: 26px;
+  margin-right: 6px;
+  pointer-events: none;
+  cursor: default;
+  background: url('/assets/img/bookmark_btn_refresh.png') no-repeat;
+}
+
+/* Bookmark Sync UI */
+
+/* Bookmarks List */
+
+.bookmark_item:hover {
+  outline: none;
+  background: rgba(115, 122, 230, 0.1);
+}
+
+.bookmark_entry,
+.bookmark_folder {
+  text-align: left;
+  padding: 0px 20px;
+  overflow: hidden;
+  height: 47px;
+  width: 352px;
+  cursor: pointer;
+  display: flex;
+  text-decoration: none;
+  color: rgb(37, 37, 37);
+  color: #000000;
+  align-items: center;
+}
+
+.bookmark_entry:focus {
+  outline: 1px solid initial;
+}
+
+.bookmark_folder_data {
+  position: absolute;
+  display: -webkit-box;
+  left: 1px;
+  top: 0px;
+  width: 315px;
+  z-index: 8;
+}
+
+.bookmark_entry_wrapper_image,
+.bookmark_folder_wrapper_image {
+  margin-right: 10px;
+}
+
+.bookmark_entry_title {
+  pointer-events: none;
+}
+
+.bookmark_entry_title,
+.bookmark_entry_buttons {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+
+.bookmark_entry_buttons {
+  position: absolute;
+  margin: 0 -5px;
+  right: 10px;
+}
+
+.bookmark_entry_div {
+  color: #fff;
+  font-size: 13px;
+  height: 20px;
+  width: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bookmark_entry_image,
+.bookmark_folder_image {
+  height: 20px;
+  width: 20px;
+}
+
+.bookmark_folder_text_chrome {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  font-family: SegoeUI-Semibold;
+  color: #000000;
+  font-size: 16px;
+}
+
+.bookmark_folder_text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  font-family: SegoeUI;
+  color: #252525;
+  font-size: 14px;
+}
+
+.bookmark_entry_text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  font-family: SegoeUI;
+  color: #252525;
+  font-size: 14px;
+}
+
+.errorInBookmarkSync {
+  background-color: #f1f1f1;
+  color: #ed1c24;
+  display: none;
+  font-size: 14px;
+  margin: 5px 0;
+  overflow: hidden;
+  padding: 15px 10px;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.syncBottom {
+  width: 352px;
+  height: 60px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#syncAddToBookMarks {
+  width: 360px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  outline-style: none;
+  text-decoration: none;
+}
+
+.addToBookMarksText {
+  font-size: 14px;
+  font-family: SegoeUI-Semibold;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+#naviIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.addToBookMarksIcon {
+  margin-right: 8px;
+}
+
+.tabs {
+  position: relative;
+  z-index: 9;
+  height: 534px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tabsyncData {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  display: block;
+  flex-grow: 1;
+  transform: translateZ(0);
+}
+
+/* Tab Sync UI */
+
+/* Tabs List */
+
+.tab_item:hover {
+  outline: none;
+  background: rgba(115, 122, 230, 0.1);
+}
+
+.tab_entry {
+  text-align: center;
+  padding: 0px 20px;
+  overflow: hidden;
+  justify-content: space-between;
+  height: 47px;
+  width: 352px;
+  cursor: pointer;
+  display: flex;
+  text-decoration: none;
+  color: rgb(37, 37, 37);
+  align-items: center;
+}
+
+.tab_device {
+  text-align: center;
+  padding: 0px 20px;
+  overflow: hidden;
+  justify-content: space-between;
+  height: 47px;
+  width: 352px;
+  cursor: pointer;
+  display: flex;
+  text-decoration: none;
+  color: rgb(37, 37, 37);
+  align-items: center;
+}
+
+.tab_entry:focus {
+  outline: 1px solid initial;
+}
+
+.tab_device_data {
+  position: absolute;
+  display: -webkit-box;
+  left: 1px;
+  top: 0px;
+  width: 315px;
+  z-index: 8;
+}
+
+.tab_entry_wrapper_image,
+.tab_device_wrapper_image {
+  margin-right: 10px;
+}
+
+.tab_entry_title {
+  pointer-events: none;
+}
+
+.tab_entry_title,
+.tab_entry_buttons {
+  width: 252px;
+  display: flex;
+  padding: 13px 0px;
+  justify-content: left;
+  align-items: center;
+}
+
+.tab_entry_buttons {
+  position: absolute;
+  margin: 0 -5px;
+  right: 10px;
+}
+
+.tab_entry_div {
+  color: #fff;
+  font-size: 13px;
+  height: 20px;
+  width: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tab_entry_image,
+.tab_device_image {
+  height: 20px;
+  width: 20px;
+}
+
+.tab_device_text,
+.tab_entry_text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  font-family: SegoeUI;
+  color: #000000;
+  font-size: 15px;
+}
+
+.errorInTabSync {
+  background-color: #f1f1f1;
+  color: #ed1c24;
+  display: none;
+  font-size: 14px;
+  margin: 5px 0;
+  overflow: hidden;
+  padding: 15px 10px;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  width: 100%;
+}

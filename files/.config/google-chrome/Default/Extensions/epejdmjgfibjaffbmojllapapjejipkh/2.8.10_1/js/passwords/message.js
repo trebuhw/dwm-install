@@ -1,0 +1,1 @@
+function NativeMessage({id:id,tabId:tabId,cmd:cmd,code:code,message:message,data:data}){this.id=id||"",this.tabId=tabId||"",this.cmd=cmd||"",this.code=code||"",this.message=message||"",this.data=data||""}

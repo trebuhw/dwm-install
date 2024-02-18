@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "Thêm vào Đánh dấu"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "Thêm mục đánh dấu vào Samsung Internet"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "Không có gì để nhập"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "Đánh dấu đã thêm"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "Đã tồn tại."
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "Tìm kiếm Đánh dấu"
+   },
+   "Bookmarks_Text": {
+      "message": "Đánh dấu"
+   },
+   "CANCEL": {
+      "message": "Thoát"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "Chọn thư mục khác..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "Liên hệ với chúng tôi"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "Sao URL"
+   },
+   "CONTEXT_DELETE": {
+      "message": "Xóa"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "Xóa tất cả"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "Xóa"
+   },
+   "CONTEXT_EDIT": {
+      "message": "Sửa"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "Xuất Đánh dấu"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "Nhập Đánh dấu"
+   },
+   "CONTEXT_OPEN": {
+      "message": "Mở"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "Mở tất cả"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "Mở tất cả mục đánh dấu"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Mở tất cả trong cửa sổ mới"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "Mở tất cả trong cửa sổ bí mật"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "Mở trong cửa sổ bí mật"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "Mở trong tab mới"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "Mở trong cửa sổ mới"
+   },
+   "CONTEXT_RENAME": {
+      "message": "Đổi tên"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "Sắp xếp theo tên"
+   },
+   "CREATE": {
+      "message": "Tạo"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "Tạo thư mục"
+   },
+   "DONE": {
+      "message": "Hoàn tất"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "Không hiện lại"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "Tự động đăng nhập vào các trang web bằng tên người dùng và mật mã đã lưu."
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "Không thể đồng bộ tên người dùng và mật mã vì ứng dụng Samsung Pass PC và phần mở rộng Samsung Internet được đăng nhập vào các Samsung account khác nhau."
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "Không thể nhận ID người dùng và mật mã từ Samsung Pass."
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Yêu cầu hệ thống của Samsung Pass:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "Tạo t.mục trong t.mục đã chọn"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "Chuyển"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "Lưu"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "Cài đặt"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "Nhập đánh dấu %s"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "Vị trí"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "Tên"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "Đánh dấu %s"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "Chọn vị trí"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "Tab đã đồng bộ"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "Cập nhật thông tin đăng nhập trong Samsung Pass?"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "Địa chỉ web"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "Thêm"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "Thêm mục đánh dấu"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Thêm vào mục đánh dấu Chrome hiện tại"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "Thêm vào mục đánh dấu %s hiện tại"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "Mục đánh dấu trong Samsung Internet"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "Mục đánh dấu Chrome"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "Sửa đánh dấu"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "Mở rộng trong tab mới"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "Xuất mục đánh dấu"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "Nhập mục đánh dấu"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "Nhập mục đánh dấu Chrome"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "Mở tất cả mục đánh dấu"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "Mở tất cả trong cửa sổ ẩn danh"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "Mở tất cả trong cửa sổ mới"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "Mở trong cửa sổ ẩn danh"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "Thay thế các mục đánh dấu Chrome hiện tại"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "Thay thế các mục đánh dấu %s hiện tại"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "Máy tính Samsung"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "Xếp theo tên"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (Trusted Platform Module) 2.0 trở lên"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 hoặc Windows 10 phiên bản 1903 trở lên"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "Đánh dấu"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "T.tin đăng nhập tự động điền"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "Lưu thông tin đăng nhập"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "Đồng bộ với Samsung Cloud"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "Tên người dùng và mật mã"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "Xem TT đ.nhập trong Samsung Pass"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "Dữ liệu từ các ứng dụng sẽ được đồng bộ với Samsung Cloud nếu:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "Đồng bộ hoạt động như thế nào?"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "Không thể đồng bộ ghi chú và các nội dung khác lớn hơn %1$s %2$s."
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "Đang đồng bộ…"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "Ứng dụng đã được bật Đồng bộ trong Cài đặt."
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "Thông tin nào được đồng bộ?"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "Bạn đã đăng nhập Samsung account của bạn."
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "Không thể đ.bộ dữ liệu"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "Đồng bộ %s"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "Phiên bản %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "Thông tin khác"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: ghi chú và các dữ liệu khác"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d mục"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "Đồng bộ lần cuối: %s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "Đồng bộ bằng"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "Đã xóa 1 mục."
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "Đã xóa %d mục."
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "Đồng bộ ngay"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "Thông báo bảo mật"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "Tìm kiếm"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Mở trong cửa sổ mới"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "Xóa"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "Sửa"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "Nhập"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "Đã sao chép URL."
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "Thông tin %s"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "Đã đăng nhập"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "Trợ giúp"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "Lưu tên người dùng và mật mã vào %s?"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "Không hỏi lại đối với trang này"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "Xem tất cả tài khoản"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "Cập nhật"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "Điểm khác biệt về hệ điều hành và thiết bị"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "Tắt"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "Bật"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "Phiên bản One UI"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "Đang nhập…"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "Sửa đánh dấu"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "Sửa thư mục"
+   },
+   "ERROR_STRING": {
+      "message": "Lỗi"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "Samsung Internet"
+   },
+   "FOLDER": {
+      "message": "Thư mục"
+   },
+   "FOLDER_NAME": {
+      "message": "Tên"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "Tên thư mục đã có."
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "Nhập tên thư mục."
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "Tên thư mục"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "Không thể di chuyển Thư mục."
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "Đánh dấu"
+   },
+   "GUIDE_DESC_1": {
+      "message": "Mở đánh dấu của bạn trên bất kỳ máy tính nào bằng tiện ích mở rộng Samsung Internet cho trình duyệt PC"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "Đồng bộ đánh dấu Samsung Internet"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "Sử dụng Đánh dấu Samsung Internet lưu trên các thiết bị khác, chẳng hạn như điện thoại di động hoặc máy tính bảng của bạn, cũng như đăng nhập web an toàn và dễ dàng với Samsung Pass, trên PC của bạn."
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "Làm cách nào tôi có thể sử dụng tính năng mở rộng Samsung Internet hiệu quả hơn?"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Đăng nhập web dễ dàng bằng Samsung Pass"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "Tôi có thể đăng nhập web an toàn và dễ dàng bằng Samsung Pass như thế nào?"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ Tính năng này chỉ có thể sử dụng được trên các thiết bị hỗ trợ ứng dụng Samsung Pass cho PC. "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "Để biết các thiết bị được hỗ trợ và hướng dẫn chi tiết, vui lòng truy cập trang web bên dưới."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "Tính năng này chỉ được hỗ trợ trên dòng Galaxy Book 3. Sau này, tính năng này sẽ được hỗ trợ trên nhiều dòng máy hơn."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "Hỗ trợ đăng nhập web an toàn và dễ dàng qua ứng dụng Samsung Pass dành cho PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "Bật menu “Cài đặt” > “Tên người dùng và mật mã”."
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "Chọn biểu tượng Samsung Pass trên màn hình đăng nhập của trang web."
+   },
+   "GUIDE_TITLE": {
+      "message": "Đồng bộ đánh dấu trên Samsung Internet và trình duyệt PC của bạn"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "Trợ giúp"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "Thêm vào Đánh dấu"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "Không có mục"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "Đánh dấu Samsung"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "Thoát"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "Vị trí lưu trữ"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "Đánh dấu"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "Xóa tất cả"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "Sao chép"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "Tạo thư mục"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "Thư mục mới"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "Mở trong tab mới"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "Mở trong tab mới"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "Mở trong cửa sổ mới"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "Đổi tên"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "Đã tồn tại."
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "Sao URL"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "Đã nhập."
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "Đã xóa %d"
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "1 mục đã được chép"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "Đã chép %d mục."
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "Trở lại"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "Đăng xuất"
+   },
+   "IMPORT": {
+      "message": "Nhập"
+   },
+   "IMPORTED": {
+      "message": "Đã nhập."
+   },
+   "IMPORTING": {
+      "message": "Đang chép..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "Chỉ cần thêm các mục đánh dấu mới vào danh sách mục đánh dấu hiện có đã được nhập từ $1."
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "Tùy chọn nhập mục đánh dấu $1"
+   },
+   "IMPORT_ERROR": {
+      "message": "Chép vào bị lỗi."
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "Bạn có thể thêm các mục mới hoặc thay thế tất cả các mục có sẵn trong thư mục này."
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "Sử dụng mục đánh dấu $1 của bạn trong Samsung Internet"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "Đặt tùy chọn nhập mục đánh dấu $1"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "Hỏi mỗi lần"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "Tùy chọn nhập"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "Thêm"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "Xóa các mục đánh dấu đã được nhập từ $1 và tạo một bản sao mới của các mục đánh dấu $1."
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "Thay thế"
+   },
+   "IMPORT_TEXT": {
+      "message": "Nhập mục đánh dấu $1"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "Sau khi nhập mục đánh dấu $1, bạn có thể sử dụng mục đánh dấu $1 trên thiết bị di động Samsung của bạn."
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "Sử dụng mục đánh dấu $1 của bạn trên thiết bị di động Samsung."
+   },
+   "INITIAL_SETTINGS": {
+      "message": "Cài đặt ban đầu"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "Làm cách nào tôi có thể sử dụng tính năng mở rộng Samsung Internet?"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "Chọn biểu tượng “Mở rộng” nằm trong menu trên cùng của trình duyệt PC của bạn."
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "Chọn tính năng mở rộng Samsung Internet. ※ Ghim vào menu trên cùng bằng phím “Ghim”"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "Đăng nhập vào Samsung account của bạn và dùng thử tính năng mở rộng Samsung Internet."
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "Kết nối internet của bạn đã bị gián đoạn. Vui lòng thử lại."
+   },
+   "ITEMS_TEXT": {
+      "message": "mục"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "Nội dung nhập mới nhất"
+   },
+   "LAST_SYNCED": {
+      "message": "Lần đồng bộ cuối: "
+   },
+   "LOCATION_TEXT": {
+      "message": "Vị trí bộ nhớ"
+   },
+   "LOGIN_INTRO": {
+      "message": "Đăng nhập Samsung account của bạn để truy cập mục đánh dấu trên các thiết bị khác."
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "Đánh dấu trên di động"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "Tên"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "Thư mục mới"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "Đã thêm trang web vào Đánh dấu."
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "Đăng nhập Samsung account để thêm vào mục Đánh dấu Samsung."
+   },
+   "NO_BOOKMARKS": {
+      "message": "Không có đánh dấu"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "Không có kết quả tìm kiếm"
+   },
+   "NO_TABS": {
+      "message": "Không có tab"
+   },
+   "OK": {
+      "message": "OK"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Cài đặt %s để đồng bộ tên người dùng và mật mã từ các thiết bị khác của bạn."
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass không còn là một phần mở rộng của Samsung Internet nữa. Để tiếp tục sử dụng Samsung Pass để điền tên người dùng và mật mã online, hãy tải phần mở rộng Samsung Pass."
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Đăng nhập vào %s để đồng bộ tên người dùng và mật mã từ các thiết bị khác của bạn."
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "Tải phần mở rộng Samsung Pass"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "Cài đặt %s"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "Đăng nhập vào %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "Tải phần mở rộng Samsung Pass mới"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "Dữ liệu bạn có thể đồng bộ có thể khác nhau tùy theo máy tính và phần mềm hệ thống của bạn."
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "Cài đặt Samsung: Galaxy Buds được ghép đôi"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Chỉ Wi-Fi và Ethernet"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, Ethernet và dữ liệu di động"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "Mở"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "Tất cả ứng dụng Samsung trên máy tính này sẽ dừng đồng bộ."
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "Samsung account của bạn sẽ bị xóa khỏi máy tính này."
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "Các ứng dụng sẽ dừng đồng bộ"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "Bỏ chọn tất cả"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "Chọn tất cả"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "Liên hệ chúng tôi"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "Đã chọn %d"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "Thêm Đánh dấu mới"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "Thêm thư mục mới"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "Đổi tên thư mục"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "Tất cả mục đánh dấu"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "Mở tab"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "Đánh dấu Samsung"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "Mở tab từ các thiết bị khác"
+   },
+   "SAVE": {
+      "message": "Lưu"
+   },
+   "SETTING": {
+      "message": "Cài đặt"
+   },
+   "SHOW_LOGS": {
+      "message": "Xem nhật ký"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "Việc đăng nhập Samsung account đã hoàn tất"
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "Thoát ra"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "Đang đồng bộ..."
+   },
+   "SYNC_ERROR": {
+      "message": "Đồng bộ đang gặp sự cố. Nó sẽ hoạt động trở lại trong thời gian ngắn."
+   },
+   "SYNC_FAIL": {
+      "message": "Đồng bộ không thành công."
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "Đồng bộ Đánh dấu Samsung"
+   },
+   "TITLE": {
+      "message": "Tựa đề"
+   },
+   "TITLE_EMPTY": {
+      "message": "Trường không thể để trống."
+   },
+   "TOAST_DELETED": {
+      "message": "'$1' đã xóa."
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "Thư mục đã sắp xếp."
+   },
+   "TOAST_URL_COPIED": {
+      "message": "Đã sao chép URL."
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "Trường không thể để trống."
+   },
+   "URL_INVALID": {
+      "message": "Địa chỉ URL không đúng."
+   },
+   "WEB_ADDRESS": {
+      "message": "Địa chỉ web"
+   }
+}

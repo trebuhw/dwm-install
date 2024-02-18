@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>internet_pc_ic_Checkbox_off_press</title>
+    <desc>Created with Sketch.</desc>
+    <g id="internet_pc_ic_Checkbox_off_press" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Overlay" fill="#000000" opacity="0.4" cx="15.75" cy="15.75" r="9.75"></circle>
+        <g id="PC/Light_theme/03_CONTROLLER/Checkbox_off_press" transform="translate(6.250000, 6.250000)" opacity="0.800000012" stroke="#8C8C8C">
+            <circle id="Check" cx="9.75" cy="9.75" r="9.75"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="27px" viewBox="0 0 43 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PC/Light_theme/03_CONTROLLER/Switch_off_dim</title>
+    <g id="PC/Light_theme/03_CONTROLLER/Switch_off_dim" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.400000006">
+        <g id="Group" transform="translate(3.000000, 2.500000)">
+            <rect id="switch_bg" fill="#999999" x="0" y="0.75" width="37" height="20.5" rx="10.25"></rect>
+            <circle id="switch_fill" stroke="#8C8C8C" fill="#FCFCFC" cx="11" cy="11" r="10.5"></circle>
+        </g>
+    </g>
+</svg>

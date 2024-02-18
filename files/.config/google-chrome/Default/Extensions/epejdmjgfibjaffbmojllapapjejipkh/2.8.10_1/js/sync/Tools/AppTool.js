@@ -1,0 +1,1 @@
+class AppTool{generateCTID(length=8){return Math.floor(Math.random()*Math.pow(10,length)).toString()}appendIds(sb,ids){return console.log("appendIds"),sb+ids.map((id=>`'${id}'`)).join(",")}getClientDeviceId(){return"00245498C2B0"}}

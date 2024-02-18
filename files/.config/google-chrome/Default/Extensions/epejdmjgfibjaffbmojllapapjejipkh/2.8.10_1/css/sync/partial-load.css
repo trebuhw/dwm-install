@@ -1,0 +1,38 @@
+/* Partial loading style (translucent screen that appears during sync)*/
+.bookmarks.partial-load .bookmarksData .bookmark_item {
+  opacity: 0.5;
+}
+
+/* Hide floating icon during partial-load */
+.bookmarks.partial-load .bookmark-floating-icon {
+  opacity: 0;
+}
+
+/* disable clicking folders during partial-load */
+.bookmarks.partial-load .bookmark_folder {
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+/* disable download-progress when partial-load is not active */
+.progress-status .download-progress,
+.bookmarks .download-progress {
+  display: none;
+}
+
+/* enable download-progress when partial-load is not active */
+.bookmarks.partial-load .download-progress {
+  display: block;
+  position: fixed;
+  height: 2px;
+  z-index: 1234;
+  width: 100vw;
+}
+.progress-status.partial-load .download-progress {
+  display: block;
+  width: 100%;
+  position: absolute;
+  height: 4px;
+  border-radius: 2px;
+  top: 44px;
+}
