@@ -6,11 +6,21 @@
 
 3. Run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
 
-4. **Install scripts:** `02`
+4. **Install scripts:** 
+
+`02.02.all-app-install.sh`
 
 ---
 
-5. **Options install scripts:** `07`, `08`, `09`, `10`
+5. **Options install scripts:** 
+
+`07-install-bluetooth.sh`, 
+
+`08-install-cups.sh`, 
+
+`09.install-virtualbox.sh`, 
+
+`10.ln-github-config.sh`
 
 ---
 
