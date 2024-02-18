@@ -89,5 +89,7 @@ $packer wttr
 $packer xcolor
 $packer xorg-xkill
 
+yay update-grub
+
 sudo systemctl enable avahi-daemon.service
 sudo systemctl enable ntpd.service
