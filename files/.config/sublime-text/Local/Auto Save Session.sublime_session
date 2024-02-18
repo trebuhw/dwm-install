@@ -327,7 +327,7 @@
 					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/README.md",
 					"settings":
 					{
-						"buffer_size": 2419,
+						"buffer_size": 2424,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -1414,6 +1414,64 @@
 							},
 							"AQAAAIQGAAAAAAAAhQYAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAAhAYAAAAAAACEBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							146,
+							3,
+							"left_delete",
+							null,
+							"AwAAAFkGAAAAAAAAWQYAAAAAAAABAAAAIFgGAAAAAAAAWAYAAAAAAAABAAAALVcGAAAAAAAAVwYAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAWgYAAAAAAABaBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							147,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAFcGAAAAAAAAWAYAAAAAAAAAAAAAWAYAAAAAAABZBgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVwYAAAAAAABXBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							148,
+							1,
+							"insert",
+							{
+								"characters": "-"
+							},
+							"AQAAAFkGAAAAAAAAWgYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWQYAAAAAAABZBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							149,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAFoGAAAAAAAAWwYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAWgYAAAAAAABaBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							151,
+							1,
+							"insert",
+							{
+								"characters": "\n\n-"
+							},
+							"AwAAAGoGAAAAAAAAawYAAAAAAAAAAAAAawYAAAAAAABsBgAAAAAAAAAAAABsBgAAAAAAAG0GAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAagYAAAAAAABqBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							152,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAG0GAAAAAAAAbgYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbQYAAAAAAABtBgAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1803,15 +1861,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2419,
+								"buffer_size": 2424,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1669,
-										1669
+										1646,
+										1646
 									]
 								],
 								"settings":
