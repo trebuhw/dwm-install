@@ -30,7 +30,7 @@
 
 - run startx 
 
-- run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
+- run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`) - needed to download the remaining programs from the arcolinux repository without building via yay
 
 ---
 
