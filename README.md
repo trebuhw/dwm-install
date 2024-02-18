@@ -1,16 +1,16 @@
 # dwm-install Archlinux
 
-1. **Install scripts:** `0.install.sh`
+1. **Install scripts:** `00.install.sh`
 
 2. **Reboot (automate)**
 
 3. Run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
 
-4. **Install scripts:** `2`
+4. **Install scripts:** `02`
 
 ---
 
-5. **Options install scripts:** `7`, `8`
+5. **Options install scripts:** `07`, `08`, `09`, `10`
 
 ---
 
@@ -18,7 +18,7 @@ Scripts `10.ln-github-config` run scripts `2.all.app` after installation -> remo
 
 ---
 
-Scripts `9` install only false install scripts `0.install.sh` - (`1`, `2`, `3`, `4`, `5`)
+Scripts `11` install only false install scripts `00.install.sh` - (`01`, `02`, `03`, `04`, `05`)
 this is the original repository Suckless
 
 ### **Keybindings:**
@@ -33,5 +33,14 @@ this is the original repository Suckless
 - `alt + shift+ d` = launcher `rofi -show run`
 - `super + q` = kill window `pkill`
 - `super + shift + q` = reload `dwm`
+
+### **Theme:**
+
+`lxappearance` - `set your choise`
+
+- `GTK` - `Adwaita, arc-theme, dracula`
+- `Cursors` - `Adwaita, Bibata-Modern-Ice, Dracula-cursors`
+- `Icons` - `Adwaita, Papirus, Dracula`
+- `Fonts` - `JetBrainsMono Nerd Font 10`
 
  
