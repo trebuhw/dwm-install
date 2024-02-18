@@ -1,24 +1,16 @@
 # dwm-install Archlinux
 
-1. **Install scripts:** `00.install.sh`
+1. **Install scripts:** `00.install.sh` - `(01.minimal-app-install.sh`, `03.file-copy.sh`, `04.my-dwm-install.sh`, `05.set-gtkthemes-arc.sh`)
 
-- `01.minimal-app-install.sh` 
-
-- `03.file-copy.sh` 
-
-- `04.my-dwm-install.sh` 
-
-- `05.set-gtkthemes-arc.sh`
-
---
+---
 
 2. **Reboot (automate)**
 
---
+---
 
 3. Run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
 
---
+---
 
 4. **Install scripts:** 
 
