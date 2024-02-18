@@ -2,8 +2,7 @@
 
 ### **Keybindings:**
 
-- `super=alt` `ModKey1` - default
-- `super=win` `ModKey4` - alternate
+- `super=win` `ModKey4` - default
 - `super + enter` = terminal `kitty`
 - `super + c` = web browser `google-chrome-stable`
 - `super + s` = editor `sublime-text-4`
