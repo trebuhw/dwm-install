@@ -75,7 +75,7 @@ this is the original repository Suckless
 - `super + q` = kill window `pkill`
 - `super + shift + q` = reload `dwm`
 
-### **Theme:**
+### **Installed theme:**
 
 `lxappearance` - `set your choise`
 
