@@ -71,9 +71,9 @@ Detection of other systems and update of grub
 
 *Run os-prober to update-grub*
 
-- edit `sudo nvim /etc/default/grub` - find os-prober delate # '/etc/default/grub'
+- edit `sudo nvim /etc/default/grub` - find os-prober delate # `/etc/default/grub`
 
-- run 'update-grub'
+- run `update-grub`
 
 or
 

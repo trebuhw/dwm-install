@@ -1342,6 +1342,78 @@
 							},
 							"AQAAAOQFAAAAAAAA5QUAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAA5AUAAAAAAADkBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							129,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJkGAAAAAAAAmQYAAAAAAAABAAAAJw",
+							"AQAAAAAAAAABAAAAmgYAAAAAAACaBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							131,
+							1,
+							"left_delete",
+							null,
+							"AQAAAI0GAAAAAAAAjQYAAAAAAAABAAAAJw",
+							"AQAAAAAAAAABAAAAjgYAAAAAAACOBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							132,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAI0GAAAAAAAAjgYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjQYAAAAAAACNBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							134,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAJkGAAAAAAAAmgYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmQYAAAAAAACZBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							137,
+							1,
+							"left_delete",
+							null,
+							"AQAAAIQGAAAAAAAAhAYAAAAAAAABAAAAJw",
+							"AQAAAAAAAAABAAAAhQYAAAAAAACFBgAAAAAAAAAAAAAAYGVA"
+						],
+						[
+							139,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHIGAAAAAAAAcgYAAAAAAAABAAAAJw",
+							"AQAAAAAAAAABAAAAcwYAAAAAAABzBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							140,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAHIGAAAAAAAAcwYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgYAAAAAAAByBgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							143,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAIQGAAAAAAAAhQYAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAhAYAAAAAAACEBgAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1738,8 +1810,8 @@
 								"selection":
 								[
 									[
-										1553,
-										1553
+										1669,
+										1669
 									]
 								],
 								"settings":
@@ -1747,7 +1819,7 @@
 									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1020.0,
+								"translation.y": 1200.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
