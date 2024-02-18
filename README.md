@@ -2,13 +2,27 @@
 
 1. **Install scripts:** `00.install.sh`
 
+- `01.minimal-app-install.sh` 
+
+- `03.file-copy.sh` 
+
+- `04.my-dwm-install.sh` 
+
+- `05.set-gtkthemes-arc.sh`
+
+--
+
 2. **Reboot (automate)**
+
+--
 
 3. Run ATT - archlinux-tweak-tool (`pacman - add repo arcolinux`, `add key`)
 
+--
+
 4. **Install scripts:** 
 
-`02.02.all-app-install.sh`
+`02.all-app-install.sh` 
 
 ---
 
@@ -28,7 +42,8 @@ Scripts `10.ln-github-config` run scripts `2.all.app` after installation -> remo
 
 ---
 
-Scripts `11` install only false install scripts `00.install.sh` - (`01`, `02`, `03`, `04`, `05`)
+Scripts ``10.ln-github-config.sh`
+` install only false install scripts `00.install.sh` - (`01`, `02`, `03`, `04`, `05`)
 this is the original repository Suckless
 
 ### **Keybindings:**
