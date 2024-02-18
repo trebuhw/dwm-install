@@ -65,6 +65,22 @@ this is the original repository Suckless
 
 ---
 
+### **GRUB:**
+
+Detection of other systems and update of grub
+
+*Run os-prober to update-grub*
+
+- edit `sudo nvim /etc/default/grub` - find os-prober delate # '/etc/default/grub'
+
+- run 'update-grub'
+
+or
+
+- `sudo grub-mkconfig -o /boot/grub/grub.cfg` 
+
+---
+
 ### **Keybindings:**
 
 - `super=win` `ModKey4` - default
