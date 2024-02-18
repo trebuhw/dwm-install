@@ -10,7 +10,7 @@
 
 - `git clone http://github.com/trebuhw/dwm-install.git`
 
-- cd `~/dwm-install.git`
+- cd `~/dwm-install`
 
 2. **Install scripts:** `00.install.sh`
 
