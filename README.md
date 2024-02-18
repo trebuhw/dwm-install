@@ -52,7 +52,9 @@
 
 ---
 
-Scripts `10.ln-github-config` run scripts `2.all.app` after installation -> removes files from `.config` and creates `ln -s` from the repository `$HOME/Documents/GitHub/dwm-install/files/.config`
+- If you want to manage files via your github add files to the repository do ln -s giving your path
+
+- Scripts `10.ln-github-config` run scripts `2.all.app` after installation -> removes files from `.config` and creates `ln -s` from the repository `$HOME/Documents/GitHub/dwm-install/files/.config`
 
 ---
 
