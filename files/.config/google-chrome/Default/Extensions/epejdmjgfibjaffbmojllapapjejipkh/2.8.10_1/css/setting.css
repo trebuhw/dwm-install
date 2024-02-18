@@ -1,0 +1,524 @@
+.settingMain {
+  width: 100%;
+  height: 530px;
+  margin-top: 60px;
+}
+
+.sync-info {
+  background: #fff;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.menuItem {
+  z-index: 99;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+  outline-style: none;
+  text-decoration: none;
+  color: #252525;
+}
+
+.menuItem:visited {
+  text-decoration: none;
+  color: grey;
+}
+
+.menuItemText {
+  z-index: 1;
+  font-size: 16px;
+  font-family: SegoeUI;
+  color: #252525;
+  text-align: left;
+  display: block;
+}
+
+.menuItemdivider {
+  margin: 0 0 0 24px;
+  width: calc(100% - 48px);
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 0px;
+  text-align: left;
+}
+
+.menuItem:hover {
+  background: rgba(0, 0, 0, 0.05);
+  outline-style: none;
+  cursor: pointer;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.settingBottom {
+  display: none;
+  width: 352px;
+  height: 60px;
+  margin-top: -2px;
+  padding: 0 20px;
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logOutText {
+  font-size: 14px;
+  font-family: SegoeUI-Semibold;
+  color: #000000;
+  text-align: center;
+}
+
+#settingLogout {
+  width: 360px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  outline-style: none;
+}
+
+.settingText {
+  color: #252525;
+}
+
+.settingFailureText {
+  color: #f3514d;
+}
+
+#settingAccountText {
+  font-size: 13px;
+}
+
+.settingAccount {
+  width: 100%;
+  padding: 16px 24px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  outline-style: none;
+  cursor: pointer;
+}
+
+.settingAccount:hover {
+  background: rgba(0, 0, 0, 0.05);
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+.settingAccount .settingText {
+  color: #3e91ff;
+}
+
+.user-pass {
+  width: 100%;
+  padding: 16px 24px;
+  font-size: 16px;
+  color: #010101;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-pass-settings {
+  cursor: default;
+}
+
+.pass-setting-switch {
+  padding: 0 24px;
+  margin: 20px 0;
+  background: #e9e9e9;
+  border-radius: 29px;
+}
+
+.pass-setting-switch > div {
+  padding: 16px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pass-setting-switch > div > span {
+  font-size: 16px;
+  color: #0072de;
+}
+
+.pass-setting-switch > .appSwitch {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.app-ready span,
+.app-not-ready span {
+  font-size: 13px;
+  color: #252525;
+}
+
+.pass-setting-options {
+  padding: 0 24px;
+  margin: 20px 0;
+  background: #fff;
+  border-radius: 16px;
+}
+
+.pass-setting-options > div {
+  padding: 16px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pass-setting-options > div > span {
+  font-size: 16px;
+}
+
+.samsung-pass .spass-label {
+  color: #8c8c8c;
+}
+
+.samsung-pass .view-in-spass {
+  padding: 16px 24px;
+  background: #fff;
+  border-radius: 16px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.samsung-pass .view-in-spass span {
+  font-size: 16px;
+}
+
+.app-not-ready .go-to-app {
+  display: flex;
+  margin-top: 24px;
+  justify-content: center;
+}
+
+.app-not-ready .go-to-app span {
+  display: inline-block;
+  padding: 10px 16px;
+  font-size: 17px;
+  color: #fafafa;
+  text-align: center;
+  line-height: 24px;
+  background: #0381fe;
+  border-radius: 22px;
+}
+
+#syncTime {
+  font-family: SegoeUI;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+#chrome-import-options {
+  display: none;
+}
+
+.settingImport {
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.import-options-container > div:first-child {
+  margin-bottom: 10px;
+}
+
+.about {
+  background: #fff;
+  border-radius: 16px;
+  padding: 16px 24px;
+}
+
+.about div:first-child {
+  margin-bottom: 16px;
+}
+
+.about .about-title {
+  font-size: 20px;
+  color: #010101;
+}
+
+.about .version {
+  margin-bottom: 16px;
+}
+
+.about .ui-version {
+  margin-bottom: 20px;
+}
+
+.about .version span,
+.about .ui-version span {
+  display: block;
+  font-size: 14px;
+}
+
+.about .version span:last-child,
+.about .ui-version span:last-child {
+  color: #8c8c8c;
+  font-size: 12px;
+}
+
+.about .guide-link {
+  display: flex;
+  flex-direction: column;
+}
+
+.guide-link a {
+  font-size: 13px;
+  margin-bottom: 6px;
+  color: #0381fe;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+a:focus {
+  outline: none;
+}
+
+.setting .header-item {
+  height: 40px;
+}
+
+.sync-settings {
+  position: relative;
+}
+
+.on-synced .status,
+.sync-settings .data-sync,
+.sync-settings .sync-method {
+  background: #fff;
+  border-radius: 16px;
+}
+
+.on-synced .status,
+.sync-settings .sync-method {
+  padding: 16px 24px;
+}
+
+.sync-settings .data-sync {
+  padding: 18px 24px;
+}
+
+.on-synced .status {
+  margin-bottom: 12px;
+  border-radius: 29px;
+  background: #e9e9e9;
+}
+
+.on-synced .status .app-switch-container {
+  height: 26px;
+  line-height: 26px;
+}
+
+.on-synced .status .appSwitch {
+  width: 100%;
+}
+
+.on-synced .status .appSwitch > label:first-child,
+.sync-settings .data-sync > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.on-synced .status .appSwitch > label > .switch-text {
+  font-family: 'SegoeUI-Semibold';
+  font-weight: 600;
+}
+
+.on-synced .status .appSwitch > label > .isOn {
+  color: #0072de;
+}
+
+.on-synced .last-sync-info {
+  padding-left: 24px;
+}
+
+.itemSettingDivider {
+  margin: 0;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 0px;
+  text-align: left;
+}
+
+.sync-settings .data-sync {
+  margin: 16px 0;
+}
+
+.data-sync .bookmark,
+.data-sync .open-tabs {
+  font-size: 16px;
+}
+
+/* .data-sync .bookmark {
+  padding-bottom: 17px;
+} */
+
+.data-sync .open-tabs {
+  padding-top: 17px;
+}
+
+.sync-settings .data-sync .app-switch-container {
+  display: inline-block;
+}
+
+.sync-settings .sync-method > .sync-now {
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.sync-method .sync-using {
+  padding-top: 17px;
+}
+
+.sync-settings .sync-method .sync-using .sync-using-title {
+  margin-bottom: 17px;
+  font-size: 16px;
+}
+
+.sync-method .sync-using .method-options {
+  margin-top: 17px;
+}
+
+.sync-method .sync-using .method-options .radio-option {
+  height: initial;
+}
+
+.sync-method .sync-using .method-options .radio-option:first-child {
+  padding-bottom: 12px;
+  border-bottom: 1px solid #e4e4e4;
+  margin-bottom: 12px;
+}
+
+.sync-method .sync-using .method-options .radio-option:last-child {
+  margin-bottom: 0;
+}
+
+.sync-settings .disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.sync-settings .overlay {
+  z-index: 10;
+}
+
+.more-information-setting span {
+  display: block;
+}
+
+.more-information-setting > div,
+.more-information-setting .sync-note {
+  margin-bottom: 20px;
+}
+
+.more-information-setting .sync-note {
+  color: #0381fe;
+}
+
+.more-information-setting > div > span:first-child {
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+/* dropdown menu styles */
+.sync-settings .dropdown-menu {
+  background: #ffffff;
+  border-radius: 12px;
+  z-index: 99;
+  padding: 12px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.04), 0 3px 8px rgba(0, 0, 0, 0.09);
+  border: none;
+  position: absolute;
+  top: -24px;
+  right: 0;
+}
+.sync-settings .dropdown-menu ul {
+  margin: 0;
+  padding: 0;
+}
+.sync-settings .dropdown-menu li {
+  position: relative;
+  list-style-type: none;
+}
+.sync-settings .dropdown-menu .dropdown-item {
+  padding: 6px 12px;
+  color: #464646;
+  font-weight: 500;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.3s all ease;
+  align-items: center;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  display: block;
+}
+.sync-settings .dropdown-menu .dropdown-item:hover,
+.samsung-pass .view-in-spass:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+/* end dropdown menu */
+
+/* start styles dark theme */
+.dark .sync-info,
+.dark .about,
+.dark .sync-settings .data-sync,
+.dark .sync-settings .sync-method {
+  background: #171717;
+}
+
+.dark .about,
+.dark .menuItem,
+.dark .menuItemText,
+.dark .scloud .settingText,
+.dark .about .about-title,
+.dark .data-sync .bookmark,
+.dark .data-sync .open-tabs,
+.dark .sync-using .sync-using-title,
+.dark .sync-settings .dropdown-menu .dropdown-item,
+.dark .more-information-setting {
+  color: #fafafa;
+}
+
+.dark .menuItem:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.dark .on-synced .status {
+  background: #2d2d2d;
+}
+
+.dark .on-synced .last-sync-info {
+  color: #e5e5e5;
+}
+
+.dark .sync-now .settingText {
+  color: #999999;
+}
+
+.dark .sync-settings .dropdown-menu {
+  background: #4d4d4d;
+}
+
+.dark .itemSettingDivider {
+  border-top: 1px solid #4d4d4d;
+}
+
+.dark .sync-method .sync-using .method-options .radio-option:first-child {
+  border-bottom: 1px solid #4d4d4d;
+}
+/*end styles dark theme*/
+
+/*syncing styles*/
+.syncing .menuItem.sync-status,
+.syncing #samsungAccount {
+  opacity: 0.2;
+  pointer-events: none;
+}

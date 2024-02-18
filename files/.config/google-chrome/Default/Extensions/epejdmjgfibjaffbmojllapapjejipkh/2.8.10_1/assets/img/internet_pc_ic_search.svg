@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>internet_pc_ic_search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="internet_pc_ic_search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Common/search_find" transform="translate(3.000000, 3.000000)" stroke="#000000" stroke-width="1.25">
+            <path d="M11.1668333,5.85375 C11.1668333,8.78791667 8.7885,11.16625 5.85433333,11.16625 C2.92016667,11.16625 0.541833333,8.78791667 0.541833333,5.85375 C0.541833333,2.92041667 2.92016667,0.54125 5.85433333,0.54125 C8.7885,0.54125 11.1668333,2.92041667 11.1668333,5.85375 Z M13.8125,13.8123333 L9.63083333,9.63066667" id="search_find"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "添加到书签"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "将书签添加到 Samsung Internet"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "没有可导入项"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "书签已添加"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "书签已存在。"
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "书签搜索"
+   },
+   "Bookmarks_Text": {
+      "message": "书签"
+   },
+   "CANCEL": {
+      "message": "取消"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "选择其他文件夹…"
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "联系我们"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "复制网址"
+   },
+   "CONTEXT_DELETE": {
+      "message": "删除"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "全部删除"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "删除"
+   },
+   "CONTEXT_EDIT": {
+      "message": "编辑"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "导出书签"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "导入书签"
+   },
+   "CONTEXT_OPEN": {
+      "message": "打开"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "打开所有"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "打开所有书签"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "在新窗口中打开全部"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "在秘密窗口中打开所有"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "在秘密窗口中打开"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "从新页面打开"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "在新窗口中打开"
+   },
+   "CONTEXT_RENAME": {
+      "message": "重命名"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "按名称排序"
+   },
+   "CREATE": {
+      "message": "新建"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "新建文件夹"
+   },
+   "DONE": {
+      "message": "完成"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "不再显示"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "使用已保存的用户名和密码自动登录网站。"
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "无法同步用户名和密码，因为 Samsung Pass 电脑应用程序和三星浏览器扩展已登录不同的三星帐户。"
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "无法从 Samsung Pass 获取用户 ID 和密码。"
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "三星帐户"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Samsung Pass 系统要求："
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "在选定文件夹中创建文件夹"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "移动"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "保存"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "设置"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "导入 %s 书签"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "位置"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "名称"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "%s 书签"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "选择位置信息"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "已同步的页面"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "要更新 Samsung Pass 中的登录信息吗？"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "网址"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "添加"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "添加书签"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "添加至当前的 Chrome 书签"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "添加至当前的 %s 书签"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "三星浏览器书签"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "Chrome 书签"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "编辑书签"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "在新页面中展开"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "导出书签"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "导入书签"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "导入 Chrome 书签"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "打开所有书签"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "在匿名窗口中打开全部"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "在新窗口中打开全部"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "在匿名窗口中打开"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "替换当前的 Chrome 书签"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "替换当前的 %s 书签"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "三星电脑"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "按名称排序"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (受信任的平台模块) 2.0 或更高版本"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 或 Windows 10 版本 1903 或更高版本"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "书签"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "自动填写登录信息"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "保存登录信息"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "与三星云同步"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "用户名和密码"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "查看 Samsung Pass 中的登录信息"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "在下列情况中，将与三星云同步您的应用程序数据："
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "同步如何工作？"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "无法同步大于 %1$s %2$s 的笔记和其他内容。"
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "正在同步…"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "应用程序在【设置】中启用了【同步】。"
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "将同步哪些信息？"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "您已登录三星帐户。"
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "无法同步数据"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "%s同步"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "版本 %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "更多信息"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "三星笔记：笔记和其他数据"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d 个项目"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "上次同步：%s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "同步途径"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "已删除 1 个项目"
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "已删除 %d 个项目"
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "立即同步"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "隐私声明"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "搜索"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "在新窗口中打开"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "删除"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "编辑"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "导入"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "已复制 URL"
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "关于 %s"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "已登录"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "帮助"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "是否将用户名和密码保存至%s？"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "此网站不再提示"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "查看所有帐户"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "更新"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "设备和操作系统差异"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "关"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "开"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "One UI 版本"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "正在导入…"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "编辑书签"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "编辑文件夹"
+   },
+   "ERROR_STRING": {
+      "message": "错误"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "三星浏览器"
+   },
+   "FOLDER": {
+      "message": "文件夹"
+   },
+   "FOLDER_NAME": {
+      "message": "名称"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "文件夹名称已经存在。"
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "输入文件夹名称"
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "文件夹名称"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "无法移动文件夹。"
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "书签"
+   },
+   "GUIDE_DESC_1": {
+      "message": "在任何使用适用于个人电脑浏览器的三星浏览器扩展的计算机上打开您的书签"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "同步三星浏览器书签"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "使用其他设备（如手机或平板电脑）上保存的三星浏览器书签，以及在 PC 上使用 Samsung Pass 安全轻松地登录网络。"
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "如何更高效地使用三星浏览器扩展功能？"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Samsung Pass 轻松登录网络"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "如何使用 Samsung Pass 安全轻松地登录网络"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ 此功能仅可用于支持 PC 版 Samsung Pass 应用程序的设备。"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "有关支持的设备和详细说明，请访问以下网站。"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "它仅在 Galaxy Book 3 系列中受支持。今后支持范围将扩大。"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "支持通过适用于 PC 的 Samsung Pass 应用程序安全轻松地登录网络"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "打开“设置”>“用户名和密码”菜单"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "选择网页登录屏幕上的 Samsung Pass 图标。"
+   },
+   "GUIDE_TITLE": {
+      "message": "在三星浏览器和个人电脑浏览器之间同步书签"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "帮助"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "添加到书签"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "没有内容"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "三星书签"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "取消"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "存储位置"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "书签"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "全部删除"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "复制"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "新建文件夹"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "新文件夹"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "从新页面打开"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "在新页面中打开"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "在新窗口中打开"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "重命名"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "书签已存在。"
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "复制网址"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "已导入"
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "%d 个已删除"
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "已复制 1 个文件"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "已复制 %d 个文件。"
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "取消"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "注销"
+   },
+   "IMPORT": {
+      "message": "导入"
+   },
+   "IMPORTED": {
+      "message": "已导入"
+   },
+   "IMPORTING": {
+      "message": "导入中…"
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "只需将新书签添加到从 $1 导入的现有书签列表即可。"
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "导入$1书签选项"
+   },
+   "IMPORT_ERROR": {
+      "message": "导入失败。"
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "您可以向此文件夹添加新内容或替换现有的全部内容。"
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "在 Samsung Internet 上使用您的$1书签"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "设置导入$1书签选项"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "每次询问"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "导入选项"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "添加"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "清除从 $1 导入的现有书签，并创建 $1 书签的全新副本。"
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "替换"
+   },
+   "IMPORT_TEXT": {
+      "message": "导入 $1 书签"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "导入 $1 书签后，您就可以三星移动设备中使用它们。"
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "在三星移动设备中使用您的 $1 书签。"
+   },
+   "INITIAL_SETTINGS": {
+      "message": "初始设置"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "如何使用三星浏览器扩展功能？"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "选择位于 PC 浏览器顶部菜单中的“扩展”图标。"
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "选择三星浏览器扩展功能 ※使用“固定”按钮将其固定到顶部菜单"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "登录到您的三星帐户，并试用三星浏览器扩展功能。"
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "您的网络连接已中断，请重试。"
+   },
+   "ITEMS_TEXT": {
+      "message": "项目"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "最新导入"
+   },
+   "LAST_SYNCED": {
+      "message": "上次同步时间： "
+   },
+   "LOCATION_TEXT": {
+      "message": "存储位置"
+   },
+   "LOGIN_INTRO": {
+      "message": "您在登录三星帐户后可访问其他设备上的书签。"
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "移动书签"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "名称"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "新文件夹"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "网页已添加至书签"
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "登录三星帐户后可添加至三星书签。"
+   },
+   "NO_BOOKMARKS": {
+      "message": "无书签"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "无搜索结果"
+   },
+   "NO_TABS": {
+      "message": "无分页"
+   },
+   "OK": {
+      "message": "确定"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "安装 %s 来同步您其他设备的用户名和密码。"
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass 不再是三星浏览器扩展的一部分。若要继续使用 Samsung Pass 在线填写用户名和密码，请获取 Samsung Pass 扩展。"
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "登录 %s 来同步您其他设备的用户名和密码。"
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "获取 Samsung Pass 扩展"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "安装%s"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "登录 %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "获取新的 Samsung Pass 扩展"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "您可以同步的数据会因电脑和系统软件而异。"
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "三星设置：已配对的 Galaxy Buds"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "仅限 Wi-Fi 和以太网"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi、以太网和移动数据"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "打开"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "此电脑上的所有三星应用程序将停止同步。"
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "将从此电脑中移除您的三星帐户。"
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "应用程序将停止同步"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "取消全选"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "全选"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "联系我们"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "已选中 %d 个"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "添加新书签"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "新增文件夹"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "重命名文件夹"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "所有书签"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "打开页面"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "三星书签"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "从其他设备打开页面"
+   },
+   "SAVE": {
+      "message": "保存"
+   },
+   "SETTING": {
+      "message": "设置"
+   },
+   "SHOW_LOGS": {
+      "message": "查看记录"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "三星帐户登录完成"
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "注销"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "正在同步..."
+   },
+   "SYNC_ERROR": {
+      "message": "目前同步遇到问题。 很快将回来。"
+   },
+   "SYNC_FAIL": {
+      "message": "同步已失败"
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "同步三星书签"
+   },
+   "TITLE": {
+      "message": "标题"
+   },
+   "TITLE_EMPTY": {
+      "message": "字段不能为空。"
+   },
+   "TOAST_DELETED": {
+      "message": "已删除'$1'"
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "已排序的文件夹。"
+   },
+   "TOAST_URL_COPIED": {
+      "message": "已复制 URL"
+   },
+   "URL": {
+      "message": "网址"
+   },
+   "URL_EMPTY": {
+      "message": "字段不能为空。"
+   },
+   "URL_INVALID": {
+      "message": "网址无效"
+   },
+   "WEB_ADDRESS": {
+      "message": "网址"
+   }
+}

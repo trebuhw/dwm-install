@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "ബുക്ക്മാര്‍ക്കുകളിലേക്ക് ചേര്‍ക്കുക"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "സാംസങ്ങ് ഇന്‍റർനെറ്റിൽ ബുക്ക്മാർക്കുകൾ ചേർക്കുക"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "ഇംപോർട്ട് ചെയ്യാനുള്ള ഒന്നുമില്ല"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "ബുക്ക്മാര്‍ക്ക് ചേര്‍ത്തു"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "ബുക്ക്മാര്‍ക്ക് ഇതിനകം നിലവിലുണ്ട്."
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "ബുക്ക്മാർക്ക് തിരയൽ"
+   },
+   "Bookmarks_Text": {
+      "message": "ബുക്ക്മാര്‍ക്കുകള്‍"
+   },
+   "CANCEL": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "മറ്റൊരു ഫോൾഡർ തിരഞ്ഞെടുക്കുക..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "ഞങ്ങളെ ബന്ധപ്പെടുക"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "URL പകര്‍ത്തുക"
+   },
+   "CONTEXT_DELETE": {
+      "message": "ഇല്ലാതാക്കുക"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "എല്ലാം ഇല്ലാതാക്കുക"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "ഇല്ലാതാക്കുക"
+   },
+   "CONTEXT_EDIT": {
+      "message": "എഡിറ്റുചെയ്യുക"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ എക്സ്പോർട്ട് ചെയ്യുക"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ ഇംപോർട്ട് ചെയ്യുക"
+   },
+   "CONTEXT_OPEN": {
+      "message": "തുറക്കുക"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "എല്ലാം തുറക്കുക"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ എല്ലാം തുറക്കുക"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "പുതിയ വിന്‍ഡോകളില്‍ എല്ലാം തുറക്കുക"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "രഹസ്യ വിന്‍ഡോയില്‍ എല്ലാം തുറക്കുക"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "രഹസ്യ വിൻഡോയിൽ തുറക്കുക"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "പുതിയ ടാബില്‍ തുറക്കുക"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "പുതിയ വിന്‍ഡോയില്‍ തുറക്കുക"
+   },
+   "CONTEXT_RENAME": {
+      "message": "പേര് മാറ്റുക"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "പേര് പ്രകാരം അടുക്കുക"
+   },
+   "CREATE": {
+      "message": "സൃഷ്‌ടിക്കുക"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "ഫോള്‍ഡര്‍ സൃഷ്ടിക്കുക"
+   },
+   "DONE": {
+      "message": "ചെയ്‌തു"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "ഇന്ന് വീണ്ടും കാണിക്കരുത്"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "സംരക്ഷിച്ച ഉപയോക്തൃനാമങ്ങളും പാസ്‌വേഡുകളും ഉപയോഗിച്ച് വെബ്‌സൈറ്റുകളിലേക്ക് ഓട്ടോമാറ്റിക്കായി സൈനിൻ ചെയ്യുക."
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "Samsung Pass PC ആപ്പും സാംസങ്ങ് ഇന്റർനെറ്റ് എക്സ്റ്റെൻഷനും വ്യത്യസ്‌ത Samsung account-കളിലേക്ക് സൈൻ ഇൻ ചെയ്‌തിരിക്കുന്നതിനാൽ ഉപയോക്തൃനാമങ്ങളും പാസ്‌വേഡുകളും സമന്വയിപ്പിക്കാനാകില്ല."
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "Samsung Pass-ൽ നിന്ന് നിങ്ങളുടെ ഉപയോക്തൃ ID-യും പാസ്‌വേഡും നേടാനായില്ല."
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Samsung Pass സിസ്റ്റം ആവശ്യകതകള്‍:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "തിരഞ്ഞെടുത്ത ഫോൾഡറിൽ ഫോൾഡർ സൃഷ്ടിക്കുക"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "നീക്കുക"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "സംരക്ഷിക്കുക"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "ക്രമീകരണങ്ങള്‍"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "%s ബുക്ക്‌മാർക്കുകൾ ഇംപോർട്ട് ചെയ്യുക"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "ലൊക്കേഷൻ"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "പേര്"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "%s ബുക്ക്‌മാർക്കുകൾ"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "ലൊക്കേഷൻ തിരഞ്ഞെടുക്കുക"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "സമന്വയിപ്പിച്ച ടാബുകള്‍"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "Samsung Pass-ലെ സൈൻ ഇൻ വിവരങ്ങൾ അപ്ഡേറ്റ് ചെയ്യണോ?"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "വെബ് വിലാസം"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "ചേര്‍ക്കുക"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "ബുക്ക്‌മാർക്ക് ചേര്‍ക്കുക"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "നിലവിലെ ക്രോം ബുക്ക്‌മാർക്കുകളിൽ ചേർക്കുക"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "നിലവിലെ %s ബുക്ക്‌മാർക്കുകളിൽ ചേർക്കുക"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "സാംസങ്ങ് ഇന്‍റർനെറ്റിലെ ബുക്ക്‌മാർക്ക്"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "ക്രോം ബുക്ക്മാർക്കുകൾ"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "ബുക്ക്‌മാർക്ക് എഡിറ്റ് ചെയ്യുക"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "പുതിയ ടാബിൽ വിപുലീകരിക്കുക"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ എക്സ്പോർട്ട് ചെയ്യുക"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ ഇംപോർട്ട് ചെയ്യുക"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "ക്രോം ബുക്ക്‌മാർക്കുകൾ ഇംപോർട്ട് ചെയ്യുക"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ എല്ലാം തുറക്കുക"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "ഇന്‍‌കോഗ്നിറ്റോ വിൻഡോയിൽ എല്ലാം തുറക്കുക"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "പുതിയ വിൻഡോയിൽ എല്ലാം തുറക്കുക"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "ഇന്‍‌കോഗ്നിറ്റോ വിൻഡോയിൽ തുറക്കുക"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "നിലവിലെ ക്രോം ബുക്ക്മാർക്കുകൾ മാറ്റിസ്ഥാപിക്കുക"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "നിലവിലെ %s ബുക്ക്‌മാർക്കുകൾ മാറ്റിസ്ഥാപിക്കുക"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "സാംസങ്ങ് കമ്പ്യൂട്ടർ"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "പേര് പ്രകാരം അടുക്കുക"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (ട്രസ്റ്റഡ് പ്ലാറ്റ്ഫോം മൊഡ്യൂൾ) 2.0 അല്ലെങ്കിൽ അതിനുശേഷമുള്ളത്"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 അല്ലെങ്കിൽ Windows 10 പതിപ്പ് 1903 അല്ലെങ്കിൽ അതിനുശേഷമുള്ളത്"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "സൈൻ-ഇൻ വിവരം ഓട്ടോ ഫിൽ ചെയ്യുക"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "സൈൻ-ഇൻ വിവരം സംരക്ഷിക്കുക"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "Samsung Cloud-മായി സമന്വയിപ്പിക്കുക"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "ഉപയോക്തൃനാമങ്ങളും പാസ്‌വേഡുകളും"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "Samsung Pass-ൽ സൈൻ-ഇൻ വിവരം കാണുക"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "നിങ്ങളുടെ ആപ്പുകളിൽ നിന്നുള്ള ഡാറ്റ ഇങ്ങനെയെങ്കിൽ Samsung Cloud-ൽ സമന്വയിപ്പിക്കപ്പെടും:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "സമന്വയം എങ്ങനെ പ്രവർത്തിക്കും?"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "%1$s %2$s-ൽ കൂടുതലുള്ള കുറിപ്പുകളും മറ്റ് ഉള്ളടക്കവും സമന്വയിപ്പിക്കാനാവില്ല."
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "സമന്വയിപ്പിക്കുന്നു…"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "ക്രമീകരണങ്ങളിൽ ആപ്പ് സമന്വയം ഓണാക്കിയിട്ടുണ്ട്."
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "എന്തൊക്കെ വിവരങ്ങളാണ് സമന്വയിപ്പിക്കപ്പെടുക?"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "നിങ്ങളുടെ Samsung account ലേക്ക് നിങ്ങൾ സൈനിൻ ചെയ്തു."
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "ഡാറ്റ സമന്വയിപ്പിക്കാനായില്ല"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "%s സമന്വയം"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "പതിപ്പ് %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "കൂടുതൽ വിവരങ്ങൾ"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: കുറിപ്പുകളും മറ്റ് ഡാറ്റയും"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d ഇനങ്ങൾ"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "അവസാനം സമന്വയിപ്പിച്ചത്:%s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "ഇതുകൊണ്ട് സമന്വയിപ്പിക്കുക"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "1 ഇനം ഇല്ലാതാക്കി."
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "%d ഇനങ്ങൾ ഇല്ലാതാക്കി."
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "ഇപ്പോൾ സമന്വയിപ്പിക്കുക"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "സ്വകാര്യതാ അറിയിപ്പ്"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "തിരയുക"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "പുതിയ വിൻഡോയിൽ തുറക്കുക"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "ഇല്ലാതാക്കുക"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "എഡിറ്റ്"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "ഇംപോർട്ട് ചെയ്യുക"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "URL പകർത്തി."
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "%s വിവരം"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "സൈൻ ഇൻ ചെയ്തു"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "സഹായം"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "ഉപയോക്തൃനാമവും പാസ്‌വേഡും %s-ൽ സംരക്ഷിക്കണോ?"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "ഈ സൈറ്റിനായി വീണ്ടും ചോദിക്കരുത്"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "അക്കൗണ്ടുകൾ എല്ലാം കാണുക"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "അപ്‍ഡേറ്റ് ചെയ്യുക"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "ഉപകരണവും OS വ്യത്യാസങ്ങളും"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "ഓഫ്"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "ഓൺ"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "One UI പതിപ്പ്"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "ഇംപോർട്ട് ചെയ്യുന്നു…"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "ബുക്ക്‌മാര്‍ക്ക് എഡിറ്റുചെയ്യുക"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "ഫോള്‍ഡര്‍ എഡിറ്റ് ചെയ്യുക"
+   },
+   "ERROR_STRING": {
+      "message": "പിശക്"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "സാംസങ്ങ് ഇന്‍റർനെറ്റ്"
+   },
+   "FOLDER": {
+      "message": "ഫോള്‍ഡര്‍"
+   },
+   "FOLDER_NAME": {
+      "message": "പേര്"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "ഫോള്‍ഡര്‍ നാമം ഇതിനകം നിലവിലുണ്ട്."
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "ഫോൾഡർ പേര് നൽകുക"
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "ഫോള്‍ഡര്‍ നാമം"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "ഫോള്‍ഡര്‍ നീക്കാന്‍ ആവുന്നില്ല."
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "Bookmarks"
+   },
+   "GUIDE_DESC_1": {
+      "message": "Open your bookmarks on any computer using the Samsung Internet extension for PC browser"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmarks"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "Use Samsung Internet Bookmarks saved on other devices, such as your mobile phone or tablet, as well as secure and easy web login with Samsung Pass, on your PC."
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "How can I use the Samsung Internet extension feature more efficiently?"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Samsung Pass easy web login"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "How can I use the Samsung Pass secure and easy web login?"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ This feature can only be used on devices that support the Samsung Pass app for PC. "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "For supported devices and detailed instructions, please go to the website below."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "It is only supported on the Galaxy Book 3 series. Support will be expanded later."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "Supports secure and easy web login through the Samsung Pass app for PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "Turn on the “Settings” > “Usernames and passwords” menu."
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "Select the Samsung Pass icon on the login screen of the webpage."
+   },
+   "GUIDE_TITLE": {
+      "message": "Sync bookmarks across your Samsung Internet and PC browser"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "സഹായം"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "ബുക്ക്മാര്‍ക്കുകളിലേക്ക് ചേര്‍ക്കുക"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "ഇനങ്ങള്‍  ഒന്നുമില്ല"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "സാംസങ്ങ് ബുക്ക്മാര്‍ക്കുകള്‍"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "സംഭരണ ലൊക്കേഷൻ"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "ബുക്ക്മാര്‍ക്ക്"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "എല്ലാം ഇല്ലാതാക്കുക"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "പകര്‍ത്തുക"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "ഫോള്‍ഡര്‍ സൃഷ്‌ടിക്കുക"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "പുതിയ ഫോള്‍ഡർ"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "പുതിയ ടാബില്‍ തുറക്കുക"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "പുതിയ ടാബിൽ തുറക്കുക"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "പുതിയ വിന്‍ഡോയില്‍ തുറക്കുക"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "പേര് മാറ്റുക"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "ബുക്ക്മാര്‍ക്ക് ഇതിനകം നിലവിലുണ്ട്."
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "URL പകര്‍ത്തുക"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "ഇംപോര്‍ട്ട് ചെയ്തു."
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "%d ഇല്ലാതാക്കി"
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "1 ഇനം പകര്‍ത്തി"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "%d ഇനങ്ങള്‍ പകര്‍ത്തി."
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "പൂര്‍വാവസ്ഥ"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "സൈന്‍ ഔട്ട്"
+   },
+   "IMPORT": {
+      "message": "ഇം‌പോര്‍ട്ട്"
+   },
+   "IMPORTED": {
+      "message": "ഇംപോര്‍ട്ട് ചെയ്തു."
+   },
+   "IMPORTING": {
+      "message": "ഇം‌പോര്‍ട്ടുചെയ്യുന്നു..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "$1 മിൽ നിന്ന് ഇംപോർട്ട് ചെയ്തിരുന്ന നിലവിലെ ബുക്ക്മാർക്കുകളുടെ പട്ടികയിലേക്ക് പുതിയ ബുക്ക്മാർക്കുകളെ ചേർക്കുന്നു."
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "$1 ബുക്ക്‌മാർക്കുകളുടെ ഇംപോർട്ട് ഐച്ഛികങ്ങൾ"
+   },
+   "IMPORT_ERROR": {
+      "message": "ഇംപോര്‍ട്ട് പരാജയപ്പെട്ടു."
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "ഈ ഫോൾഡറിലേക്ക് നിങ്ങൾക്ക് പുതിയ ഇനങ്ങൾ ചേർക്കാം അല്ലെങ്കിൽ നിലവിലുള്ള ഇനങ്ങളെ മാറ്റിസ്ഥാപിക്കാം."
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "സാംസങ്ങ് ഇന്‍റർനെറ്റിൽ നിങ്ങളുടെ $1 ബുക്ക്മാർക്കുകൾ ഉപയോഗിക്കുക"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "$1 ബുക്ക്‌മാർക്കുകളുടെ ഇംപോർട്ട് ഐച്ഛികങ്ങൾ ക്രമീകരിക്കുക"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "ഓരോ പ്രാവശ്യവും ചോദിക്കുക"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "ഇംപോർട്ട് ഐച്ഛികങ്ങൾ"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "ചേര്‍ക്കുക"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "$1 മിൽ നിന്ന് ഇംപോർട്ട് ചെയ്തിരുന്ന നിലവിലെ ബുക്ക്മാർക്കുകളെ മായ്ച്ച് നിങ്ങളുടെ $1 ബുക്ക്മാർക്കുകളുടെ പുതിയൊരു പകർപ്പ് സൃഷ്ടിക്കുന്നു."
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "പ്രതിസ്ഥാപിക്കുക"
+   },
+   "IMPORT_TEXT": {
+      "message": "$1 ബുക്ക്‌മാർക്കുകൾ ഇംപോർട്ട് ചെയ്യുക"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "$1 ബുക്ക്മാർക്കുകൾ നിങ്ങൾ ഇംപോർട്ട് ചെയ്തുകഴിഞ്ഞാൽ, നിങ്ങളുടെ സാംസങ്ങ് മൊബൈലിൽ നിങ്ങൾക്ക് $1 ബുക്ക്മാർക്കുകൾ ഉപയോഗിക്കാവുന്നതാണ്."
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "സാംസങ്ങ് മൊബൈലിൽ നിങ്ങളുടെ $1 ബുക്ക്മാർക്കുകൾ ഉപയോഗിക്കുക."
+   },
+   "INITIAL_SETTINGS": {
+      "message": "Initial settings"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "How can I use the Samsung Internet extension feature?"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "Select the “Extension” icon located in the top menu of your PC browser."
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "Select the Samsung Internet extension feature. ※ Pin to the top menu using the “Pin” button"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "Log in to your Samsung account and try out the Samsung Internet extension feature."
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "നിങ്ങളുടെ ഇന്‍റർനെറ്റ് കണക്ഷൻ തടസപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+   },
+   "ITEMS_TEXT": {
+      "message": "ഇനങ്ങള്‍"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "नवीनतम आयात केले"
+   },
+   "LAST_SYNCED": {
+      "message": "അവസാനം സമന്വയിപ്പിച്ചത്: "
+   },
+   "LOCATION_TEXT": {
+      "message": "സംഭരണ സ്ഥാനം"
+   },
+   "LOGIN_INTRO": {
+      "message": "മറ്റ് ഉപകരണങ്ങളിലെ ബുക്ക്മാർക്കുകളെ ആക്സസ് ചെയ്യുന്നതിന് നിങ്ങളുടെ Samsung account-ൽ സൈൻ ഇൻ ചെയ്യുക."
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "മൊബൈൽ ബുക്ക്മാർക്കുകൾ"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "പേര്"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "പുതിയ ഫോള്‍ഡർ"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "ബുക്ക്‌മാർക്കുകളിലേക്ക് വെബ് പേജ് ചേർത്തു."
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "സാംസങ്ങ് ബുക്ക്മാർക്കുകളിൽ ചേർക്കുന്നതിന് Samsung account-ൽ സൈൻ ഇൻ ചെയ്യുക."
+   },
+   "NO_BOOKMARKS": {
+      "message": "ബുക്ക്മാര്‍ക്കുകളില്ല"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "തിരയല്‍ ഫലങ്ങള്‍ ഒന്നുംതന്നെ ഇല്ല"
+   },
+   "NO_TABS": {
+      "message": "ടാബുകളൊന്നുമില്ല"
+   },
+   "OK": {
+      "message": "ശരി"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Install %s to sync the usernames and passwords from your other devices."
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass isn't part of the Samsung Internet extension anymore. To keep using Samsung Pass to fill in usernames and passwords online, get the Samsung Pass extension."
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Sign in to %s to sync the usernames and passwords from your other devices."
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "Get the Samsung Pass extension"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "%s ഇന്‍സ്റ്റാൾ ചെയ്യുക"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "Sign in to %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "Get the new Samsung Pass extension"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "The data that you can sync may differ based on your computer and system software."
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "Samsung Settings: paired Galaxy Buds"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Wi-Fi and Ethernet only"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, Ethernet, and mobile data"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "തുറക്കുക"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "All Samsung apps on this computer will stop syncing."
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "Your Samsung account will be removed from this computer."
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "Apps will stop syncing"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "Deselect all"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "Select all"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "ഞങ്ങളെ ബന്ധപ്പെടുക"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "%d തിരഞ്ഞെടുത്തു"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "പുതിയ ബുക്ക്മാർക്ക് ചേർക്കുക"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "പുതിയ ഫോൾഡർ ചേർക്കുക"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "ഫോള്‍ഡര്‍ പേര് മാറ്റുക"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "ബുക്ക്‌മാർക്കുകൾ എല്ലാം"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "ടാബുകൾ തുറക്കുക"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "സാംസങ്ങ് ബുക്ക്മാര്‍ക്കുകള്‍"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "മറ്റ് ഉപകരണങ്ങളിൽ നിന്ന് ടാബുകൾ തുറക്കുക"
+   },
+   "SAVE": {
+      "message": "സംരക്ഷിക്കുക"
+   },
+   "SETTING": {
+      "message": "ക്രമീകരണങ്ങൾ"
+   },
+   "SHOW_LOGS": {
+      "message": "ലോഗുകള്‍ കാണുക"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "Samsung account സൈൻ ഇൻ പൂർത്തിയാക്കി"
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "സൈന്‍ ഔട്ട് ചെയ്യുക"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "സിങ്ക് ചെയ്യുന്നു‌..."
+   },
+   "SYNC_ERROR": {
+      "message": "സിങ്ക് നിലവില്‍ പ്രശ്നങ്ങള്‍ നേരിടുന്നുണ്ട്. ഇത് ഉടന്‍ തിരിച്ചുവരും."
+   },
+   "SYNC_FAIL": {
+      "message": "സമന്വയം പരാജയപ്പെട്ടു."
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "സാംസങ്ങ് ബുക്ക്‌മാർക്കുകൾ സമന്വയിപ്പിക്കുക"
+   },
+   "TITLE": {
+      "message": "ശീർഷകം"
+   },
+   "TITLE_EMPTY": {
+      "message": "ഫീല്‍ഡ് ശൂന്യമാകരുത്."
+   },
+   "TOAST_DELETED": {
+      "message": "'$1' ഇല്ലാതാക്കി."
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "തരംതിരിച്ച ഫോൾഡറുകൾ."
+   },
+   "TOAST_URL_COPIED": {
+      "message": "URL പകർത്തി."
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "ഫീല്‍ഡ് ശൂന്യമാകരുത്."
+   },
+   "URL_INVALID": {
+      "message": "URL അസാധുവാണ്."
+   },
+   "WEB_ADDRESS": {
+      "message": "വെബ് വിലാസം"
+   }
+}

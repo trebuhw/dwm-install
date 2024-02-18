@@ -1,15 +1,18 @@
 {
 	"file_history":
 	[
-		"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus/config.def.h",
-		"/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
+		"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/ln.sh",
+		"/home/hubert/.config/xfce4/helpers.rc",
+		"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-config-file.sh",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/3.file-coopy.sh",
+		"/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
+		"/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
+		"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus/config.def.h",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/3.my-dwm-install.sh",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus.hw/config.def.h",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/gtk-3.0/settings.ini",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/1.app-install.sh",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/2.app-install.sh",
-		"/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/5.set-gtkthemes.sh",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/1.file-coopy.sh",
 		"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/suckless/slstatus/config.def.h",
@@ -52,6 +55,7 @@
 	"folder_history":
 	[
 		"/home/hubert/Dokumenty/GitHub/dwm-install",
+		"/home/hubert/dwm-install",
 		"/home/hubert/Dokumenty/GitHub/arcolinux-nemesis",
 		"/home/hubert/.config/dwm",
 		"/home/hubert/Dokumenty/GitHub",
@@ -59,9 +63,9 @@
 		"/home/hubert/.config"
 	],
 	"last_version": 4169,
-	"last_window_id": 15,
+	"last_window_id": 17,
 	"log_indexing": false,
-	"next_update_check": 1708206945,
+	"next_update_check": 1708293345,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -69,8 +73,8 @@
 		"new_window_maximized": true,
 		"new_window_position":
 		[
-			971.0,
-			583.0
+			11.0,
+			58.0
 		],
 		"new_window_settings":
 		{
@@ -143,9 +147,13 @@
 			},
 			"file_history":
 			[
+				"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-github-config.sh",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/ln.sh",
+				"/home/hubert/.config/xfce4/helpers.rc",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-config-file.sh",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/3.file-coopy.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
-				"/home/hubert/Dokumenty/GitHub/dwm-install/3.file-coopy.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus/config.def.h",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/3.my-dwm-install.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus.hw/config.def.h",
@@ -306,378 +314,13 @@
 			"buffers":
 			[
 				{
-					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/3.file-coopy.sh",
+					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-github-config.sh",
 					"settings":
 					{
-						"buffer_size": 462,
+						"buffer_size": 912,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							5,
-							3,
-							"left_delete",
-							null,
-							"AwAAAA4AAAAAAAAADgAAAAAAAAAwAAAAc3VkbyBjcCB+L2R3bS1pbnN0YWxsL2ZpbGVzL2V0Yy9wYWNtYW4uY29uZiAvZXRjDQAAAAAAAAANAAAAAAAAAAEAAAAKDAAAAAAAAAAMAAAAAAAAAAEAAAAK",
-							"AQAAAAAAAAABAAAAPgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							2,
-							"left_delete",
-							null,
-							"AgAAADsAAAAAAAAAOwAAAAAAAABLAAAAc3VkbyBjcCB+L2R3bS1pbnN0YWxsL2ZpbGVzL2V0Yy9wYWNtYW4uZC9hcmNvbGludXgtbWlycm9ybGlzdCAvZXRjL3BhY21hbi5kOgAAAAAAAAA6AAAAAAAAAAEAAAAK",
-							"AQAAAAAAAAABAAAAhgAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							2,
-							"left_delete",
-							null,
-							"AgAAAHIAAAAAAAAAcgAAAAAAAAC/AAAAc3VkbyBybSAtUiAvZXRjL3BhY21hbi5kL2dudXBnLwpzdWRvIHJtIC1SIH4vLmdudXBnCnN1ZG8gcm0gLVIgL3Jvb3QvLmdudXBnLwpzdWRvIGdwZyAtLXJlZnJlc2gta2V5cwpzdWRvIHBhY21hbi1rZXkgLS1pbml0CnN1ZG8gcGFjbWFuLWtleSAtLXBvcHVsYXRlIGFyY2hsaW51eApzdWRvIHBhY21hbi1rZXkgLS1yZWZyZXNoLWtleXNxAAAAAAAAAHEAAAAAAAAAAQAAAAo",
-							"AQAAAAAAAAABAAAAMQEAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							13,
-							1,
-							"left_delete",
-							null,
-							"AQAAAHEAAAAAAAAAcQAAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAAAA"
-						],
-						[
-							15,
-							1,
-							"insert",
-							{
-								"characters": "\\"
-							},
-							"AQAAAIUAAAAAAAAAhgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAAAA"
-						],
-						[
-							16,
-							2,
-							"left_delete",
-							null,
-							"AgAAAIUAAAAAAAAAhQAAAAAAAAABAAAAXIQAAAAAAAAAhAAAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							21,
-							3,
-							"left_delete",
-							null,
-							"AwAAAHIAAAAAAAAAcgAAAAAAAAARAAAAc3VkbyBwYWNtYW4gLVN5eXVxAAAAAAAAAHEAAAAAAAAAAQAAAApwAAAAAAAAAHAAAAAAAAAAAQAAAAo",
-							"AQAAAAAAAAABAAAAgwAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							26,
-							1,
-							"left_delete",
-							null,
-							"AQAAAKcBAAAAAAAApwEAAAAAAABVAAAAcm0gLXIgfi9kd20taW5zdGFsbC9maWxlcy8uY29uZmlnL2R3bQpjcCAtciB+L2R3bS1pbnN0YWxsL2ZpbGVzLy5jb25maWcvZHdtIH4vLmNvbmZpZw",
-							"AQAAAAAAAAABAAAA/AEAAAAAAACnAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							28,
-							1,
-							"left_delete",
-							null,
-							"AQAAAKcBAAAAAAAApwEAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAAAA"
-						]
-					]
-				},
-				{
-					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
-					"settings":
-					{
-						"buffer_size": 1207,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							2,
-							"left_delete",
-							null,
-							"AgAAAIEEAAAAAAAAgQQAAAAAAAABAAAACoAEAAAAAAAAgAQAAAAAAAABAAAACg",
-							"AQAAAAAAAAABAAAAggQAAAAAAACCBAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							6,
-							1,
-							"insert",
-							{
-								"characters": "\nyay"
-							},
-							"BAAAAH8EAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACBBAAAAAAAAAAAAACBBAAAAAAAAIIEAAAAAAAAAAAAAIIEAAAAAAAAgwQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAfwQAAAAAAAB/BAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"insert",
-							{
-								"characters": " google"
-							},
-							"BwAAAIMEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACFBAAAAAAAAAAAAACFBAAAAAAAAIYEAAAAAAAAAAAAAIYEAAAAAAAAhwQAAAAAAAAAAAAAhwQAAAAAAACIBAAAAAAAAAAAAACIBAAAAAAAAIkEAAAAAAAAAAAAAIkEAAAAAAAAigQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAgwQAAAAAAACDBAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							1,
-							"insert",
-							{
-								"characters": "-chrome"
-							},
-							"BwAAAIoEAAAAAAAAiwQAAAAAAAAAAAAAiwQAAAAAAACMBAAAAAAAAAAAAACMBAAAAAAAAI0EAAAAAAAAAAAAAI0EAAAAAAAAjgQAAAAAAAAAAAAAjgQAAAAAAACPBAAAAAAAAAAAAACPBAAAAAAAAJAEAAAAAAAAAAAAAJAEAAAAAAAAkQQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAigQAAAAAAACKBAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
-							"insert",
-							{
-								"characters": "-stable"
-							},
-							"BwAAAJEEAAAAAAAAkgQAAAAAAAAAAAAAkgQAAAAAAACTBAAAAAAAAAAAAACTBAAAAAAAAJQEAAAAAAAAAAAAAJQEAAAAAAAAlQQAAAAAAAAAAAAAlQQAAAAAAACWBAAAAAAAAAAAAACWBAAAAAAAAJcEAAAAAAAAAAAAAJcEAAAAAAAAmAQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAkQQAAAAAAACRBAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							12,
-							1,
-							"insert",
-							{
-								"characters": "\n$"
-							},
-							"AgAAAKABAAAAAAAAoQEAAAAAAAAAAAAAoQEAAAAAAACiAQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							13,
-							1,
-							"insert",
-							{
-								"characters": " "
-							},
-							"AQAAAKIBAAAAAAAAowEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAogEAAAAAAACiAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							14,
-							1,
-							"left_delete",
-							null,
-							"AQAAAKIBAAAAAAAAogEAAAAAAAABAAAAIA",
-							"AQAAAAAAAAABAAAAowEAAAAAAACjAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							15,
-							1,
-							"insert",
-							{
-								"characters": "pa"
-							},
-							"AgAAAKIBAAAAAAAAowEAAAAAAAAAAAAAowEAAAAAAACkAQAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAogEAAAAAAACiAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							16,
-							1,
-							"insert_completion",
-							{
-								"completion": "packer",
-								"format": "text",
-								"keep_prefix": false,
-								"must_insert": false,
-								"trigger": "packer"
-							},
-							"AgAAAKIBAAAAAAAAogEAAAAAAAACAAAAcGGiAQAAAAAAAKgBAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAApAEAAAAAAACkAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							17,
-							1,
-							"insert",
-							{
-								"characters": " allacr"
-							},
-							"BwAAAKgBAAAAAAAAqQEAAAAAAAAAAAAAqQEAAAAAAACqAQAAAAAAAAAAAACqAQAAAAAAAKsBAAAAAAAAAAAAAKsBAAAAAAAArAEAAAAAAAAAAAAArAEAAAAAAACtAQAAAAAAAAAAAACtAQAAAAAAAK4BAAAAAAAAAAAAAK4BAAAAAAAArwEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							18,
-							1,
-							"insert",
-							{
-								"characters": "itty"
-							},
-							"BAAAAK8BAAAAAAAAsAEAAAAAAAAAAAAAsAEAAAAAAACxAQAAAAAAAAAAAACxAQAAAAAAALIBAAAAAAAAAAAAALIBAAAAAAAAswEAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							21,
-							1,
-							"left_delete",
-							null,
-							"AQAAAKsBAAAAAAAAqwEAAAAAAAABAAAAbA",
-							"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
-					"settings":
-					{
-						"buffer_size": 504,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							2,
-							"left_delete",
-							null,
-							"AgAAAEgAAAAAAAAASAAAAAAAAAABAAAAL0cAAAAAAAAARwAAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							4,
-							1,
-							"insert",
-							{
-								"characters": ".."
-							},
-							"AgAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							6,
-							"left_delete",
-							null,
-							"BgAAAEgAAAAAAAAASAAAAAAAAAABAAAALkcAAAAAAAAARwAAAAAAAAABAAAALkYAAAAAAAAARgAAAAAAAAABAAAAIEUAAAAAAAAARQAAAAAAAAABAAAAZEQAAAAAAAAARAAAAAAAAAABAAAAY0MAAAAAAAAAQwAAAAAAAAABAAAAIA",
-							"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							13,
-							"left_delete",
-							null,
-							"DQAAAFQAAAAAAAAAVAAAAAAAAAABAAAAL1MAAAAAAAAAUwAAAAAAAAABAAAAbVIAAAAAAAAAUgAAAAAAAAABAAAAd1EAAAAAAAAAUQAAAAAAAAABAAAAZFAAAAAAAAAAUAAAAAAAAAABAAAAL08AAAAAAAAATwAAAAAAAAABAAAAZ04AAAAAAAAATgAAAAAAAAABAAAAaU0AAAAAAAAATQAAAAAAAAABAAAAZkwAAAAAAAAATAAAAAAAAAABAAAAbksAAAAAAAAASwAAAAAAAAABAAAAb0oAAAAAAAAASgAAAAAAAAABAAAAY0kAAAAAAAAASQAAAAAAAAABAAAALkgAAAAAAAAASAAAAAAAAAABAAAALw",
-							"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							10,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEcAAAAAAAAARwAAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							1,
-							"insert",
-							{
-								"characters": "/"
-							},
-							"AQAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							14,
-							1,
-							"left_delete",
-							null,
-							"AQAAAEcAAAAAAAAARwAAAAAAAAABAAAALw",
-							"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							17,
-							2,
-							"left_delete",
-							null,
-							"AgAAAHcAAAAAAAAAdwAAAAAAAAABAAAAL3YAAAAAAAAAdgAAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							18,
-							1,
-							"insert",
-							{
-								"characters": ".."
-							},
-							"AgAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							22,
-							12,
-							"left_delete",
-							null,
-							"DAAAANAAAAAAAAAA0AAAAAAAAAABAAAAbc8AAAAAAAAAzwAAAAAAAAABAAAAd84AAAAAAAAAzgAAAAAAAAABAAAAZM0AAAAAAAAAzQAAAAAAAAABAAAAL8wAAAAAAAAAzAAAAAAAAAABAAAAZ8sAAAAAAAAAywAAAAAAAAABAAAAacoAAAAAAAAAygAAAAAAAAABAAAAZskAAAAAAAAAyQAAAAAAAAABAAAAbsgAAAAAAAAAyAAAAAAAAAABAAAAb8cAAAAAAAAAxwAAAAAAAAABAAAAY8YAAAAAAAAAxgAAAAAAAAABAAAALsUAAAAAAAAAxQAAAAAAAAABAAAALw",
-							"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							23,
-							1,
-							"left_delete",
-							null,
-							"AQAAAMQAAAAAAAAAxAAAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							26,
-							2,
-							"left_delete",
-							null,
-							"AgAAAPgAAAAAAAAA+AAAAAAAAAABAAAAL/cAAAAAAAAA9wAAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAA+QAAAAAAAAD5AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							27,
-							1,
-							"insert",
-							{
-								"characters": ".."
-							},
-							"AgAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							31,
-							13,
-							"left_delete",
-							null,
-							"DQAAAAkBAAAAAAAACQEAAAAAAAABAAAAbQgBAAAAAAAACAEAAAAAAAABAAAAdwcBAAAAAAAABwEAAAAAAAABAAAAZAYBAAAAAAAABgEAAAAAAAABAAAALwUBAAAAAAAABQEAAAAAAAABAAAAZwQBAAAAAAAABAEAAAAAAAABAAAAaQMBAAAAAAAAAwEAAAAAAAABAAAAZgIBAAAAAAAAAgEAAAAAAAABAAAAbgEBAAAAAAAAAQEAAAAAAAABAAAAbwABAAAAAAAAAAEAAAAAAAABAAAAY/8AAAAAAAAA/wAAAAAAAAABAAAALv4AAAAAAAAA/gAAAAAAAAABAAAAL/0AAAAAAAAA/QAAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAACgEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							34,
-							2,
-							"left_delete",
-							null,
-							"AgAAACsBAAAAAAAAKwEAAAAAAAABAAAALyoBAAAAAAAAKgEAAAAAAAABAAAAfg",
-							"AQAAAAAAAAABAAAALAEAAAAAAAAsAQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							35,
-							7,
-							"left_delete",
-							null,
-							"BwAAACkBAAAAAAAAKQEAAAAAAAABAAAAICgBAAAAAAAAKAEAAAAAAAABAAAAZCcBAAAAAAAAJwEAAAAAAAABAAAAYyYBAAAAAAAAJgEAAAAAAAABAAAAICUBAAAAAAAAJQEAAAAAAAABAAAAJiQBAAAAAAAAJAEAAAAAAAABAAAAJiMBAAAAAAAAIwEAAAAAAAABAAAAIA",
-							"AQAAAAAAAAABAAAAKgEAAAAAAAAqAQAAAAAAAAAAAAAAAPC/"
-						]
-					]
+					}
 				}
 			],
 			"build_system": "",
@@ -724,19 +367,23 @@
 			},
 			"expanded_folders":
 			[
-				"/home/hubert/Dokumenty/GitHub/dwm-install"
+				"/home/hubert/Dokumenty/GitHub/dwm-install",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts"
 			],
 			"file_history":
 			[
-				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus/config.def.h",
-				"/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/ln.sh",
+				"/home/hubert/.config/xfce4/helpers.rc",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-config-file.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/3.file-coopy.sh",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
+				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus/config.def.h",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/3.my-dwm-install.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/dwm/slstatus.hw/config.def.h",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/gtk-3.0/settings.ini",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/1.app-install.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/2.app-install.sh",
-				"/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/5.set-gtkthemes.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/1.file-coopy.sh",
 				"/home/hubert/Dokumenty/GitHub/dwm-install/files/.config/suckless/slstatus/config.def.h",
@@ -814,89 +461,33 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/hubert/Dokumenty/GitHub/dwm-install/3.file-coopy.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 462,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										453,
-										453
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/hubert/Dokumenty/GitHub/dwm-install/1.minimal-app-install.sh",
+							"file": "/home/hubert/Dokumenty/GitHub/dwm-install/install-scripts/10.ln-github-config.sh",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1207,
+								"buffer_size": 912,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										427,
-										427
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 252.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/hubert/Dokumenty/GitHub/dwm-install/4.my-dwm-install.sh",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 504,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										291,
-										291
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -939,7 +530,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,970,555,1908,1068,1920,1080,0",
+			"position": "0,1,0,0,0,10,31,958,1068,1920,1080,0",
 			"project": "",
 			"replace":
 			{
@@ -986,7 +577,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 15,
+			"window_id": 17,
 			"workspace_name": ""
 		}
 	],

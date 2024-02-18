@@ -1,0 +1,770 @@
+@font-face {
+  font-family: 'SamsungOne200';
+  src: url('/assets/font/SamsungOneKoreanOTF_200.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SamsungOne500';
+  src: url('/assets/font/SamsungOneKoreanOTF_500.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SamsungOne700';
+  src: url('/assets/font/SamsungOneKoreanOTF_700.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SegoeUI-Semibold';
+  src: url('/assets/font/Segoe UI Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('/assets/font/Segoe UI.ttf') format('truetype');
+}
+
+@keyframes rotate-forever {
+  from {
+    transform: rotate(360deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes slide-in {
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@keyframes slide-out {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.slide-in {
+  animation: slide-in 0.25s forwards;
+}
+
+.slide-out {
+  animation: slide-out 0.25s forwards;
+}
+
+/* Custom Scrollbar */
+/* Webkit only */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  min-height: 70px;
+  border-radius: 5px;
+  background-color: #d5d5d5;
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+  background-color: #d5d5d5;
+}
+
+body {
+  margin: 0px;
+  overflow: hidden;
+  background: #f6f6f6;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  top: 0;
+  left: 0;
+  position: relative;
+  height: 59px;
+  display: flex;
+  align-items: center;
+}
+
+.header icon {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: center;
+  margin: 0px 14px 0px 14px;
+}
+
+#folderTreeDiv .header icon {
+  width: 28px;
+  height: 28px;
+  justify-content: center;
+}
+
+.headerIcon.sync:focus {
+  outline: none;
+}
+.headerIcon.sync {
+  animation: rotate-forever 1s linear 0s infinite;
+}
+
+.header text {
+  font-size: 18px;
+  font-family: SegoeUI-Semibold;
+  color: #000000;
+  align-items: left;
+  margin-top: 0px;
+  cursor: default;
+}
+
+#mainTreeDiv .header .searchbox {
+  margin-left: auto;
+  width: 296px;
+  height: 36px;
+  color: #bababa;
+  font-size: 14px;
+  font-family: SegoeUI;
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.06);
+  text-align: center;
+}
+
+#mainTreeDiv .header .searchbox .search {
+  margin-left: auto;
+  width: 228px;
+  height: 36px;
+  color: #bababa;
+  font-size: 14px;
+  font-family: SegoeUI;
+  border: none;
+  background: transparent;
+}
+
+#mainTreeDiv .header #moreOption {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 20px;
+  height: 20px;
+}
+
+#mainTreeDiv .header #moreOption:hover {
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+#mainTreeDiv .header #moreOption:active {
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+#treeView {
+  display: flex;
+  height: 100vh;
+}
+
+#folderTreeDiv {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  outline: none;
+  min-width: 320px;
+  background: #eeeeee;
+  border-radius: 2px 16px 16px 2px;
+}
+
+#folderTree {
+  margin-left: 20px;
+  overflow: auto;
+  background: #eeeeee;
+}
+
+#samsungTree {
+  margin-left: 20px;
+  height: 400px;
+}
+
+#mainTreeDiv {
+  position: relative;
+}
+
+#mainTreeDiv,
+#mainTree {
+  outline: none;
+  width: 100%;
+  background: #f6f6f6;
+}
+
+.mainTreeContainer {
+  overflow: auto;
+  height: calc(100% - 60px);
+}
+
+.mainTreeContainer #fancytree-drop-marker {
+  visibility: hidden;
+}
+
+#mainTree {
+  max-width: 1344px;
+  margin: 0 auto;
+  background: #fcfcfc;
+  border-radius: 16px;
+}
+
+#mainTree > ul {
+  padding: 0 3px;
+}
+
+ul.fancytree-container {
+  background-color: transparent;
+}
+
+#headerText-main {
+  cursor: pointer;
+}
+
+.header-divider {
+  margin: 0px;
+  width: 100%;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 0px;
+}
+
+.body-divider {
+  margin: 0px;
+  min-width: 1px;
+  width: 1px;
+  border-right: 1px solid #e4e4e4;
+  border-bottom: 0px;
+  border-top: 0px;
+  border-left: 0px;
+  cursor: e-resize;
+}
+
+.mainTree {
+  min-width: 500px;
+}
+
+.mainTree span.fancytree-icon {
+  background-image: none;
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+}
+
+.mainTree img.bookmark_entry_image {
+  width: 36px;
+  height: 36px;
+}
+
+.mainTree .fancytree-container li span.fancytree-node {
+  display: flex;
+  align-items: center;
+}
+
+.mainTree .fancytree-plain span.fancytree-node span.fancytree-title,
+.mainTree span.fancytree-node span.fancytree-folder span.fancytree-has-children {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  min-width: 300px;
+  min-height: 56px;
+  line-height: 56px;
+  width: 70%;
+  margin: 0px 10px 0px 14px;
+  padding: 0px;
+  border: 0px;
+  font-size: 16px;
+  font-family: SegoeUI-Semibold;
+  color: #252525;
+}
+
+.mainTree span.fancytree-expander {
+  width: 0px;
+  height: 0px;
+}
+
+.mainTree span.checkBox {
+  display: none;
+}
+
+.mainTree.editMode span.checkBox {
+  display: inline-block;
+  background-image: url('/assets/img/internet_pc_ic_Checkbox_off.svg') !important;
+  height: 32px;
+  width: 32px;
+  background-size: cover;
+  background-position: center;
+  margin: 0 0 0 15px;
+  cursor: pointer;
+}
+
+.mainTree.editMode ul.fancytree-container > li > span.fancytree-selected .checkBox {
+  background-image: url('/assets/img/internet_pc_ic_Checkbox_on.svg') !important;
+}
+
+#folderTree .fancytree-more-option {
+  display: none;
+}
+
+.mainTree .fancytree-more-option {
+  width: 20px;
+  height: 20px;
+  margin-top: 14px;
+  margin-right: 20px;
+  margin-left: auto;
+  float: right;
+}
+
+.mainTree .fancytree-more-option:hover {
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.mainTree .fancytree-more-option:active {
+  cursor: pointer;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+#folderTree > ul > li {
+  border-bottom: 1px dashed #979797;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+#folderTree > ul > li:last-child {
+  border-bottom: none;
+}
+
+#folderTree .fancytree-exp-c span.fancytree-expander,
+#folderTree .fancytree-exp-cl span.fancytree-expander {
+  min-height: 40px;
+  margin: 0px;
+  background-image: url('/assets/img/ic_arrow.png');
+  background-size: contain;
+  background-position: center;
+}
+
+#folderTree .fancytree-exp-e span.fancytree-expander,
+#folderTree .fancytree-exp-el span.fancytree-expander {
+  min-height: 40px;
+  margin: 0px;
+  background-image: url('/assets/img/ic_drop_down.png');
+  background-size: contain;
+  background-position: center;
+}
+
+#folderTree span.fancytree-expander {
+  position: absolute;
+  right: 15px;
+}
+
+#folderTree .fancytree-has-children.fancytree-ico-cf span.fancytree-icon.samsung-bookmarks,
+#folderTree .fancytree-ico-ef span.fancytree-icon.samsung-bookmarks,
+#folderTree .fancytree-ico-cf span.fancytree-icon.samsung-bookmarks {
+  min-height: 40px;
+  margin: 0px;
+  width: 20px;
+  background-image: url('/assets/img/internet_pc_ic_folder.svg');
+  background-size: contain;
+  background-position: center;
+}
+
+#mainTree .fancytree-has-children.fancytree-ico-cf span.fancytree-icon,
+#mainTree .fancytree-ico-ef span.fancytree-icon,
+#mainTree .fancytree-ico-cf span.fancytree-icon,
+#mainTree .fancytree-ico-cf span.fancytree-icon {
+  min-height: 56px;
+  margin: 0px;
+  margin-left: 20px;
+  width: 36px;
+  background-image: url('/assets/img/internet_pc_ic_folder.svg');
+  background-size: contain;
+  background-position: center;
+}
+
+#folderTree .fancytree-has-children.fancytree-ico-cf span.fancytree-icon,
+#folderTree .fancytree-ico-ef span.fancytree-icon,
+#folderTree .fancytree-ico-cf span.fancytree-icon {
+  min-height: 40px;
+  margin: 0px;
+  width: 20px;
+  background-image: url('/assets/img/internet_pc_ic_folder.svg');
+  background-size: contain;
+  background-position: center;
+}
+
+#folderTreeDiv .fancytree-plain span.fancytree-node {
+  font-size: 14px;
+  font-family: SegoeUI;
+  color: #252525;
+  text-align: left;
+  min-height: 40px;
+  line-height: 40px;
+  position: relative;
+}
+
+#folderTree .fancytree-node .fancytree-icon {
+  display: none;
+}
+
+#folderTree > ul > li > span.fancytree-node > .fancytree-icon {
+  display: inline-block;
+}
+
+#folderTree > ul > li:nth-child(1) > span.fancytree-node > .fancytree-icon {
+  background-image: url('/assets/img/internet_pc_ic_bookmarks.svg');
+}
+
+#folderTree > ul > li:nth-child(2) > span.fancytree-node > .fancytree-icon {
+  background-image: url('/assets/img/internet_pc_ic_tabs.svg');
+}
+
+#folderTree .fancytree-node .fancytree-title {
+  overflow: hidden;
+  white-space: nowrap;
+  width: calc(100% - 60px);
+  text-overflow: ellipsis;
+}
+
+#treeView .fancytree-has-children.fancytree-ico-c span.fancytree-icon {
+  min-height: 40px;
+  margin: 0px;
+  width: 20px;
+  background-image: url('/assets/img/internet_list_folder.png');
+  background-size: contain;
+  background-position: center;
+}
+
+div.fancytree-drag-helper span.fancytree-childcounter {
+  height: 15px;
+  min-width: 15px;
+  border-radius: 15px;
+  padding: 3px;
+}
+
+/* Dialog */
+.ui-dialog {
+  border-radius: 16px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix.ui-draggable-handle {
+  color: black;
+  background-color: #000000;
+  background: none;
+  border: 0px;
+}
+
+#dialog-form,
+#dialog-form-rename {
+  background: #fff;
+  height: 170px;
+}
+
+.dialog-header {
+  font-size: 18px;
+  font-family: SegoeUI-Semibold;
+  color: #000000;
+  height: 50px;
+  line-height: 50px;
+  vertical-align: middle;
+  align-items: center;
+}
+
+.noTitleStuff .ui-dialog-titlebar {
+  display: none;
+}
+
+.ui-dialog-titlebar.ui-corner-all.ui-widget-header.ui-helper-clearfix.ui-draggable-handle {
+  display: none;
+}
+
+.ui-dialog-buttonpane .ui-widget-content .ui-helper-clearfix,
+.ui-dialog .ui-dialog-buttonpane,
+.ui-resizable,
+.ui-resizable-handle {
+  margin-top: 0px;
+  background-color: #fff;
+}
+
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+  float: none;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ui-dialog .ui-resizable-w,
+.ui-dialog .ui-resizable-e {
+  width: 0px;
+}
+
+.dialog-form-input label {
+  display: block;
+  width: 100%;
+  height: 24px;
+  line-height: 24px;
+  font-size: 14px;
+  font-family: 'SegoeUI-Semibold';
+  margin-top: 5px;
+  color: #0072de;
+}
+
+.dialog-form-input input {
+  border: none;
+  border-bottom: 2px solid #252525;
+  height: 24px;
+  width: 96%;
+  padding: 4px;
+  font-size: 1em;
+  border-radius: 2px;
+  outline: none;
+  color: #0072de;
+}
+
+.ui-button.ui-corner-all.ui-widget {
+  border: none;
+  text-transform: uppercase;
+  padding: 0;
+  background: #fff;
+  font-size: 14px;
+  width: 88px;
+  height: 36px;
+  cursor: pointer;
+  border-radius: 0;
+  font-family: 'SegoeUI-Semibold';
+  color: #010101;
+  width: 100%;
+  border-right: 1px solid #e6e6e6;
+}
+
+.ui-button.ui-corner-all.ui-widget:last-child {
+  border-right: 0;
+}
+
+.ui-button.ui-corner-all.ui-widget.button-save {
+}
+
+.ui-button.ui-corner-all.ui-widget.button-save:hover {
+  outline: none;
+  background: rgba(115, 123, 230, 0.1);
+}
+
+.ui-button.ui-corner-all.ui-widget.button-save:focus {
+  background: rgba(115, 123, 230, 0.1);
+}
+
+.ui-button.ui-corner-all.ui-widget.button-save.disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.ui-button.ui-corner-all.ui-widget:hover {
+  outline: none;
+  background: rgba(115, 123, 230, 0.1);
+}
+
+.ui-button.ui-corner-all.ui-widget:focus {
+  background: rgba(115, 123, 230, 0.1);
+}
+
+.ui-icon,
+.ui-widget-content .ui-icon {
+  background: none;
+}
+
+.ui-dialog .ui-resizable-s {
+  height: 10px;
+}
+
+.ui-dialog .ui-resizable-e,
+.ui-dialog .ui-resizable-w {
+  width: 10px;
+}
+
+.ui-corner-all,
+.ui-corner-bottom,
+.ui-corner-right,
+.ui-corner-br {
+  border-bottom-right-radius: 10px;
+}
+
+.dialog-close {
+  margin-top: 15px;
+  float: right;
+  background: none;
+  cursor: pointer;
+}
+
+.dialog-close:hover {
+  background: rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.dialog-close:focus {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.dialog-form-input fieldset {
+  padding: 0;
+  border: 0;
+}
+
+/* Context Menu */
+.context-menu-list {
+  background-color: #fff;
+  box-shadow: 0 0 16px #ccc;
+  min-width: 185px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.context-menu-item.context-menu-icon {
+  font-size: 14px;
+  font-family: SegoeUI;
+  color: #252525;
+  text-decoration: none;
+  color: rgb(60, 60, 60);
+  padding: 8px 12px;
+  flex-grow: 1;
+  outline: none;
+  display: none;
+}
+
+.context-menu-item.context-menu-icon.context-menu-disabled {
+  color: var(--paper-grey-900);
+  opacity: 0.65;
+}
+
+.context-menu-separator {
+  opacity: 0.5;
+  border: 1px dashed #979797;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.context-menu-item:focus,
+li.context-menu-item:hover {
+  background: #0000000D;
+}
+
+.btn-divicer {
+  width: 1px;
+  height: 100%;
+  background: #e6e6e6;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.editWrapper {
+  display: none;
+  position: absolute;
+  overflow: hidden;
+  top: 0px;
+  left: 0;
+  transform: translateX(100%);
+  width: 100%;
+  height: 60px;
+  z-index: 1;
+  background: #f6f6f6;
+}
+
+.editWrapper .editBar {
+  padding: 0 30px 0 24px;
+  justify-content: space-between;
+}
+
+.editWrapper .headerButton {
+  display: flex;
+}
+
+.editWrapper .headerButton .selectedBookmarksTxt {
+  height: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #010101;
+}
+
+.headerButton figure {
+  width: 20px;
+  height: 20px;
+  margin: 0 10px 0 0;
+  padding: 0;
+  overflow: hidden;
+  opacity: 1;
+  -webkit-transition: 0.1s ease-in-out;
+  transition: 0.1s ease-in-out;
+  cursor: pointer;
+}
+
+.editBar .editFunctions {
+  display: flex;
+}
+
+.editBar .editFunctions > span {
+  display: flex;
+  margin-right: 25px;
+  align-items: center;
+}
+
+.editBar .editFunctions > span img {
+  margin-right: 5px;
+}
+
+#editSelection.allSelected img {
+  content: url('/assets/img/internet_pc_ic_Command_bar_select all.svg');
+}
+
+.editBar .editFunctions .buttonTxt {
+  font-size: 12px;
+  color: #010101;
+}
+
+.no-item {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #4d4d4d;
+}
+
+.dark .context-menu-item.context-menu-icon.context-menu-disabled {
+  color: #fafafa;
+  opacity: 0.65;
+}

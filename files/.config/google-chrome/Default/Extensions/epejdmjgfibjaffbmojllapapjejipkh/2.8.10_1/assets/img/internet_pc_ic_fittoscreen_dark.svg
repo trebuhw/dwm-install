@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>internet_pc_ic_fittoscreen_dark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="internet_pc_ic_fittoscreen_dark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Samsung-Internet/bookmarks_new">
+            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+            <g id="Video-player/crop-to-fit" transform="translate(2.716667, 3.645833)" stroke="#FAFAFA" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25">
+                <path d="M10.6306667,2.39583333 L3.9365,2.39583333 C3.01566667,2.39583333 2.26983333,3.1425 2.26983333,4.0625 L2.26983333,8.64583333 C2.26983333,9.56583333 3.01566667,10.3125 3.9365,10.3125 L10.6306667,10.3125 C11.5506667,10.3125 12.2973333,9.56583333 12.2973333,8.64583333 L12.2973333,4.0625 C12.2973333,3.1425 11.5506667,2.39583333 10.6306667,2.39583333 Z M3.09,12.7083333 L0.625,12.7083333 C0.28,12.7083333 0,12.4283333 0,12.0833333 L0,9.61833333 M0.42075,12.3083333 L2.59241667,10.1366667 M11.477,0 L13.942,0 C14.287,0 14.567,0.28 14.567,0.625 L14.567,3.09 M14.1463333,0.4 L11.7321667,2.81333333" id="crop-to-fit"></path>
+            </g>
+        </g>
+    </g>
+</svg>

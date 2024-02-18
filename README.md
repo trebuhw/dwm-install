@@ -14,6 +14,10 @@
 
 ---
 
+Scripts 10.ln-github-config run scripts 2.all.app after installation -> removes files from .config and creates ln -s from the repository $HOME/Documents/GitHub/dwm-install/files/.config
+
+---
+
 Scripts 9 install only false install scripts 0.install.sh - (1,2,3,4,5)
 this is the original repository Suckless
 

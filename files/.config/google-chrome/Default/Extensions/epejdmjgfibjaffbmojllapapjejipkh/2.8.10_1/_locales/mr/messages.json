@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "पृष्ठचिन्हांना जोडा"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "सॅमसंग इंटरनेट वर पृष्‍ठचिन्‍हे जोडा"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "आयात करण्या साठी काही नाही"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "बुकमार्क जोडले"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "बुकमार्क आधीपासून अस्तित्वात आहे."
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "बुकमार्क शोध"
+   },
+   "Bookmarks_Text": {
+      "message": "पृष्ठचिन्ह"
+   },
+   "CANCEL": {
+      "message": "रद्द"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "दुसरे फोल्डर निवडा..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "आमच्‍याशी संपर्क साधा"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "URL कॉपी करा."
+   },
+   "CONTEXT_DELETE": {
+      "message": "काढून टाका"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "सर्व काढून टाका"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "काढून टाका"
+   },
+   "CONTEXT_EDIT": {
+      "message": "संपादित करा"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "बुकमार्क निर्यात करा"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "बुकमार्क आयात करा"
+   },
+   "CONTEXT_OPEN": {
+      "message": "उघडा"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "सर्व उघडा"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "सर्व बुकमार्क उघडा"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "नविन विंडोमध्ये सर्व उघडा"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "गुपित विंडो मध्ये सर्व उघडा"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "गुपित विंडो मध्ये उघडा"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "नवीन टॅबमध्ये उघडा."
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "नवीन विंडोमध्ये उघडा"
+   },
+   "CONTEXT_RENAME": {
+      "message": "नाव बदला"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "नावानुसार क्रमवारी लावा"
+   },
+   "CREATE": {
+      "message": "तयार करा"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "फोल्डर निर्माण करा"
+   },
+   "DONE": {
+      "message": "झाले"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "पुन्हा दर्शवू नका"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "जतन केलेली वापरकर्तानावे आणि पासवर्ड वापरून वेबसाइट वर ऑटोमॅटिकली साइन इन करा."
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "वापरकर्तानावे आणि पासवर्ड सिंक करू शकत नाही कारण Samsung Pass PC ऍप आणि सॅमसंग इंटरनेट एक्स्टेंशन वेगवेगळ्या Samsung accounts मध्ये साइन इन केले आहे."
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "Samsung Pass वरून वापरकर्ता ID आणि पासवर्ड मिळवू शकलो नाही."
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "Samsung Pass सिस्टम आवश्यकता:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "निवडलेल्या फोल्डरमध्ये फोल्डर तयार करा"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "हलवा"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "जतन करा"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "सेटिंग्‍स"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "%s बुकमार्क आयात करा"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "स्थान"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "नाव"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "%s बुकमार्क्स"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "स्थान निवडा"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "सिंक केलेले टॅब"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "Samsung Pass मध्ये साइन-इन माहिती अद्ययावत करायची?"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "वेब पत्ता"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "जोडा"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "बुकमार्क जोडा"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "सध्याच्या Chrome बुकमार्कमध्ये जोडा"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "सध्याच्या %s बुकमार्कमध्ये जोडा"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "सॅमसंग इंटरनेटमध्ये बुकमार्क करा"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "Chrome बुकमार्क"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "बुकमार्क संपादित करा"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "नवीन टॅबमध्ये विस्तृत करा"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "बुकमार्क निर्यात करा"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "बुकमार्क आयात करा"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "Chrome बुकमार्क आयात करा"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "सर्व बुकमार्क उघडा"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "सर्व इनकॉग्निटो विंडो मध्ये उघडा"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "सर्व नवीन विंडोमध्ये उघडा"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "इनकॉग्निटो विंडो मध्ये उघडा"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "सध्याचा Chrome बुकमार्क पुनर्स्थित करा"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "वर्तमान %s बुकमार्क्स पुनर्स्थित करा"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "सॅमसंग कॉम्प्युटर"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "नावानुसार क्रमवारी लावा"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (विश्वसनीय प्लॅटफॉर्म मॉड्यूल) 2.0 किंवा नंतरचे"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 किंवा Windows 10 व्हर्जन 1903 किंवा नंतरचे"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows हॅलो"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "बुकमार्क्स"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "स्वयंभरण साइन-इन माहिती"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "साइन-इन माहिती जतन करा"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "Samsung Cloud सह सिंक करा"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "यूजरनावे आणि पासवर्ड"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "Samsung Pass मध्ये साइन इन माहिती पहा"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "आपल्या ऍप्स वरील डेटा Samsung Cloud सह सिंक केला जाईल जर:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "सिंक करणे कसे कार्य करते?"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "%1$s %2$s पेक्षा मोठ्या टिपा आणि इतर सामग्री सिंक केली जाऊ शकत नाही."
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "सिंक करत आहे…"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "अनुप्रयोगाचे सेटिंग्स मध्ये सिंक चालू केले आहे."
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "कोणती माहिती सिंक केली आहे?"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "आपण आपल्‍या Samsung account मध्ये साइन इन केले आहे."
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "डेटा सिंक करू शकलो नाही"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "%s सिंक करा"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "आवृत्‍ती %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "अधिक माहिती"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: टिपा आणि इतर डेटा"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d आयटम्‍स"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "अंतिम सिंक केले: %s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "वापरून सिंक करा"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "1 आयटम हटविला."
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "%d आयटम्स हटवले."
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "आता सिंक करा"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "गोपनीयता सूचना"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "शोधा"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "नवीन विंडो मध्ये उघडा"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "हटवा"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "संपादित करा"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "आयात करा"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "URL कॉपी केले."
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "%s विषयी"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "साइन इन केले"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "मदत"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "%s मध्ये वापरकर्तानाव आणि पासवर्ड जतन करायचा?"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "सर्व साइटसाठी पुन्हा विचारू नका"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "सर्व खाती पहा"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "अद्ययावत करा"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "उपकरण आणि ओएस फरक"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "बंद"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "चालू"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "One UI व्हर्जन"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "आयात करत आहे…"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "पृष्ठचिन्ह संपादित करा"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "फोल्डर संपादित करा"
+   },
+   "ERROR_STRING": {
+      "message": "त्रुटी"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "सॅमसंग इंटरनेट"
+   },
+   "FOLDER": {
+      "message": "फोल्डर"
+   },
+   "FOLDER_NAME": {
+      "message": "नाव"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "फोल्डर नाव आधीच अस्तित्वात."
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "फोल्डरचे नाव प्रविष्ट करा."
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "फोल्डरचे नाव"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "फोल्डर हलविण्यास अक्षम."
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "Bookmarks"
+   },
+   "GUIDE_DESC_1": {
+      "message": "Open your bookmarks on any computer using the Samsung Internet extension for PC browser"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmarks"
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "Use Samsung Internet Bookmarks saved on other devices, such as your mobile phone or tablet, as well as secure and easy web login with Samsung Pass, on your PC."
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "How can I use the Samsung Internet extension feature more efficiently?"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "Samsung Pass easy web login"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "How can I use the Samsung Pass secure and easy web login?"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ This feature can only be used on devices that support the Samsung Pass app for PC. "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "For supported devices and detailed instructions, please go to the website below."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "It is only supported on the Galaxy Book 3 series. Support will be expanded later."
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "Supports secure and easy web login through the Samsung Pass app for PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "Turn on the “Settings” > “Usernames and passwords” menu."
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "Select the Samsung Pass icon on the login screen of the webpage."
+   },
+   "GUIDE_TITLE": {
+      "message": "Sync bookmarks across your Samsung Internet and PC browser"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "मदत"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "बूकमार्क्स जोडा"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "आयटम्‍स नाहीत"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "सॅमसंग बुकमार्क्स"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "रद्द"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "संग्रह स्थान"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "पृष्ठचिन्ह"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "सर्व काढून टाका"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "कॉपी करा"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "फोल्डर तयार करा"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "नवीन फोल्डर"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "नवीन टॅबमध्ये उघडा."
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "नवीन टॅबमध्ये उघडा"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "नवीन विंडोमध्ये उघडा"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "नाव बदला"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "बुकमार्क आधीपासून अस्तित्वात आहे."
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "URL कॉपी करा."
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "आयात केले."
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "%d हटवले."
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "1 आयटेम कॉपी केला"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "%d आयटम्स कॉपी केले."
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "पूर्ववत"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "साइन आउट"
+   },
+   "IMPORT": {
+      "message": "आयात"
+   },
+   "IMPORTED": {
+      "message": "आयात केले."
+   },
+   "IMPORTING": {
+      "message": "आयात करीत आहे..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "केवळ त्या पृष्‍ठचिन्‍हांच्या विद्यमान यादी वर नवीन पृष्‍ठचिन्‍हे जोडतो, जे $1 वरून आयात केले होते."
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "$1 पृष्ठचिन्हे आयात करा पर्याय"
+   },
+   "IMPORT_ERROR": {
+      "message": "आयात अयशस्वी."
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "आपण या फोल्डरवर नावीन आयटम्स जोडू शकता किंवा सर्व अस्तित्वातील आयटम्स बदलू शकता."
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "सॅमसंग इंटरनेट मध्ये आपली $1 पृष्‍ठचिन्हे वापरा"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "$1 पृष्ठचिन्हे आयात करा पर्याय सेट करा"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "प्रत्येक वेळी विचारा"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "पर्याय आयात करा"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "जोडा"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "$1 वरून आयात केलेली अस्तित्‍वातील पृष्‍ठचिन्‍हे साफ करतो आणि आपल्या $1 पृष्‍ठचिन्‍हांची एक नवीन कॉपी तयार करतो."
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "बदला"
+   },
+   "IMPORT_TEXT": {
+      "message": "$1 पृष्ठचिन्हे आयात करा"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "आपण $1 पृष्‍ठचिन्हे आयात करताच, आपल्या सॅमसंग मोबाईल मध्ये आपण $1 पृष्‍ठचिन्हे वापरू शकता."
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "सॅमसंग मोबाईल मध्ये आपली $1 पृष्‍ठचिन्हे वापरा."
+   },
+   "INITIAL_SETTINGS": {
+      "message": "Initial settings"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "How can I use the Samsung Internet extension feature?"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "Select the “Extension” icon located in the top menu of your PC browser."
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "Select the Samsung Internet extension feature. ※ Pin to the top menu using the “Pin” button"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "Log in to your Samsung account and try out the Samsung Internet extension feature."
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "आपल्या इंटरनेट कनेक्शन मध्ये व्यत्यय आला होता. कृपया पुन्‍हा प्रयत्‍न करा."
+   },
+   "ITEMS_TEXT": {
+      "message": "आयटेम्स"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "नवीनतम आयात केले"
+   },
+   "LAST_SYNCED": {
+      "message": "अंतिम सिंक केलेले: "
+   },
+   "LOCATION_TEXT": {
+      "message": "संग्रह स्थान"
+   },
+   "LOGIN_INTRO": {
+      "message": "इतर उपकरणांवर पृष्ठचिन्हे ऍक्सेस करण्या साठी आपल्या Samsung account मध्ये साइन इन करा."
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "मोबाईल पृष्‍ठचिन्‍हे"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "नाव"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "नवीन फोल्डर"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "वेबपृष्ठ पृष्‍ठचिन्हांवर जोडले."
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "सॅमसंग बुकमार्क्स जोडण्या साठी Samsung account मध्ये साइन इन करा."
+   },
+   "NO_BOOKMARKS": {
+      "message": "पृष्ठचिन्ह नाही"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "शोध परिणाम नाही"
+   },
+   "NO_TABS": {
+      "message": "कोणतेही टॅब्‍स नाही"
+   },
+   "OK": {
+      "message": "ठीक"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Install %s to sync the usernames and passwords from your other devices."
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass isn't part of the Samsung Internet extension anymore. To keep using Samsung Pass to fill in usernames and passwords online, get the Samsung Pass extension."
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "Sign in to %s to sync the usernames and passwords from your other devices."
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "Get the Samsung Pass extension"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "%s इन्स्टॉल करा"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "Sign in to %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "Get the new Samsung Pass extension"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "The data that you can sync may differ based on your computer and system software."
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "Samsung Settings: paired Galaxy Buds"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Wi-Fi and Ethernet only"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, Ethernet, and mobile data"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "उघडा"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "All Samsung apps on this computer will stop syncing."
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "Your Samsung account will be removed from this computer."
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "Apps will stop syncing"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "Deselect all"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "Select all"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "आमच्‍याशी संपर्क साधा"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "%d निवडले"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "नवीन बुकमार्क जोडा"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "नवीन फोल्डर जोडा"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "फोल्ड़रचे नाव बदला"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "सर्व पृष्ठचिन्हे"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "टॅब्‍स उघडा"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "सॅमसंग बुकमार्क्स"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "अन्य उपकरणांचे टॅब्स उघडा"
+   },
+   "SAVE": {
+      "message": "जतन करा"
+   },
+   "SETTING": {
+      "message": "सेटिंग"
+   },
+   "SHOW_LOGS": {
+      "message": "लॉग्‍ज पाहा"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "Samsung account साइन इन पूर्ण केले आहे"
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "साइन आउट"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "सिंकिंग..."
+   },
+   "SYNC_ERROR": {
+      "message": "समन्वयाला सध्या समस्या आहेत. ते लवकरच परत येईल."
+   },
+   "SYNC_FAIL": {
+      "message": "समकालनता अयशस्वी."
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "सॅमसंग बुकमार्क सिंक करा"
+   },
+   "TITLE": {
+      "message": "शीर्षक"
+   },
+   "TITLE_EMPTY": {
+      "message": "फील्ड रिक्त असू शकत नाही."
+   },
+   "TOAST_DELETED": {
+      "message": "'$1' हटविले."
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "क्रमवारी लावलेले फोल्डर."
+   },
+   "TOAST_URL_COPIED": {
+      "message": "URL कॉपी केले."
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "फील्ड रिक्त असू शकत नाही."
+   },
+   "URL_INVALID": {
+      "message": "अवैध URL."
+   },
+   "WEB_ADDRESS": {
+      "message": "वेब पत्ता"
+   }
+}

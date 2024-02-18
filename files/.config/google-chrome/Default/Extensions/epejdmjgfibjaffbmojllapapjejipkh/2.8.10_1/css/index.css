@@ -1,0 +1,221 @@
+@import './header.css';
+@import './button.css';
+@import './sync/index.css';
+@import './material.css';
+@import './context-menu.css';
+@import './setting.css';
+@import './app-input.css';
+@import './app-switch.css';
+
+/* Global */
+@font-face {
+  font-family: 'SamsungOne200';
+  src: url('/assets/font/SamsungOneKoreanOTF_200.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SamsungOne500';
+  src: url('/assets/font/SamsungOneKoreanOTF_500.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SamsungOne700';
+  src: url('/assets/font/SamsungOneKoreanOTF_700.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SegoeUI-Semibold';
+  src: url('/assets/font/Segoe UI Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('/assets/font/Segoe UI.ttf') format('truetype');
+}
+
+@keyframes rotate-forever {
+  from {
+    transform: rotate(360deg);
+  }
+
+  to {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes popup {
+  from {
+    transform: scale(0.1);
+  }
+
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes popdownup {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(0.1);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes grow-horizontally {
+  from {
+    color: white;
+  }
+
+  to {
+    color: inherit;
+  }
+}
+
+@keyframes slide-in {
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@keyframes slide-out {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Custom Scrollbar */
+/* Webkit only */
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  min-height: 70px;
+  border-radius: 5px;
+  background-color: #d5d5d5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #a3a3a3;
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+  background-color: #d5d5d5;
+}
+
+:focus {
+  outline: 1.5px dotted rgba(0, 0, 0, 0.8);
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #f6f6f6;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+body {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 0;
+  padding: 0;
+  background-color: #f6f6f6;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  /* -webkit-user-select: none; */
+  -webkit-user-drag: none;
+  user-select: none;
+  font-family: 'SegoeUI';
+  font-weight: 400;
+}
+
+input {
+  font-family: 'SegoeUI';
+}
+
+.wrapper {
+  position: absolute;
+  overflow: hidden;
+  top: 0px;
+  left: 0px;
+  width: 800px;
+  height: 600px;
+}
+
+.wrapper.login {
+  height: 100%;
+  resize: none;
+  transition-duration: 0.5s;
+}
+
+.wrapper.sync {
+  transition-duration: 0s;
+}
+
+.setting {
+  display: none;
+  position: absolute;
+  overflow: hidden;
+  top: 0px;
+  transform: translateX(100%);
+  width: 479px;
+  height: 60px;
+  z-index: 9;
+  left: 321px;
+}
+
+.setting .header {
+  left: 20px;
+  width: calc(100% - 44px);
+  padding-right: 0;
+}
+
+.slide-in {
+  animation: slide-in 0.25s forwards;
+}
+
+.slide-out {
+  animation: slide-out 0.25s forwards;
+}
+
+.syncing .add-bookmark-btn,
+.syncing .search-btn,
+.syncing .chrome-import-btn,
+.syncing #bookmark-manager {
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+/* start styles dark theme */
+.dark .setting .header {
+  background-color: #252525;
+}
+/* end styles dark theme */
+
+.ui-draggable-handle {
+  touch-action: auto !important;
+}

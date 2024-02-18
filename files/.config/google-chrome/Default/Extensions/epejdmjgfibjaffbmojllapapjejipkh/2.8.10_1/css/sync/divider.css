@@ -1,0 +1,86 @@
+.bookmark-text {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 43px;
+  background-color: #f0f0f0;
+}
+
+.bookmark-text span {
+  color: #000000;
+  font-family: SegoeUI-Semibold;
+  font-size: 16px;
+}
+
+.bookmark-text-import {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 46px;
+  color: #737ae6;
+  font-family: SegoeUI;
+  font-size: 14px;
+}
+
+.bookmark-text-import:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.divider-bookmark-item {
+  margin: 0px;
+  width: 400px;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 0px;
+}
+
+.divider-chrome-folder {
+  margin: 0px;
+  width: 400px;
+  border-top: 2px solid #e4e4e4;
+  border-bottom: 0px;
+}
+
+.bookmark-text-import.syncing {
+  cursor: not-allowed;
+}
+
+.tab-text {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  background-color: #f0f0f0;
+}
+
+.tab-text span {
+  color: #000000;
+  font-family: SegoeUI-Semibold;
+  font-size: 16px;
+}
+
+.tab-text-import {
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 46px;
+  color: #737ae6;
+  font-family: SegoeUI;
+  font-size: 14px;
+}
+
+.tab-text-import:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.divider-tab-item {
+  margin: 0px;
+  width: 400px;
+  border-top: 1px solid #e4e4e4;
+  border-bottom: 0px;
+}
+
+.tab-text-import.syncing {
+  cursor: not-allowed;
+}

@@ -1,0 +1,1 @@
+Vue.component("app-switch-button",{name:"app-switch-button",template:"#app-switch-template",props:{value:{type:Boolean},isLabel:{type:Boolean,default:!0}},data:()=>({onLabel:ON,offLabel:OFF}),methods:{onChange(value){this.$emit("input",value),this.$emit("onchange",value)}}});

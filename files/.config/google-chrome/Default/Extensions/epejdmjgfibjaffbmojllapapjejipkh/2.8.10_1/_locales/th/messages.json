@@ -1,0 +1,860 @@
+{
+   "ADD_TO_BOOKMARKS_TEXT": {
+      "message": "เพิ่ม​ใน​บุ๊ค​มา​ร์ค"
+   },
+   "ADD_TO_SAMSUNG_BOOKMARKS": {
+      "message": "เพิ่มบุ๊คมาร์คไปยัง Samsung Internet"
+   },
+   "ALREADY_IMPORTED": {
+      "message": "ไม่มีรายการที่จะนำเข้า"
+   },
+   "BOOKMARK_ADDED": {
+      "message": "เพิ่มบุ๊คมาร์คแล้ว"
+   },
+   "BOOKMARK_EXISTS": {
+      "message": "มี​บุ๊ค​มา​ร์​คอ​ยู่​แล้ว"
+   },
+   "BOOKMARK_SEARCH": {
+      "message": "การค้นหาบุ๊คมาร์ค"
+   },
+   "Bookmarks_Text": {
+      "message": "บุ๊ค​มา​ร์ค"
+   },
+   "CANCEL": {
+      "message": "ยกเลิก"
+   },
+   "CHOOSE_OTHER_FOLDER": {
+      "message": "เลือกโฟลเดอร์อื่น..."
+   },
+   "CONDITION_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Windows 10 or higher versions with TPM and Windows Hello enabled PCs will be able to install the Samsung Pass PC app"
+   },
+   "CONTACT_US": {
+      "message": "ติดต่อเรา"
+   },
+   "CONTEXT_COPY_URL": {
+      "message": "คัด​ลอก URL"
+   },
+   "CONTEXT_DELETE": {
+      "message": "ลบ"
+   },
+   "CONTEXT_DELETE_ALL": {
+      "message": "ลบ​ทั้ง​หมด"
+   },
+   "CONTEXT_DELETE_TAB": {
+      "message": "ลบ"
+   },
+   "CONTEXT_EDIT": {
+      "message": "แก้ไข"
+   },
+   "CONTEXT_EXPORT_BOOKMARKS": {
+      "message": "ส่งออกบุ๊คมาร์ค"
+   },
+   "CONTEXT_IMPORT_BOOKMARKS": {
+      "message": "นำเข้าบุ๊คมาร์ค"
+   },
+   "CONTEXT_OPEN": {
+      "message": "เปิด​"
+   },
+   "CONTEXT_OPEN_ALL": {
+      "message": "เปิดทั้งหมด"
+   },
+   "CONTEXT_OPEN_ALL_BOOKMAKRS": {
+      "message": "เปิดบุ๊คมาร์คทั้งหมด"
+   },
+   "CONTEXT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "เปิดทั้งหมดในหน้าต่างใหม่"
+   },
+   "CONTEXT_OPEN_ALL_IN_SECRET_WINDOW": {
+      "message": "เปิดทั้งหมดในหน้าต่างลับ"
+   },
+   "CONTEXT_OPEN_IN_SECRET_WINDOW": {
+      "message": "เปิดในหน้าต่างลับ"
+   },
+   "CONTEXT_OPEN_NEW_TAB": {
+      "message": "เปิด​ใน​แท็บ​ใหม่"
+   },
+   "CONTEXT_OPEN_NEW_WINDOW": {
+      "message": "เปิด​ใน​หน้าต่าง​ใหม่"
+   },
+   "CONTEXT_RENAME": {
+      "message": "เปลี่ยน​ชื่อ"
+   },
+   "CONTEXT_SORT_BY_NAME": {
+      "message": "เรียง​ลำดับ​ตาม​ชื่อ"
+   },
+   "CREATE": {
+      "message": "สร้าง"
+   },
+   "CREATE_NEW_FOLDER": {
+      "message": "สร้าง​โฟลเดอร์"
+   },
+   "DONE": {
+      "message": "เรียบร้อย"
+   },
+   "DO_NOT_SHOW_AGAIN": {
+      "message": "อย่าแสดงอีก"
+   },
+   "DREAM_BR_BODY_AUTOMATICALLY_SIGN_IN_TO_WEBSITES_USING_SAVED_USERNAMES_AND_PASSWORDS": {
+      "message": "เข้าสู่ระบบเว็บไซต์โดยอัตโนมัติด้วยชื่อผู้ใช้และรหัสผ่านที่บันทึกไว้"
+   },
+   "DREAM_BR_BODY_CANT_SYNC_USERNAMES_AND_PASSWORDS_BECAUSE_THE_SAMSUNG_PASS_PC_APP_AND_THE_SAMSUNG_INTERNET_EXTENSION_ARE_SIGNED_IN_TO_DIFFERENT_SAMSUNG_ACCOUNTS": {
+      "message": "ไม่สามารถซิงค์ชื่อผู้ใช้และรหัสผ่านๆก้เนื่องจากแอป Samsung Pass PC และส่วนขยาย Samsung Internet เข้าสู่ระบบ Samsung account คนละบัญชี"
+   },
+   "DREAM_BR_BODY_COULDNT_GET_USER_ID_AND_PASSWORD_FROM_SAMSUNG_PASS": {
+      "message": "ไม่สามารถรับ ID ผู้ใช้และรหัสผ่านจาก Samsung Pass ได้"
+   },
+   "DREAM_BR_BODY_SAMSUNG_ACCOUNT": {
+      "message": "Samsung account"
+   },
+   "DREAM_BR_BODY_SAMSUNG_PASS_SYSTEM_REQUIREMENTS_C": {
+      "message": "ความต้องการระบบ Samsung Pass:"
+   },
+   "DREAM_BR_BUTTON_CREATE_FOLDER_IN_SELECTED_FOLDER_32": {
+      "message": "สร้างโฟลเดอร์ในโฟลเดอร์ที่เลือก"
+   },
+   "DREAM_BR_BUTTON_MOVE_11": {
+      "message": "ย้าย"
+   },
+   "DREAM_BR_BUTTON_SAVE_M_PASSWORD_25": {
+      "message": "บันทึก"
+   },
+   "DREAM_BR_BUTTON_SETTINGS_15": {
+      "message": "การตั้งค่า"
+   },
+   "DREAM_BR_HEADER_IMPORT_PS_BOOKMARKS": {
+      "message": "นำเข้าบุ๊คมาร์ค %s"
+   },
+   "DREAM_BR_HEADER_LOCATION": {
+      "message": "ตำแหน่ง"
+   },
+   "DREAM_BR_HEADER_NAME": {
+      "message": "ชื่อ"
+   },
+   "DREAM_BR_HEADER_PS_BOOKMARKS": {
+      "message": "บุ๊คมาร์ค %s"
+   },
+   "DREAM_BR_HEADER_SAMSUNG_PASS": {
+      "message": "Samsung Pass"
+   },
+   "DREAM_BR_HEADER_SELECT_LOCATION_M_FILE_LOCATION": {
+      "message": "เลือกตำแหน่ง"
+   },
+   "DREAM_BR_HEADER_SYNCED_TABS": {
+      "message": "แท็บที่ซิงค์"
+   },
+   "DREAM_BR_HEADER_UPDATE_SIGN_IN_INFORMATION_IN_SAMSUNG_PASS_Q": {
+      "message": "อัปเดตข้อมูลการเข้าสู่ระบบใน Samsung Pass หรือไม่"
+   },
+   "DREAM_BR_HEADER_WEB_ADDRESS_ABB": {
+      "message": "ที่อยู่เว็บ"
+   },
+   "DREAM_BR_OPT_ADD": {
+      "message": "เพิ่ม"
+   },
+   "DREAM_BR_OPT_ADD_BOOKMARK": {
+      "message": "เพิ่มบุ๊คมาร์ค"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_CHROME_BOOKMARKS": {
+      "message": "เพิ่มไปยังบุ๊คมาร์ค Chrome ปัจจุบัน"
+   },
+   "DREAM_BR_OPT_ADD_TO_CURRENT_PS_BOOKMARKS": {
+      "message": "เพิ่มไปยังบุ๊คมาร์ค %s ปัจจุบัน"
+   },
+   "DREAM_BR_OPT_BOOKMARK_IN_SAMSUNG_INTERNET": {
+      "message": "บุ๊คมาร์คใน Samsung Internet"
+   },
+   "DREAM_BR_OPT_CHROME_BOOKMARKS": {
+      "message": "บุ๊คมาร์ค Chrome"
+   },
+   "DREAM_BR_OPT_EDIT_BOOKMARK": {
+      "message": "แก้ไขบุ๊คมาร์ค"
+   },
+   "DREAM_BR_OPT_EXPAND_IN_NEW_TAB": {
+      "message": "ขยายในแท็บใหม่"
+   },
+   "DREAM_BR_OPT_EXPORT_BOOKMARKS": {
+      "message": "ส่งออกบุ๊คมาร์ค"
+   },
+   "DREAM_BR_OPT_IMPORT_BOOKMARKS": {
+      "message": "นำเข้าบุ๊คมาร์ค"
+   },
+   "DREAM_BR_OPT_IMPORT_CHROME_BOOKMARKS": {
+      "message": "นำเข้าบุ๊คมาร์ค Chrome"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_BOOKMARKS": {
+      "message": "เปิดบุ๊คมาร์คทั้งหมด"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_INCOGNITO_WINDOW": {
+      "message": "เปิดทั้งหมดในหน้าต่างการชมเว็บโดยไม่ระบุตัวตน"
+   },
+   "DREAM_BR_OPT_OPEN_ALL_IN_NEW_WINDOW": {
+      "message": "เปิดทั้งหมดในหน้าต่างใหม่"
+   },
+   "DREAM_BR_OPT_OPEN_IN_INCOGNITO_WINDOW": {
+      "message": "เปิดในหน้าต่างการชมเว็บโดยไม่ระบุตัวตน"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_CHROME_BOOKMARKS": {
+      "message": "แทนที่บุ๊คมาร์ค Chrome ปัจจุบัน"
+   },
+   "DREAM_BR_OPT_REPLACE_CURRENT_PS_BOOKMARKS": {
+      "message": "แทนที่บุ๊คมาร์ค %s ปัจจุบัน"
+   },
+   "DREAM_BR_OPT_SAMSUNG_COMPUTER": {
+      "message": "คอมพิวเตอร์ Samsung"
+   },
+   "DREAM_BR_OPT_SORT_BY_NAME": {
+      "message": "เรียงตามชื่อ"
+   },
+   "DREAM_BR_OPT_TPM_HTRUSTED_PLATFORM_MODULE_20_OR_LATER": {
+      "message": "TPM (Trusted Platform Module) 2.0 หรือใหม่กว่า"
+   },
+   "DREAM_BR_OPT_WINDOWS_11_OR_WINDOWS_10_VERSION_1903_OR_LATER": {
+      "message": "Windows 11 หรือ Windows 10 เวอร์ชั่น 1903 หรือใหม่กว่า"
+   },
+   "DREAM_BR_OPT_WINDOWS_HELLO": {
+      "message": "Windows Hello"
+   },
+   "DREAM_BR_TAB_BOOKMARKS_ABB": {
+      "message": "บุ๊คมาร์ค"
+   },
+   "DREAM_BR_TMBODY_AUTOFILL_SIGN_IN_INFO": {
+      "message": "ข้อมูลเข้าสู่ระบบเติมอัตโนมัติ"
+   },
+   "DREAM_BR_TMBODY_SAVE_SIGN_IN_INFO": {
+      "message": "บันทึกข้อมูลการเข้าสู่ระบบ"
+   },
+   "DREAM_BR_TMBODY_SYNC_WITH_SAMSUNG_CLOUD": {
+      "message": "ซิงค์กับ Samsung Cloud"
+   },
+   "DREAM_BR_TMBODY_USERNAMES_AND_PASSWORDS": {
+      "message": "ชื่อผู้ใช้และรหัสผ่าน"
+   },
+   "DREAM_BR_TMBODY_VIEW_SIGN_IN_INFO_IN_SAMSUNG_PASS_ABB": {
+      "message": "ดูข้อมูลเข้าระบบใน Samsung Pass"
+   },
+   "DREAM_CLOUD_BODY_DATA_FROM_YOUR_APPS_WILL_BE_SYNCED_WITH_SAMSUNG_CLOUD_IF_C": {
+      "message": "ข้อมูลจากแอปของคุณจะถูกซิงค์กับ Samsung Cloud หาก:"
+   },
+   "DREAM_CLOUD_BODY_HOW_DOES_SYNCING_WORK_Q": {
+      "message": "การซิงค์ทำงานอย่างไร"
+   },
+   "DREAM_CLOUD_BODY_NOTES_AND_OTHER_CONTENT_LARGER_THAN_P1SS_P2SS_CANT_BE_SYNCED": {
+      "message": "ไม่สามารรถซิงค์บันทึกและเนื้อหาอื่นที่ใหญ่กว่า %1$s %2$s"
+   },
+   "DREAM_CLOUD_BODY_SYNCING_ING": {
+      "message": "กำลังซิงค์…"
+   },
+   "DREAM_CLOUD_BODY_THE_APP_HAS_SYNC_TURNED_ON_IN_SETTINGS": {
+      "message": "แอพนี้เปิดการซิงค์ในการตั้งค่าอยู่"
+   },
+   "DREAM_CLOUD_BODY_WHAT_INFORMATION_IS_SYNCED_Q": {
+      "message": "ระบบซิงค์ข้อมูลใดบ้าง"
+   },
+   "DREAM_CLOUD_BODY_YOURE_SIGNED_IN_TO_YOUR_SAMSUNG_ACCOUNT": {
+      "message": "คุณเข้าสู่ระบบ Samsung account ของคุณแล้ว"
+   },
+   "DREAM_CLOUD_HEADER_COULDNT_SYNC_DATA_ABB": {
+      "message": "ไม่สามารถซิงค์ข้อมูล"
+   },
+   "DREAM_CLOUD_HEADER_PS_SYNC": {
+      "message": "ซิงค์ %s"
+   },
+   "DREAM_CLOUD_HEADER_VERSION_PD": {
+      "message": "เวอร์ชั่น %d"
+   },
+   "DREAM_CLOUD_OPT_MORE_INFORMATION_ABB": {
+      "message": "ข้อมูลเพิ่มเติม"
+   },
+   "DREAM_CLOUD_OPT_SAMSUNG_NOTES_C_NOTES_AND_OTHER_DATA": {
+      "message": "Samsung Notes: บันทึกและข้อมูลอื่นๆ"
+   },
+   "DREAM_CLOUD_SBODY_PD_ITEMS": {
+      "message": "%d รายการ"
+   },
+   "DREAM_CLOUD_STATUS_LAST_SYNCED_C_PS": {
+      "message": "ซิงค์ครั้งล่าสุด: %s"
+   },
+   "DREAM_CLOUD_TMBODY_SYNC_USING": {
+      "message": "ซิงค์โดยใช้"
+   },
+   "DREAM_CLOUD_TPOP_1_ITEM_DELETED": {
+      "message": "ลบแล้ว 1 รายการ"
+   },
+   "DREAM_CLOUD_TPOP_PD_ITEMS_DELETED": {
+      "message": "ลบ %d รายการ"
+   },
+   "DREAM_HEALTH_BUTTON_SYNC_NOW_30": {
+      "message": "ซิงค์ตอนนี้"
+   },
+   "DREAM_HELP_OPT_PRIVACY_NOTICE_M_COLLECT": {
+      "message": "ประกาศความเป็นส่วนตัว"
+   },
+   "DREAM_IME_BUTTON_SEARCH_20": {
+      "message": "ค้นหา"
+   },
+   "DREAM_MF_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "เปิดในหน้าต่างใหม่"
+   },
+   "DREAM_MSG_OPT_DELETE": {
+      "message": "ลบ"
+   },
+   "DREAM_MSG_OPT_EDIT": {
+      "message": "แก้ไข"
+   },
+   "DREAM_PENUP_HEADER_IMPORT": {
+      "message": "นำเข้า"
+   },
+   "DREAM_PENUP_TPOP_URL_COPIED": {
+      "message": "คัดลอก URL แล้ว"
+   },
+   "DREAM_REMINDER_TMBODY_ABOUT_PS": {
+      "message": "เกี่ยวกับ %s"
+   },
+   "DREAM_SA_HEADER_SIGNED_IN": {
+      "message": "เข้าสู่ระบบแล้ว"
+   },
+   "DREAM_SMR_OPT_HELP": {
+      "message": "ช่วยเหลือ"
+   },
+   "DREAM_SPASS_BODY_SAVE_USERNAME_AND_PASSWORD_TO_PS_Q": {
+      "message": "บันทึกชื่อผู้ใช้และรหัสผ่านไปยัง %s หรือไม่"
+   },
+   "DREAM_SPASS_OPT_DONT_ASK_AGAIN_FOR_THIS_SITE": {
+      "message": "ไม่ต้องถามอีกสำหรับไซต์นี้"
+   },
+   "DREAM_SPASS_OPT_VIEW_ALL_ACCOUNTS": {
+      "message": "ดูบัญชีทั้งหมด"
+   },
+   "DREAM_SPAY_BUTTON_UPDATE_10": {
+      "message": "อัปเดต"
+   },
+   "DREAM_ST_BODY_DEVICE_AND_OS_DIFFERENCES": {
+      "message": "ความแตกต่างของอุปกรณ์และ OS"
+   },
+   "DREAM_ST_SBODY_OFF": {
+      "message": "ปิด"
+   },
+   "DREAM_ST_SBODY_ON": {
+      "message": "เปิด"
+   },
+   "DREAM_ST_TMBODY_ONE_UI_VERSION": {
+      "message": "เวอร์ชั่น One UI"
+   },
+   "DREAM_WLT_BODY_IMPORTING_ING": {
+      "message": "กำลังนำเข้า…"
+   },
+   "EDIT_BOOKMARK_TEXT": {
+      "message": "แก้​ไข​บุ๊ค​มา​ร์ค"
+   },
+   "EDIT_FOLDER_TEXT": {
+      "message": "แก้​ไข​โฟลเดอร์"
+   },
+   "ERROR_STRING": {
+      "message": "ข้อ​ผิด​พลาด"
+   },
+   "EXPORT_HTML_BOOKMARK": {
+      "message": "Export HTML bookmark"
+   },
+   "EXT_NAME": {
+      "message": "Samsung Internet"
+   },
+   "FOLDER": {
+      "message": "แฟ้ม"
+   },
+   "FOLDER_NAME": {
+      "message": "ชื่อ"
+   },
+   "FOLDER_NAME_EXISTS": {
+      "message": "ชื่อ​แฟ้มมี​อยู่​แล้ว"
+   },
+   "FOLDER_NAME_NEEDED": {
+      "message": "ใส่​ชื่อ​แฟ้ม"
+   },
+   "FOLDER_NAME_PLACE_HOLDER": {
+      "message": "ชื่อ​แฟ้ม"
+   },
+   "FOLDER_SELF_MOVE": {
+      "message": "ย้าย​แฟ้มไม่​ได้"
+   },
+   "GUIDE_BOOKMARKS": {
+      "message": "บุ๊คมาร์ค"
+   },
+   "GUIDE_DESC_1": {
+      "message": "เปิดบุ๊ค​มา​ร์คของคุณบนคอมพิวเตอร์เครื่องใดก็ได้โดยใช้ส่วนขยาย Samsung Internet สำหรับเบราว์เซอร์บน PC"
+   },
+   "GUIDE_DESC_10": {
+      "message": "Right-click on webpage to bookmark it."
+   },
+   "GUIDE_DESC_11": {
+      "message": "Manage bookmark"
+   },
+   "GUIDE_DESC_12": {
+      "message": "Add bookmark on web page"
+   },
+   "GUIDE_DESC_13": {
+      "message": "INTERNET SETTINGS"
+   },
+   "GUIDE_DESC_14": {
+      "message": "Settings"
+   },
+   "GUIDE_DESC_15": {
+      "message": "Samsung Cloud"
+   },
+   "GUIDE_DESC_17": {
+      "message": "Internet"
+   },
+   "GUIDE_DESC_18": {
+      "message": "Sync now"
+   },
+   "GUIDE_DESC_19": {
+      "message": "Last synced: 01/14/18 11:14 AM"
+   },
+   "GUIDE_DESC_2": {
+      "message": "การซิงค์บุ๊ค​มา​ร์ค Samsung Internet "
+   },
+   "GUIDE_DESC_20": {
+      "message": "+ ADD TO BOOKMARKS"
+   },
+   "GUIDE_DESC_21": {
+      "message": "Add bookmarks to Samsung Internet"
+   },
+   "GUIDE_DESC_22": {
+      "message": "Expand page"
+   },
+   "GUIDE_DESC_23": {
+      "message": "Easily manage bookmark in bookmark expand page."
+   },
+   "GUIDE_DESC_24": {
+      "message": "Sync open tabs on other device."
+   },
+   "GUIDE_DESC_25": {
+      "message": "Open tab sync"
+   },
+   "GUIDE_DESC_26": {
+      "message": "Samsung Internet"
+   },
+   "GUIDE_DESC_27": {
+      "message": "Samsung Bookmarks"
+   },
+   "GUIDE_DESC_28": {
+      "message": "Import"
+   },
+   "GUIDE_DESC_29": {
+      "message": "Open tabs from other devices"
+   },
+   "GUIDE_DESC_3": {
+      "message": "Tap Settings in Samsung Internet"
+   },
+   "GUIDE_DESC_4": {
+      "message": "Turn on Samsung cloud"
+   },
+   "GUIDE_DESC_5": {
+      "message": "Tap sync now"
+   },
+   "GUIDE_DESC_6": {
+      "message": "In %s on your computer, tap the Samsung Internet extension and sign in to your Samsung account to start syncing."
+   },
+   "GUIDE_DESC_7": {
+      "message": "Now, try using Samsung Internet in PC %s."
+   },
+   "GUIDE_DESC_8": {
+      "message": "Add and manage Samsung Internet bookmarks in %s."
+   },
+   "GUIDE_DESC_9": {
+      "message": "Click! You can add bookamrk"
+   },
+   "GUIDE_HEAD_DESC_1": {
+      "message": "ใช้บุ๊คมาร์คของ Samsung Internet ที่บันทึกไว้ในอุปกรณ์อื่น ๆ เช่น โทรศัพท์มือถือหรือแท็บเล็ต รวมถึงการเข้าสู่ระบบบนเว็บที่ปลอดภัยและง่ายดายด้วย Samsung Pass บน PC ของคุณ"
+   },
+   "GUIDE_HEAD_TITLE": {
+      "message": "วิธีเพิ่มประสิทธิภาพการใช้งานคุณลักษณะส่วนขยายของ Samsung Internet"
+   },
+   "GUIDE_SAMSUNG_PASS": {
+      "message": "เข้าสู่ระบบบนเว็บได้ง่าย ๆ ด้วย Samsung Pass "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_1": {
+      "message": "หากต้องการใช้การเข้าสู่ระบบบนเว็บอย่างปลอดภัยและง่ายดายด้วย Samsung Pass"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_2": {
+      "message": "※ คุณสมบัตินี้สามารถใช้ได้บนอุปกรณ์ที่รองรับแอพ Samsung Pass สำหรับ PC เท่านั้น "
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_3": {
+      "message": "สำหรับอุปกรณ์ที่รองรับและคำแนะนำโดยละเอียด โปรดไปที่เว็บไซต์ด้านล่าง"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_4": {
+      "message": "คุณสมบัตินี้รองรับเฉพาะ Galaxy Book ซีรีส์ 3 เท่านั้น จะให้การสนับสนุนเพิ่มเติมในภายหลัง"
+   },
+   "GUIDE_SAMSUNG_PASS_DESC_5": {
+      "message": "รองรับการเข้าสู่ระบบบนเว็บอย่างปลอดภัยและง่ายดายผ่านแอพ Samsung Pass สำหรับ PC"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_1": {
+      "message": "เปิดเมนู “การตั้งค่า” > “ชื่อผู้ใช้และรหัสผ่าน”"
+   },
+   "GUIDE_SAMSUNG_PASS_STEP_2": {
+      "message": "เลือกไอคอน Samsung Pass บนหน้าจอเข้าสู่ระบบของหน้าเว็บ"
+   },
+   "GUIDE_TITLE": {
+      "message": "ซิงค์บุ๊ค​มา​ร์คได้บนทั้ง Samsung Internet และเบราว์เซอร์บน PC ของคุณ"
+   },
+   "GUID_QA": {
+      "message": "Go to Q&A page"
+   },
+   "HELP": {
+      "message": "วิธี​ใช้"
+   },
+   "IDS_BR_BODY_ADD_TO_BOOKMARKS": {
+      "message": "เพิ่ม​ใน​บุ๊ค​มา​ร์ค"
+   },
+   "IDS_BR_BODY_NO_ITEMS": {
+      "message": "ไม่มีรายการ"
+   },
+   "IDS_BR_BODY_SAMSUNG_BOOKMARKS": {
+      "message": "บุ๊คมาร์คของ Samsung"
+   },
+   "IDS_BR_BUTTON_CANCEL": {
+      "message": "ยกเลิก"
+   },
+   "IDS_BR_HEADER_STORAGE_LOCATION_ABB": {
+      "message": "ตำแหน่งที่จัดเก็บข้อมูล"
+   },
+   "IDS_BR_OPT_BOOKMARK": {
+      "message": "บุ๊ค​มา​ร์ค"
+   },
+   "IDS_BR_OPT_BROWSERSAVEDPAGESDELALL": {
+      "message": "ลบ​ทั้ง​หมด"
+   },
+   "IDS_BR_OPT_COPY": {
+      "message": "คัดลอก"
+   },
+   "IDS_BR_OPT_CREATE_FOLDER_M_ADD": {
+      "message": "สร้างโฟลเดอร์"
+   },
+   "IDS_BR_OPT_NEW_FOLDER": {
+      "message": "แฟ้ม​ใหม่"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB": {
+      "message": "เปิด​ใน​แท็บ​ใหม่"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_TAB_ABB": {
+      "message": "เปิดในแท็บใหม่"
+   },
+   "IDS_BR_OPT_OPEN_IN_NEW_WINDOW": {
+      "message": "เปิด​ใน​หน้าต่าง​ใหม่"
+   },
+   "IDS_BR_OPT_RENAME": {
+      "message": "เปลี่ยน​ชื่อ"
+   },
+   "IDS_BR_POP_BOOKMARK_ALREADY_EXISTS": {
+      "message": "มี​บุ๊ค​มา​ร์​คอ​ยู่​แล้ว"
+   },
+   "IDS_BR_POP_COPY_URL": {
+      "message": "คัด​ลอก URL"
+   },
+   "IDS_EMAIL_BODY_IMPORTED": {
+      "message": "นำ​เข้า​แล้ว"
+   },
+   "IDS_GALLERY_TPOP_PD_DELETED": {
+      "message": "ลบแล้ว %d รายการ"
+   },
+   "IDS_MF_HEADER_1_ITEM_COPIED": {
+      "message": "คัด​ลอก 1 ​รายการ"
+   },
+   "IDS_MF_POP_PD_ITEMS_COPIED": {
+      "message": "คัด​ลอก %d ​รายการ"
+   },
+   "IDS_ST_BUTTON_UNDO": {
+      "message": "เลิก​ทำ"
+   },
+   "IDS_ST_SK3_SIGN_OUT": {
+      "message": "ลงชื่อออก"
+   },
+   "IMPORT": {
+      "message": "นำ​เข้า"
+   },
+   "IMPORTED": {
+      "message": "นำ​เข้า​แล้ว"
+   },
+   "IMPORTING": {
+      "message": "กำลัง​นำ​เข้า..."
+   },
+   "IMPORT_ADD_DESC": {
+      "message": "เพียงเพิ่มบุ๊คมาร์คใหม่ไปยังรายการบุ๊คมาร์คเก่าที่นำเข้ามาจาก $1"
+   },
+   "IMPORT_CHROME_BOOKMARK_OPTIONS": {
+      "message": "ตัวเลือกการนำเข้าบุ๊คมาร์ค $1"
+   },
+   "IMPORT_ERROR": {
+      "message": "นำ​เข้า​ไม่​สำเร็จ"
+   },
+   "IMPORT_HELP_TEXT": {
+      "message": "คุณสามารถเพิ่มรายการใหม่ หรือแทนที่รายการที่มีอยู่แล้วทั้งหมดไปยังโฟลเดอร์นี้"
+   },
+   "IMPORT_HTML_BOOKMARK": {
+      "message": "Import HTML bookmark"
+   },
+   "IMPORT_INFO": {
+      "message": "ใช้บุ๊คมาร์ค $1 ของคุณใน Samsung Internet"
+   },
+   "IMPORT_OPTION_DESC": {
+      "message": "ตั้งค่าตัวเลือกการนำเข้าบุ๊คมาร์ค $1"
+   },
+   "IMPORT_OPTION_SELECT": {
+      "message": "ถาม​ทุก​ครั้ง"
+   },
+   "IMPORT_OPTION_TEXT": {
+      "message": "ตัวเลือกการนำเข้า"
+   },
+   "IMPORT_OVERWRITE_TEXT": {
+      "message": "เพิ่ม"
+   },
+   "IMPORT_REPLACE_DESC": {
+      "message": "ล้างบุ๊คมาร์คเก่าที่นำเข้ามาจาก $1 แล้วสร้างสำเนาบุ๊คมาร์ค $1 ของคุณใหม่"
+   },
+   "IMPORT_REPLACE_TEXT": {
+      "message": "แทน​ที่"
+   },
+   "IMPORT_TEXT": {
+      "message": "นำเข้าบุ๊คมาร์คของ $1"
+   },
+   "IMPORT_TIP_INFO": {
+      "message": "เมื่อคุณนำเข้าบุ๊คมาร์ค $1 คุณสามารถใช้บุ๊คมาร์ค $1 ในมือถือ Samsung ของคุณ"
+   },
+   "IMPORT_TIP_TITLE": {
+      "message": "ใช้บุ๊คมาร์ค $1 ของคุณในมือถือ Samsung"
+   },
+   "INITIAL_SETTINGS": {
+      "message": "การตั้งค่าเริ่มต้น"
+   },
+   "INITIAL_SETTINGS_DESC_1": {
+      "message": "วิธีใช้คุณสมบัติส่วนขยายของ Samsung Internet"
+   },
+   "INITIAL_SETTINGS_STEP_1": {
+      "message": "เลือกไอคอน “ส่วนขยาย” ในเมนูด้านบนของเบราว์บน PC ของคุณ"
+   },
+   "INITIAL_SETTINGS_STEP_2": {
+      "message": "เลือกคุณสมบัติส่วนขยายของ Samsung Internet ※ ตรึงไว้ในเมนูด้านบนโดยใช้ปุ่ม “Pin”"
+   },
+   "INITIAL_SETTINGS_STEP_3": {
+      "message": "เข้าสู่ระบบ Samsung account ของคุณและลองใช้คุณสมบัติส่วนขยายของ Samsung Internet"
+   },
+   "INTERNET_FAILURE_TEXT": {
+      "message": "การเชื่อมต่ออินเทอร์เน็ตของคุณถูกขัดขวาง โปรดลองอีกครั้ง"
+   },
+   "ITEMS_TEXT": {
+      "message": "รายการ"
+   },
+   "LAST_IMPORTED_ON": {
+      "message": "นำเข้าล่าสุด"
+   },
+   "LAST_SYNCED": {
+      "message": "ซิงค์ล่าสุด: "
+   },
+   "LOCATION_TEXT": {
+      "message": "ตำแหน่งที่จัดเก็บ"
+   },
+   "LOGIN_INTRO": {
+      "message": "เข้าสู่ระบบ Samsung Account ของคุณเพื่อเข้าถึงบุ๊คมาร์คบนอุปกรณ์อื่น"
+   },
+   "MOBILE_BOOKMARKS": {
+      "message": "บุ๊คมาร์คบนมือถือ"
+   },
+   "MORE_INFORMATION_NOTE": {
+      "message": "** Notes and other content larger than %1$s %2$s can't be synced."
+   },
+   "NAME": {
+      "message": "ชื่อ"
+   },
+   "NEW_FOLDER_TEXT": {
+      "message": "แฟ้ม​ใหม่"
+   },
+   "NOTIFICATION_BOOKMARK_SUCCESS": {
+      "message": "เพิ่มเว็บเพจไปยังบุ๊คมาร์คแล้ว"
+   },
+   "NOTIFICATION_SIGIN_ERROR": {
+      "message": "เข้าสู่ระบบ Samsung Account เพื่อเพิ่มไปยังบุ๊คมาร์คของ Samsung"
+   },
+   "NO_BOOKMARKS": {
+      "message": "ไม่​มี​บุ๊ค​มา​ร์ค"
+   },
+   "NO_SEARCH_RESULT": {
+      "message": "ไม่​มี​ผลลัพธ์​การ​ค้น​หา"
+   },
+   "NO_TABS": {
+      "message": "ไม่มีแท็บ"
+   },
+   "OK": {
+      "message": "ตกลง"
+   },
+   "ONLY_GALAXY_BOOK_USER_WILL_BE_ABLE_TO_INSTALL_SAMSUNG_PASS": {
+      "message": "Only Galaxy Book users will be able to install the Samsung Pass PC app"
+   },
+   "PC_BR_BODY_INSTALL_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "ติดตั้ง %s เพื่อซิงค์ชื่อผู้ใช้และรหัสผ่านจากอุปกรณ์อื่นๆ ของคุณ"
+   },
+   "PC_BR_BODY_SAMSUNG_PASS_ISNT_PART_OF_THE_SAMSUNG_INTERNET_EXTENSION_ANYMORE_TO_KEEP_USING_SAMSUNG_PASS_TO_FILL_IN_USERNAMES_AND_PASSWORDS_ONLINE_GET_THE_SAMSUNG_PASS_EXTENSION": {
+      "message": "Samsung Pass ไม่ได้เป็นส่วนหนึ่งของส่วนขยาย Samsung Internet อีกต่อไปแล้ว หากต้องการใช้ Samsung Pass เพื่อกรอกชื่อผู้ใช้และรหัสผ่านออนไลน์ต่อไป ให้รับส่วนเสริม Samsung Pass"
+   },
+   "PC_BR_BODY_SIGN_IN_TO_PS_TO_SYNC_THE_USERNAMES_AND_PASSWORDS_FROM_YOUR_OTHER_DEVICES": {
+      "message": "เข้าสู่ระบบ %s เพื่อซิงค์ชื่อผู้ใช้และรหัสผ่านจากอุปกรณ์อื่นๆ ของคุณ"
+   },
+   "PC_BR_BUTTON_GET_THE_SAMSUNG_PASS_EXTENSION_40": {
+      "message": "รับส่วนขยาย Samsung Pass"
+   },
+   "PC_BR_BUTTON_INSTALL_PS_30": {
+      "message": "ติดตั้ง %s"
+   },
+   "PC_BR_BUTTON_SIGN_IN_TO_PS_30": {
+      "message": "เข้าสู่ระบบ %s"
+   },
+   "PC_BR_HEADER_GET_THE_NEW_SAMSUNG_PASS_EXTENSION": {
+      "message": "รับส่วนเสริม Samsung Pass ใหม่"
+   },
+   "PC_CLOUD_BODY_THE_DATA_THAT_YOU_CAN_SYNC_MAY_DIFFER_BASED_ON_YOUR_COMPUTER_AND_SYSTEM_SOFTWARE": {
+      "message": "ข้อมูลที่คุณสามารถซิงค์อาจแตกต่างกัน ขึ้นอยู่กับคอมพิวเตอร์และซอฟต์แวร์ระบบของคุณ"
+   },
+   "PC_CLOUD_OPT_SAMSUNG_SETTINGS_C_PAIRED_GALAXY_BUDS": {
+      "message": "การตั้งค่า Samsung: Galaxy Buds ที่จับคู่"
+   },
+   "PC_CLOUD_OPT_WI_FI_AND_ETHERNET_ONLY": {
+      "message": "Wi-Fi และอีเธอร์เน็ตเท่านั้น"
+   },
+   "PC_CLOUD_OPT_WI_FI_ETHERNET_AND_MOBILE_DATA": {
+      "message": "Wi-Fi, อีเธอร์เน็ต และข้อมูลมือถือ"
+   },
+   "PC_QS_OPT_OPEN": {
+      "message": "เปิด"
+   },
+   "PC_SA_BODY_ALL_SAMSUNG_APPS_ON_THIS_COMPUTER_WILL_STOP_SYNCING": {
+      "message": "แอป Samsung ทั้งหมดบนคอมพิวเตอร์นี้จะหยุดการซิงค์"
+   },
+   "PC_SA_BODY_YOUR_SAMSUNG_ACCOUNT_WILL_BE_REMOVED_FROM_THIS_COMPUTER": {
+      "message": "ข้อมูล Samsung account ของคุณจะถูกลบออกจากคอมพิวเตอร์เครื่องนี้"
+   },
+   "PC_SA_HEADER_APPS_WILL_STOP_SYNCING": {
+      "message": "แอปจะหยุดการซิงค์"
+   },
+   "PC_ST_BUTTON_DESELECT_ALL_20": {
+      "message": "ไม่เลือกทั้งหมด"
+   },
+   "PC_ST_BUTTON_SELECT_ALL_20": {
+      "message": "เลือกทั้งหมด"
+   },
+   "PC_ST_OPT_CONTACT_US": {
+      "message": "ติดต่อเรา"
+   },
+   "PLURAL_OTHER_ST_HEADER_PD_SELECTED": {
+      "message": "เลือก %d รายการแล้ว"
+   },
+   "POPUP_ADD_NEW_BOOKMARK": {
+      "message": "เพิ่มบุ๊คมาร์คใหม่"
+   },
+   "POPUP_ADD_NEW_FOLDER": {
+      "message": "เพิ่มโฟลเดอร์ใหม่"
+   },
+   "POPUP_RENAME_FOLDER": {
+      "message": "เปลี่ยน​ชื่อ​แฟ้ม"
+   },
+   "ROOT_BOOKMARK_FOLDER_NAME": {
+      "message": "บุ๊คมาร์คทั้งหมด"
+   },
+   "ROOT_TAB_FOLDER_NAME": {
+      "message": "เปิดแท็บ"
+   },
+   "SAMSUNG_BOOKMARKS_TEXT": {
+      "message": "บุ๊คมาร์คของ Samsung"
+   },
+   "SAMSUNG_INTERNET_EXTENSION": {
+      "message": "Samsung Internet Extension"
+   },
+   "SAMSUNG_PASS_APP_NAME": {
+      "message": "Samsung Pass"
+   },
+   "SAMSUNG_TABS_TEXT": {
+      "message": "เปิดแท็บจากอุปกรณ์อื่น"
+   },
+   "SAVE": {
+      "message": "บันทึก"
+   },
+   "SETTING": {
+      "message": "การ​ตั้ง​ค่า"
+   },
+   "SHOW_LOGS": {
+      "message": "ดูบันทึก"
+   },
+   "SIGNIN_SUCCESSFUL": {
+      "message": "การเข้าสู่ระบบ Samsung account เสร็จสมบูรณ์แล้ว"
+   },
+   "SIGN_IN_TO_PS": {
+      "message": "Sign in to %s"
+   },
+   "SIGN_OUT": {
+      "message": "ลงชื่อออก"
+   },
+   "SIGN_OUT_DES_0": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "SIGN_OUT_TITLE": {
+      "message": "Your Samsung Account will be removed from device, along with some, but not all of the associated data."
+   },
+   "STEP1": {
+      "message": "Step1"
+   },
+   "STEP2": {
+      "message": "Step2"
+   },
+   "STEP3": {
+      "message": "Step3"
+   },
+   "STEP4": {
+      "message": "Step4"
+   },
+   "SYNCING": {
+      "message": "กำลัง​ซิงค์..."
+   },
+   "SYNC_ERROR": {
+      "message": "ขณะ​นี้ การ​ซิงค์​กำลัง​มี​ปัญหา จะ​กลับ​เป็น​ปกติ​ใน​ไม่​ช้า"
+   },
+   "SYNC_FAIL": {
+      "message": "ซิงค์​ล้ม​เหลว"
+   },
+   "SYNC_GUIDE_DESC_1": {
+      "message": "Open your bookmark on any computer using the Samsung Internet for Chrome extension"
+   },
+   "SYNC_GUIDE_DESC_2": {
+      "message": "Syncing Samsung Internet bookmark"
+   },
+   "SYNC_GUIDE_TITLE": {
+      "message": "Sync bookmark with the Samsung Internet for Chrome extension"
+   },
+   "SYNC_SAMSUNG_BOOKMARKS": {
+      "message": "ซิงค์บุ๊คมาร์ค Samsung"
+   },
+   "TITLE": {
+      "message": "ชื่อ"
+   },
+   "TITLE_EMPTY": {
+      "message": "ฟิลด์​จะ​เว้น​ว่าง​ไม่​ได้"
+   },
+   "TOAST_DELETED": {
+      "message": "ลบ '$1' ​เรียบ​ร้อย"
+   },
+   "TOAST_SORTED_FOLDERS": {
+      "message": "โฟลเดอร์ที่จัดเรียง"
+   },
+   "TOAST_URL_COPIED": {
+      "message": "คัดลอก URL แล้ว"
+   },
+   "URL": {
+      "message": "URL"
+   },
+   "URL_EMPTY": {
+      "message": "ฟิลด์​จะ​เว้น​ว่าง​ไม่​ได้"
+   },
+   "URL_INVALID": {
+      "message": "URL ​ผิด"
+   },
+   "WEB_ADDRESS": {
+      "message": "ที่อยู่เว็บ"
+   }
+}

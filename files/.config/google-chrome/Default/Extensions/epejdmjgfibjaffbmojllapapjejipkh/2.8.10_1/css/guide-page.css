@@ -1,0 +1,532 @@
+/* Guide Page */
+@font-face {
+  font-family: 'SamsungOne200';
+  src: url('/assets/font/SamsungOneKoreanOTF_200.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SamsungOne500';
+  src: url('/assets/font/SamsungOneKoreanOTF_500.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SamsungOne700';
+  src: url('/assets/font/SamsungOneKoreanOTF_700.otf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'SegoeUI-Semibold';
+  src: url('/assets/font/Segoe UI Semibold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('/assets/font/Segoe UI.ttf') format('truetype');
+}
+
+body {
+  width: 960px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-top: 96px;
+  padding: 96px 48px 40px 40px;
+  margin: 0 auto;
+}
+
+span {
+  display: block;
+  position: relative;
+}
+
+.guide_tabs {
+  position: relative;
+}
+
+.tab_list {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  top: -20px;
+  z-index: 1;
+}
+
+.tab_button {
+  padding: 0px 40px;
+  background: #e3e4f3;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-left: 40px;
+}
+
+.tab_list > .tab_button:first-child {
+  margin-left: 0;
+}
+
+.tab_button.active {
+  background: #54589b;
+  color: #fff;
+}
+
+.guide_divider {
+  margin: 0px;
+  width: 960px;
+  border-top: 1px solid #000000;
+  opacity: 0.1;
+  border-bottom: 0px;
+  margin-bottom: 48px;
+}
+
+.guide_container.hidden {
+  display: none;
+}
+
+.guide_container.visible {
+  display: block;
+}
+
+.guide_title_div {
+  width: 100%;
+  height: 122px;
+  display: table;
+  margin-bottom: 5px;
+}
+
+.guide_title_div2 {
+  width: 880px;
+  padding: 0 51px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.guide_title {
+  text-align: center;
+  font-size: 42px;
+  font-family: SegoeUI-Semibold;
+  color: #000000;
+}
+
+.guide_desc {
+  font-size: 18px;
+  font-family: SegoeUI;
+  color: #000000;
+  line-height: 22px;
+  text-align: center;
+}
+
+.guide_desc2 {
+  font-size: 18px;
+  font-family: SegoeUI;
+  color: #666666;
+  line-height: 22px;
+  text-align: center;
+}
+
+.guide_desc3 {
+  font-size: 16px;
+  font-family: SegoeUI-Semibold;
+  color: #706cf5;
+}
+
+.guide_desc4 {
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #000000;
+}
+
+/* .guide_desc5 {
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 22px;
+  color: #ffffff;
+  margin: 0 20px;
+} */
+
+.guide_desc6 {
+  font-size: 20px;
+  font-family: SegoeUI-Semibold;
+  color: #666666;
+}
+
+/*.guide_img_text1 {
+  position: absolute;
+  top: 15.3%;
+  right: 21.5%;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #000000;
+}*/
+
+/* .guide_img_text2 {
+  position: absolute;
+  top: 57%;
+  left: 24.5%;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #000000;
+} */
+
+/* .guide_img_text3 {
+  position: absolute;
+  top: 56%;
+  right: 27.2%;
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #000000;
+} */
+
+/* .guide_img_text4 {
+  position: absolute;
+  top: 15.4%;
+  left: 13.5%;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #000000;
+  text-transform: uppercase;
+} */
+
+/* .guide_img_text5 {
+  position: absolute;
+  top: 44.5%;
+  right: 34.3%;
+  font-size: 18px;
+  font-family: SegoeUI-Semibold;
+  line-height: 20px;
+  color: #252525;
+} */
+
+/* .guide_img_text6 {
+  position: absolute;
+  top: 64%;
+  left: 11.7%;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #000000;
+} */
+
+/* .guide_img_text7 {
+  position: absolute;
+  top: 72.5%;
+  left: 11.7%;
+  font-size: 16px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #888888;
+} */
+
+/* .guide_img_text8 {
+  position: absolute;
+  bottom: 2.9%;
+  left: 34%;
+  font-size: 12px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #ffffff;
+  text-align: center;
+} */
+
+/* .guide_img_text9 {
+  position: absolute;
+  top: 56.8%;
+  right: 9.2%;
+  font-size: 11.5px;
+  font-family: SegoeUI;
+  line-height: 20px;
+  color: #252525;
+  text-align: left;
+} */
+
+/* .guide_img_text10 {
+  position: absolute;
+  top: 3%;
+  left: 13.5%;
+  font-size: 15px;
+  font-family: SegoeUI-Semibold;
+  line-height: 20px;
+  color: #000000;
+  text-align: left;
+} */
+
+/* .guide_img_text11 {
+  position: absolute;
+  top: 20.4%;
+  left: 17.5%;
+  font-size: 13px;
+  font-family: SegoeUI-Semibold;
+  line-height: 20px;
+  color: #000000;
+  text-align: left;
+} */
+
+/* .guide_img_text12 {
+  position: absolute;
+  top: 12.1%;
+  right: 13.5%;
+  font-size: 10px;
+  font-family: SegoeUI-Semibold;
+  line-height: 20px;
+  color: #252525;
+  text-align: center;
+  text-transform: uppercase;
+} */
+
+/* .guide_img_text13 {
+  position: absolute;
+  top: 29%;
+  left: 23.5%;
+  font-size: 14px;
+  font-family: SegoeUI-Semibold;
+  line-height: 20px;
+  color: #000000;
+  text-align: left;
+} */
+
+/* .guide_img_text14 {
+  position: absolute;
+  top: 12%;
+  left: 15.5%;
+  font-size: 15px;
+  font-family: SegoeUI-Semibold;
+  line-height: 20px;
+  color: #000000;
+  text-align: left;
+} */
+
+.margin-r-81 {
+  margin-right: 81px;
+}
+
+.margin-l-81 {
+  margin-left: 81px;
+}
+
+.margin-b-20 {
+  margin-bottom: 29px;
+}
+
+.margin-b-48 {
+  margin-bottom: 48px;
+}
+
+.guide_content1_div {
+  width: 100%;
+  height: 48px;
+  display: table;
+  margin-bottom: 48px;
+}
+
+.guide_content1_div2 {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.guide_img_1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 47px;
+}
+
+.guide_img_02_area {
+  width: 320px;
+}
+
+.guide_desc_common {
+  display: table;
+}
+
+.guide_desc_common2 {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.guide_img_area_1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.guide_desc_2_1 {
+  height: 24px;
+  width: 318px;
+  margin-top: 20px;
+}
+
+.guide_desc_2_2 {
+  height: 86px;
+  width: 318px;
+}
+
+.guide_content3_1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.guide_bubble {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.text_bubble {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  background-color: #8289f0;
+  text-align: center;
+}
+
+#guide_bubble_1 {
+  margin-bottom: 165px;
+}
+
+#guide_bubble_2 {
+  width: 334px;
+  margin-top: 200px;
+  margin-bottom: 162px;
+}
+
+#guide_bubble_3 {
+  width: 334px;
+  margin-top: 30px;
+  margin-bottom: 162px;
+}
+
+#guide_bubble_4 {
+  margin-bottom: 310px;
+  margin-right: 40px;
+}
+
+#text_bubble_1 {
+  width: 314px;
+  height: 78px;
+}
+
+#text_bubble_2 {
+  width: 246px;
+  height: 52px;
+}
+
+#text_bubble_3 {
+  width: 240px;
+  height: 78px;
+}
+
+#text_bubble_4 {
+  width: 270px;
+  height: 40px;
+}
+
+.guide_content3_1 {
+  margin-bottom: 60px;
+}
+
+.guide_qa_area {
+  height: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: right;
+}
+
+.guide_qa_area:hover {
+  cursor: pointer;
+}
+
+.qa_arrow {
+  margin-left: 1px;
+}
+
+.img_guide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.pass_guide_content {
+  display: block;
+  height: initial;
+}
+
+.pass_guide_content .guide_content1_div2,
+.others_version,
+.ko .ko_version {
+  display: block;
+}
+
+.ko_version,
+.ko .others_version {
+  display: none;
+}
+
+.link {
+  color: #0381fe;
+}
+
+.ko .img_initial_s2 {
+  content:url('/assets/img/STEP02_Initial_Settings_KOR_800x600.png');
+}
+
+.ko .img_initial_s3 {
+  content:url('/assets/img/STEP03_Initial_Settings_KOR_800x600.png');
+}
+
+.ko .img_bookmark_s1 {
+  content:url('/assets/img/img_guide_02_s1_kor.png');
+}
+
+.ko .img_bookmark_s2 {
+  content:url('/assets/img/img_guide_02_s2_kor.png');
+}
+
+.ko .img_bookmark_s3 {
+  content:url('/assets/img/img_guide_03_1_kor.png');
+}
+
+.ko .img_bookmark_s4 {
+  content:url('/assets/img/img_guide_03_2_kor.png');
+}
+
+.ko .img_pass_s1 {
+  content:url('/assets/img/STEP01_SamsungPass_KOR_800x600.png');
+}
+
+.guide_content_h_60 {
+  height: 60px;
+}
+
+.guide_desc_h_26 {
+  height: 26px;
+  width: 800px;
+}
