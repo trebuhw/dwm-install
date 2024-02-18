@@ -26,6 +26,7 @@ $packer gimp
 $packer git
 $packer gitahead-bin
 $packer gitfiend
+$packer github-desktop-bin
 $packer gnome-disk-utility
 $packer google-chrome
 $packer gparted
@@ -87,5 +88,6 @@ $packer wget
 $packer wttr
 $packer xcolor
 $packer xorg-xkill
+
 sudo systemctl enable avahi-daemon.service
 sudo systemctl enable ntpd.service
