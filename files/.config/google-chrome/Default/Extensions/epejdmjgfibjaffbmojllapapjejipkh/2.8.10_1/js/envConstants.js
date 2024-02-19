@@ -1,1 +1,0 @@
-const WEBSTORE_URL="https://chrome.google.com/webstore/detail/samsung-internet/epejdmjgfibjaffbmojllapapjejipkh/",EXT_ENVIRONMENT="production",PASS_CHROME_WEBSTORE_URL="https://chrome.google.com/webstore/detail/samsung-pass/ikbdppgmbnfncggibmidpeoklmbbmpbb",PASS_EDGE_WEBSTORE_URL="https://microsoftedge.microsoft.com/addons/detail/samsung-pass/bhafgjkglbbnaobkkaihfgimpniejpkg";

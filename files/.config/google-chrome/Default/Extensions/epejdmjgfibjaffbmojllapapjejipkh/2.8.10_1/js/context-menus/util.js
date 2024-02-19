@@ -1,1 +1,0 @@
-const createContextMenu=data=>chrome.contextMenus.remove(data.id,(()=>{chrome.runtime.lastError,chrome.contextMenus.create(data)})),removeContextMenu=({id:id})=>chrome.contextMenus.remove(id,(()=>chrome.runtime.lastError)),enableContextMenu=({id:id})=>chrome.contextMenus.update(id,{enabled:!0}),disableContextMenu=({id:id})=>chrome.contextMenus.update(id,{enabled:!1});
