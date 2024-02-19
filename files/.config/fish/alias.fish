@@ -1,7 +1,7 @@
 #list
 alias ls='lsd --color=auto'
 alias la='lsd -a'
-alias ll='ls -l'
+alias ll='ls -al'
 alias l='lsd'
 alias lt='lsd --tree'
 alias l.="lsd -A | egrep '^\.'"
