@@ -1,9 +1,12 @@
 #!/bin/bash
 
+sudo cp /etc/tlp.conf /etc/tlp.conf.bak
 sudo cp ~/dwm-install/files/etc/tlp.conf /etc
 sudo cp -r ~/dwm-install/files/usr/share/* /usr/share
+sudo mv /etc/pacman.conf /etc/pacman.conf.bak
 sudo cp ~/dwm-install/files/etc/pacman.conf /etc/
 sudo cp ~/dwm-install/files/etc/pacman.d/* /etc/pacman.d/
+sudo cp -r /etc/pacman.d /etc/pacman.d.bak
 
 cp ~/dwm-install/files/.vimrc ~/
 cp ~/dwm-install/files/.xinitrc ~/
