@@ -18,6 +18,6 @@ cp ~/dwm-install/files/.bashrc ~/
 cp -r ~/dwm-install/files/.icons ~/
 cp -r ~/dwm-install/files/.config/* ~/.config
 
-sudo chsh hubert -s /bin/fish
+sudo chsh $USER -s /bin/fish
 
 exit 0
