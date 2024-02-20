@@ -10,7 +10,7 @@ st.font: JetBrainsMono Nerd Font-11;
 
 !! Set the background, foreground and cursor colors as below:
 
-!! Dracula
+!! DWM
 *.foreground: #F8F8F2
 *.background: #282A36
 *.cursorColor: white
