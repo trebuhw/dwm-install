@@ -20,7 +20,7 @@ static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
 /*static const char col_cyan[]        = "#6790EB";*/
 /*static const char col_cyan[]        = "#1A73E8";*/
-static const char col_cyan[]        = "#0366d6";
+static const char col_cyan[]        = "#1a8fff";
 static const unsigned int baralpha = 0xd0;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
@@ -49,6 +49,7 @@ static const Rule rules[] = {
 	 *  use tags mask to point an application to a specific workspace
 	 */
 	/* class                       instance    title      tags mask      isfloating   monitor */
+	{ "GitHub Desktop",            NULL,       NULL,       9,            0,           -1 },
 	{ "Gimp",                      NULL,       NULL,       0,            0,           -1 },
 	{ "St",                        NULL,       NULL,       0,            1,           -1 },
 	{ "Galculator",                NULL,       NULL,       0,            1,           -1 },
