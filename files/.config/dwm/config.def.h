@@ -18,7 +18,9 @@ static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#bbbbbb";
 static const char col_gray4[]       = "#eeeeee";
-static const char col_cyan[]        = "#6790EB";
+/*static const char col_cyan[]        = "#6790EB";*/
+/*static const char col_cyan[]        = "#1A73E8";*/
+static const char col_cyan[]        = "#15539E";
 static const unsigned int baralpha = 0xd0;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
@@ -50,6 +52,7 @@ static const Rule rules[] = {
 	{ "Gimp",                      NULL,       NULL,       0,            0,           -1 },
 	{ "St",                        NULL,       NULL,       0,            1,           -1 },
 	{ "Galculator",                NULL,       NULL,       0,            1,           -1 },
+	{ "Gcolor3",                   NULL,       NULL,       0,            1,           -1 },
 	{ "Xfce4-terminal",            NULL,       NULL,       0,            1,           -1 },
 	{ "firefox",                   NULL,       NULL,       0,            0,           -1 },
 };
