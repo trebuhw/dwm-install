@@ -37,4 +37,5 @@ run numlockx on &
 run slstatus &
 sxhkd -c ~/.config/dwm/sxhkd/sxhkdrc &
 #run "nitrogen --restore" &
-feh --bg-fill $HOME/.config/dwm/bg/sea.jpg &
+feh --bg-fill $HOME/.background.jpg &
+#feh --bg-fill $HOME/.config/dwm/bg/sea.jpg &
