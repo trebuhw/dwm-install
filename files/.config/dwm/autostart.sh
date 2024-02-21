@@ -22,15 +22,15 @@ run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
 run setxkbmap pl &
 xrdb ~/.Xresources &
 run nm-applet &
-# run ~/.config/dwm/scripts/rclone.sh &
+run ~/.config/dwm/scripts/rclone.sh &
 #run "pamac-tray" &
 #run "variety" &
 #run "xfce4-power-manager" &
 #run "blueberry-tray" &
-# run /usr/libexec/xfce4/notifyd/xfce4-notifyd & #OpenSuse
-run /usr/lib/xfce4/notifyd/xfce4-notifyd & Arch
-run /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & # Archlinux authentication
-#run /usr/libexec/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
+run /usr/libexec/xfce4/notifyd/xfce4-notifyd & #OpenSuse
+# run /usr/lib/xfce4/notifyd/xfce4-notifyd & Arch
+#run "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1" & # Archlinux authentication
+run /usr/libexec/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
 picom -b  --config ~/.config/dwm/picom.conf &
 run numlockx on &
 #run "volumeicon" &
@@ -38,4 +38,4 @@ run slstatus &
 sxhkd -c ~/.config/dwm/sxhkd/sxhkdrc &
 #run "nitrogen --restore" &
 feh --bg-fill $HOME/.background.jpg &
-#feh --bg-fill $HOME/.config/dwm/bg/sea.jpg &
+# feh --bg-fill $HOME/.config/dwm/bg/sea.jpg &
