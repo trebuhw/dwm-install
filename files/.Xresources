@@ -13,7 +13,7 @@ st.font: JetBrainsMono Nerd Font-11;
 !! Catppuccin Mocha theme
 *.background: #1E1E2E
 *.foreground: #CDD6F4
-*.cursorColor: #CDD6F4
+*.cursorColor: #F5E0DC
 *.color0: #45475A
 *.color8: #585B70
 *.color1: #F38BA8
