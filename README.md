@@ -102,7 +102,7 @@ or
 
 `lxappearance` - `set your choise`
 
-- `GTK` - `Adwaita, arc-theme, dracula`
+- `GTK` - `Adwaita, arc-theme, dracula, Catppucin-Mocha`
 - `Cursors` - `Adwaita, Bibata-Modern-Ice, Dracula-cursors`
 - `Icons` - `Adwaita, Papirus, Dracula`
 - `Fonts` - `JetBrainsMono Nerd Font 10`

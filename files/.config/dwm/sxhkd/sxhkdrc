@@ -27,6 +27,10 @@ super + shift + q
     pkill dwm
 
 
+# I3 Lock
+super + x
+    $HOME/.config/dwm/scripts/Lock-x11.sh
+
 
 #################################################################
 #     MULTIMEDIA KEYS

@@ -90,7 +90,7 @@ static const char *powermenu[]  = { "dmenu-powermenu.sh", NULL };
 static const char *terminalcmd[]  = { "kitty", NULL };
 static const char *filecmd[]  = { "thunar", NULL };
 static const char *webbrowser[]  = { "google-chrome-stable", NULL };
-static const char *logout[]  = { "archlinux-logout", NULL };
+static const char *logout[]  = { "Lock-x11.sh", NULL };
 static const char *calendar[]  = { "gsimplecal", NULL };
 static const char *taskmanager[]  = { "xfce4-taskmanager", NULL };
 
