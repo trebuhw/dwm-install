@@ -80,7 +80,9 @@ $packer unzip
 $packer vim
 $packer vlc
 $packer wget
+$packer wttr
 $packer xclip
+$packer xcolor
 $packer xdg-user-dirs
 $packer xfce4-notifyd
 $packer xinit
