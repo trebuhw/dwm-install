@@ -14,7 +14,7 @@ $packer xorg-x11-server
 $packer xorg-x11-server-extra
 $packer xorg-x11-server-Xvfb
 $packer xorg-x11-Xvnc           
-$packer xorg-11-Xvnc-module
+$packer xorg-x11-Xvnc-module
 $packer xorgproto-devel
 $packer xinit
 $packer xdg-user-dirs
