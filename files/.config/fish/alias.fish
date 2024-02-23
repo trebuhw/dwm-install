@@ -34,15 +34,15 @@ alias trm='trash-rm' #usówa pojedyńcze pliki z kosza
 #alias rm='rm -rdv' # usówa pliki całkowicie 
 alias mkdir='mkdir -vp'
 alias pdw='pwd'
-#alias zyp='sudo zypper'
-#alias up='sudo zypper update'
-#alias dup='sudo zypper dist-upgrade'
-#alias zin='sudo zypper install --no-recommends'
-#alias zrm='sudo zypper remove -u'
-#alias zse='sudo zypper search'
-#alias zsi='zypper search -i' # show installed Packages
-#alias zre='sudo zypper repos'
-#alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
+alias zyp='sudo zypper'
+alias up='sudo zypper update'
+alias dup='sudo zypper dist-upgrade'
+alias zin='sudo zypper install --no-recommends'
+alias zrm='sudo zypper remove -u'
+alias zse='sudo zypper search'
+alias zsi='zypper search -i' # show installed Packages
+alias zre='sudo zypper repos'
+alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
 
 alias tldr='tldr -t ocean'
 
@@ -75,8 +75,7 @@ alias jctl="journalctl -p 3 -xb"
 #know what you do in these files
 alias ngrub="sudo $EDITOR /etc/default/grub"
 alias nconfgrub="sudo $EDITOR /boot/grub/grub.cfg"
-alias ug='sudo update-grub'
-alias upgrub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+alias upgrub="grub2-mkconfig -o /boot/grub2/grub.cfg"
 alias nmkinitcpio="sudo $EDITOR /etc/mkinitcpio.conf"
 alias nfstab="sudo $EDITOR /etc/fstab"
 alias nhosts="sudo $EDITOR /etc/hosts"
@@ -129,8 +128,8 @@ alias cl="clear"
 alias ag="alias | grep"
 alias hg='history | grep '
 alias pogoda='curl wttr.in/Swidnica'
-alias up='sudo pacman -Syyu'
-alias upa='yay -Syyu'
+alias pacup='sudo pacman -Syyu'
+alias yayup='yay -Syyu'
 alias pp='pacman -Qqet' # pacman - zainstalowane pakiety
 alias pq='pacman -Q' # pacman - zainstalowane programy
 alias oi="grep -i installed /var/log/pacman.log"
@@ -157,7 +156,6 @@ alias cdo='cd ~/Obrazy/ && ls'
 alias cdp='cd ~/Pobrane/ && ls'
 alias cdc='cd ~/.config && ls'
 alias cdd='cd ~/.config/dwm/ && ls'
-alias cdgd='cd ~/Dokumenty/GitHub/dwm-install/ && ls'
 alias cds='cd ~/.config/hypr/scripts/ && ls'
 alias brc='nvim ~/bashrc'
 alias ptt='pdftotext -layout'
@@ -184,5 +182,4 @@ alias gbf='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME fetch origi
 # Aliases rsync
 alias sync='rsync -rlpva --delete'
 alias synchypr='rsync -rlpva ~/.config/hypr/ ~/Dokumenty/GitHub/hypr/' #rsync hypr config to GIT repos
-
-# Nie dodane do .bashrc
+alias gitsync='rsync -av --exclude="*git*" ~/Dokumenty/GitHub/dwm-install/ ~/Dokumenty/GitHub/dwm/'
