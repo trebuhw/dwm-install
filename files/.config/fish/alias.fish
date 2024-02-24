@@ -45,6 +45,7 @@ alias zre='sudo zypper repos'
 alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
 
 alias tldr='tldr -t ocean'
+# alias tldr='tldr --color always' # Install OpenSuse tealdeer run tldr -h
 
 alias find='find -name'
 alias locate='locate -b'

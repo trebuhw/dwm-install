@@ -68,6 +68,8 @@ $packer starship
 $packer sxhkd
 $packer sxiv
 $packer system-config-printer
+$packer tealdeer
+$packer tealdeer-fish-completion
 $packer thunar
 $packer thunar-volman
 $packer time
