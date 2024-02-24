@@ -109,7 +109,7 @@ opi trash-cli
 opi subl
 
 # Nvidia add repository
-# zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA
+zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA
 # $packer openSUSE-repos-Tumbleweed-NVIDIA # Równoznaczne z powyższym
 
 # Install Drives
