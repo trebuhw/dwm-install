@@ -3,110 +3,111 @@
 # packer="sudo zypper -n install" # Wersja skrócona polecenia
 packer="sudo zypper --non-interactive install --no-recommends"
 
-$packer NetworkManager-applet
-$packer alacritty
-$packer avahi
-$packer baobab
-$packer bash-completion
-$packer bat
-$packer brightnessctl
-$packer btop
-$packer cpuid
-$packer cups
-$packer curl
-$packer dconf-editor
-$packer duf
-$packer dunst
-$packer fastfetch
-$packer feh
-$packer file-roller
-$packer firefox
-$packer fish
-$packer flameshot
-$packer font-manager
-$packer galculator
-$packer gcc
-$packer libX11-devel
-$packer gcolor3
-$packer gimp
-$packer git
-$packer gnome-disk-utility
-$packer gparted
-$packer gzip
-$packer harfbuzz-devel
-$packer htop
-$packer i3lock
-$packer kitty
-$packer libXft-devel
-$packer libXinerama-devel
-$packer libreoffice
-$packer libreoffice-l10n-pl
-$packer lsd
-$packer lxappearance
-$packer mako
-$packer meld
-$packer mlocate
-$packer neofetch
-$packer neovim
-$packer numlockx
-$packer opi
-$packer os-prober
-$packer p7zip
-$packer papirus-icon-theme
-$packer pavucontrol
-$packer pdfarranger
-$packer picom
-$packer polkit
-$packer polkit-gnome
-$packer ranger
-$packer rclone
-$packer ripgrep
-$packer rofi
-$packer rclone
-$packer rsync
-$packer sensors
-$packer starship
-$packer sxhkd
-$packer sxiv
-$packer system-config-printer
-$packer thunar
-$packer thunar-volman
-$packer time
-$packer tlp
-$packer tree
-$packer unrar
-$packer unzip
-$packer vim
-$packer vlc
-$packer wget
-$packer xclip
-$packer xdg-user-dirs
-$packer xfce4-notifyd
-$packer xinit
-$packer xorg-x11-Xvnc
-$packer xorg-x11-Xvnc-module
-$packer xorg-x11-driver-video
-$packer xorg-x11-essentials
-$packer xorg-x11-fonts
-$packer xorg-x11-fonts-converted
-$packer xorg-x11-fonts-core
-$packer xorg-x11-fonts-legacy
-$packer xorg-x11-libX11-ccache
-$packer xorg-x11-server
-$packer xorg-x11-server-Xvfb
-$packer xorg-x11-server-extra
-$packer xorgproto-devel
+$packer\
+NetworkManager-applet\
+alacritty\
+avahi\
+baobab\
+bash-completion\
+bat\
+brightnessctl\
+btop\
+cpuid\
+cups\
+curl\
+dconf-editor\
+duf\
+dunst\
+fastfetch\
+feh\
+file-roller\
+firefox\
+fish\
+flameshot\
+font-manager\
+galculator\
+gcc\
+libX11-devel\
+gcolor3\
+gimp\
+git\
+gnome-disk-utility\
+gparted\
+gzip\
+harfbuzz-devel\
+htop\
+i3lock\
+kitty\
+libXft-devel\
+libXinerama-devel\
+libreoffice\
+libreoffice-l10n-pl\
+lsd\
+lxappearance\
+mako\
+meld\
+mlocate\
+neofetch\
+neovim\
+numlockx\
+opi\
+os-prober\
+p7zip\
+papirus-icon-theme\
+pavucontrol\
+pdfarranger\
+picom\
+polkit\
+polkit-gnome\
+ranger\
+rclone\
+ripgrep\
+rofi\
+rclone\
+rsync\
+sensors\
+starship\
+sxhkd\
+sxiv\
+system-config-printer\
+thunar\
+thunar-volman\
+time\
+tlp\
+tree\
+unrar\
+unzip\
+vim\
+vlc\
+wget\
+xclip\
+xdg-user-dirs\
+xfce4-notifyd\
+xinit\
+xorg-x11-Xvnc\
+xorg-x11-Xvnc-module\
+xorg-x11-driver-video\
+xorg-x11-essentials\
+xorg-x11-fonts\
+xorg-x11-fonts-converted\
+xorg-x11-fonts-core\
+xorg-x11-fonts-legacy\
+xorg-x11-libX11-ccache\
+xorg-x11-server\
+xorg-x11-server-Xvfb\
+xorg-x11-server-extra\
+xorgproto-devel\
 
 
 ## OPI APP
-#opi google-chrome
-#opi trash-cli
-#opi subl
+opi google-chrome
+opi trash-cli
+opi subl
 
 # OPI APP
-echo 1 | opi google-chrome | echo 1
-echo 1 | opi trash-cli | echo 1
-echo 1 | opi subl | echo 1
+#echo 1 | opi google-chrome | echo 1
+#echo 1 | opi trash-cli | echo 1
+#echo 1 | opi subl | echo 1
 
 # Install GitHub Desktop
 sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
