@@ -36,6 +36,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'neoclide/coc.nvim', {'branch': 'release'}    " Code Completion (requires node)
     Plug 'suan/vim-instant-markdown', {'rtp': 'after'} " Markdown Preview
     Plug 'ghifarit53/tokyonight-vim'                   " Tokyo Night Theme
+    Plug 'catppuccin/nvim', { 'as': 'catppuccin' }     " Catppuccin Mocha
 call plug#end()
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -62,7 +63,7 @@ set termguicolors
 "let g:tokyonight_style = 'night' " available: night, storm
 "let g:tokyonight_enable_italic = 1
 
-colorscheme dracula
+colorscheme catppuccin-mocha
 " get transparent bg & some markdown stuffs
 highlight Normal guibg=NONE ctermbg=NONE
 au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
@@ -99,9 +100,7 @@ inoremap <silent><expr> <Tab>
 " => Status Line
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " The lightline.vim theme
-let g:lightline = {
-      \ 'colorscheme': 'dracula',
-      \ }
+" let g:lightline = {'colorscheme': 'catppuccin_mocha'}
 " Always show statusline
 set laststatus=2
 " Uncomment to prevent non-normal modes showing in powerline and below powerline.
