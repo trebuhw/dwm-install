@@ -94,6 +94,7 @@ $packer xorg-x11-server-Xvfb
 $packer xorg-x11-Xvnc
 $packer xorg-x11-Xvnc-module
 $packer xorgproto-devel
+$packer yazi
 
 # Install GitHub Desktop
 sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
@@ -106,7 +107,11 @@ opi google-chrome
 opi trash-cli
 opi subl
 
-# Instalować dopiero po dodaniu repo Nvidia
+# Nvidia add repository
+# zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA
+# $packer openSUSE-repos-Tumbleweed-NVIDIA # Równoznaczne z powyższym
+
+# Install Drives
 #$packer kernel-firmware-nvidia
 #$packer libnvidia-egl-wayland1
 #$$packer nvidia-compute-G06
@@ -117,17 +122,16 @@ opi subl
 #$packer nvidia-video-G06
 #$packer nvidia-video-G06-32bit
 #$packer openSUSE-repos-MicroOS-NVIDIA
-#$packer openSUSE-repos-Tumbleweed-NVIDIA
 
 # File Coopy
 sudo cp /etc/tlp.conf /etc/tlp.conf.bak
 sudo cp ~/dwm-install/files/etc/tlp.conf /etc
 sudo cp -r ~/dwm-install/files/usr/share/rofi /usr/share
 sudo cp -r ~/dwm-install/files/usr/share/xsessions/dwm.desktop /usr/share/xsessions
-sudo cp -r ~/dwm-install/files/usr/share/fonts/JetBrainsMono /usr/share/JetBrainsMono
+sudo cp -r ~/dwm-install/files/usr/share/fonts/JetBrainsMono /usr/share/fonts
 sudo cp -r ~/dwm-install/files/usr/share/icons/Bibata-Modern-Ice /usr/share/icons
 sudo cp -r ~/dwm-install/files/usr/share/themes/Catppuccin-Mocha-Standard-Blue-Dark /usr/share/themes
-sudo cp ~/dwm-install/files/etc/X11/xorg.conf.d/20-intel.conf /etc/X11/xorg.conf.d
+#sudo cp ~/dwm-install/files/etc/X11/xorg.conf.d/20-intel.conf /etc/X11/xorg.conf.d
 
 cp ~/dwm-install/files/.vimrc ~/
 cp ~/dwm-install/files/.xinitrc ~/
