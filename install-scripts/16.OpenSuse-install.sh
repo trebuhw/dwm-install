@@ -44,6 +44,7 @@ libreoffice\
 libreoffice-l10n-pl\
 lsd\
 lxappearance\
+mako\
 meld\
 mlocate\
 neofetch\
@@ -98,10 +99,15 @@ xorg-x11-server-extra\
 xorgproto-devel\
 
 
+## OPI APP
+opi google-chrome
+opi trash-cli
+opi subl
+
 # OPI APP
-echo 1 | opi google-chrome | echo 1
-echo 1 | opi trash-cli | echo 1
-echo 1 | opi subl | echo 1
+#echo 1 | opi google-chrome | echo 1
+#echo 1 | opi trash-cli | echo 1
+#echo 1 | opi subl | echo 1
 
 # Install GitHub Desktop
 sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
