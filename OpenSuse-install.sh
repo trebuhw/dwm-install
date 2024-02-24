@@ -98,6 +98,7 @@ $packer xorg-x11-Xvnc
 $packer xorg-x11-Xvnc-module
 $packer xorgproto-devel
 $packer yazi
+$packer zathura
 $packer zathura-plugin-pdf-poppler
 
 # Install GitHub Desktop
