@@ -132,7 +132,7 @@ sudo cp /etc/tlp.conf /etc/tlp.conf.bak
 sudo cp ~/dwm-install/files/etc/tlp.conf /etc
 sudo cp -r ~/dwm-install/files/usr/share/rofi /usr/share
 sudo cp -r ~/dwm-install/files/usr/share/xsesesions/dwm.desktop /usr/share/xsesesions
-sudo cp -r ~/dwm-install/files/etc/X11/xorg.conf.d /etc/X11
+#sudo cp -r ~/dwm-install/files/etc/X11/xorg.conf.d /etc/X11
 
 
 cp ~/dwm-install/files/.vimrc ~/
