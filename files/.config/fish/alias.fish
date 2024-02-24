@@ -43,6 +43,7 @@ alias zse='sudo zypper search'
 alias zsi='zypper search -i' # show installed Packages
 alias zre='sudo zypper repos'
 alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
+alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
 
 alias tldr='tldr -t ocean'
 # alias tldr='tldr --color always' # Install OpenSuse tealdeer run tldr -h
