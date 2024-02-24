@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # packer="sudo zypper -n install" # Wersja skrócona polecenia
-packer="sudo zypper --non-interactive install"
+packer="sudo zypper --non-interactive install --no-recommends"
 
 $packer NetworkManager-applet
 $packer alacritty
