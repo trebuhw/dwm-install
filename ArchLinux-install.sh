@@ -1,9 +1,21 @@
 #!/bin/bash
 
-# packer="sudo zypper -n install" # Wersja skrócona polecenia
-packer="sudo zypper --non-interactive install --no-recommends"
+packer="sudo pacman -S --noconfirm --needed"
 
+cd ~/ && git clone https://aur.archlinux.org/yay.git
+cd ~/yay && makepkg -si && cd ..
+
+sudo pacman -Syyu
+
+$packer adobe-source-sans-fonts
+$packer aic94xx-firmware
 $packer alacritty
+$packer arandr
+$packer arc-gtk-theme
+$packer archiso
+$packer avahi
+$packer awesome-terminal-fonts
+$packer baobab
 $packer bash-completion
 $packer bat
 $packer brightnessctl
@@ -12,6 +24,10 @@ $packer cpuid
 $packer cups
 $packer curl
 $packer dconf-editor
+$packer downgrade
+$packer dracula-cursors-git
+$packer dracula-gtk-theme
+$packer dracula-icons-git
 $packer duf
 $packer dunst
 $packer fastfetch
@@ -22,110 +38,114 @@ $packer fish
 $packer flameshot
 $packer font-manager
 $packer galculator
-$packer gcc
 $packer gcolor3
 $packer gimp
 $packer git
+$packer gitahead-bin
+$packer gitfiend
+$packer github-desktop-bin
 $packer gnome-disk-utility
+$packer google-chrome
 $packer gparted
-$packer gsettings-desktop-schemas
+$packer grub-customizer
+$packer gtop
+$packer gvfs-smb
 $packer gzip
-$packer harfbuzz-devel
+$packer hardcode-fixer-git
+$packer hardinfo-gtk3
+$packer hddtemp
 $packer htop
+$packer hw-probe
 $packer i3lock
 $packer kitty
-$packer libreoffice
-$packer libreoffice-l10n-pl
-$packer libX11-devel
-$packer libXft-devel
-$packer libXinerama-devel
+$packer libreoffice-fresh
+$packer libreoffice-fresh-pl
+$packer linux-firmware-qlogic
+$packer lm_sensors
+$packer logrotate
+$packer lolcat
+$packer lollypop
 $packer lsd
+$packer lshw
 $packer lxappearance
-$packer mako
+$packer man-db
+$packer man-pages
 $packer meld
+$packer mintstick-git
+$packer mkinitcpio-firmware
 $packer mlocate
+$packer most
 $packer neofetch
 $packer neovim
-$packer NetworkManager-applet
+$packer network-manager-applet
+$packer networkmanager-openvpn
+$packer noto-fonts
+$packer nss-mdns
+$packer ntp
 $packer numlockx
-$packer opi
+$packer openresolv
 $packer os-prober
 $packer p7zip
 $packer papirus-icon-theme
 $packer pavucontrol
 $packer pdfarranger
 $packer picom
+$packer playerctl
 $packer polkit
 $packer polkit-gnome
 $packer ranger
-$packer rclone
+$packer rate-mirrors-bin
 $packer rclone
 $packer ripgrep
 $packer rofi
 $packer rsync
-$packer sensors
+$packer scrot
+$packer simplescreenrecorder
+$packer sparklines-git
+$packer speedtest-cli-git
+$packer spotify
+$packer squashfs-tools
 $packer starship
+$packer sublime-text-4
 $packer sxhkd
 $packer sxiv
 $packer system-config-printer
-$packer tealdeer
-$packer tealdeer-fish-completion
 $packer thunar
 $packer thunar-volman
 $packer time
+$packer tldr
 $packer tlp
+$packer trash-cli
 $packer tree
+$packer ttf-hack
+$packer ttf-inconsolata
+$packer ttf-jetbrains-mono-nerd
 $packer unrar
 $packer unzip
+$packer upd72020x-fw
 $packer vim
 $packer vlc
+$packer wd719x-firmware
 $packer wget
+$packer wttr
 $packer xclip
+$packer xcolor
 $packer xdg-user-dirs
 $packer xfce4-notifyd
-$packer xinit
-$packer xorg-x11-driver-video
-$packer xorg-x11-essentials
-$packer xorg-x11-fonts
-$packer xorg-x11-fonts-converted
-$packer xorg-x11-fonts-core
-$packer xorg-x11-fonts-legacy
-$packer xorg-x11-libX11-ccache
-$packer xorg-x11-server
-$packer xorg-x11-server-extra
-$packer xorg-x11-server-Xvfb
-$packer xorg-x11-Xvnc
-$packer xorg-x11-Xvnc-module
-$packer xorgproto-devel
+$packer xorg-server
+$packer xorg-xinit
+$packer xorg-xkill
+$packer xorg-xrandr
+$packer xorg-xsetroot
 $packer yazi
-$packer zathura-plugin-pdf-poppler
+$packer zathura
 
-# Install GitHub Desktop
-sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
-sudo sh -c 'echo -e "[shiftkey-packages]\nname=GitHub Desktop\nbaseurl=https://rpm.packages.shiftkey.dev/rpm/\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://rpm.packages.shiftkey.dev/gpg.key" > /etc/zypp/repos.d/shiftkey-packages.repo'
-sudo sh -c 'echo -e "[mwt-packages]\nname=GitHub Desktop\nbaseurl=https://mirror.mwt.me/shiftkey-desktop/rpm\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://mirror.mwt.me/shiftkey-desktop/gpgkey" > /etc/zypp/repos.d/mwt-packages.repo'
-sudo zypper refresh && $packer github-desktop
+yay archlinux-tweak-tool-git
+yay bibata-cursor-theme
+yay update-grub
 
-# OPI APP
-opi google-chrome
-opi trash-cli
-opi subl
-
-# Nvidia add repository
-zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA
-# $packer openSUSE-repos-Tumbleweed-NVIDIA # Równoznaczne z powyższym
-
-# Install Drives
-#$packer kernel-firmware-nvidia
-#$packer libnvidia-egl-wayland1
-#$$packer nvidia-compute-G06
-#$packer nvidia-compute-G06-32bit
-#$packer nvidia-driver-G06-kmp-default
-#$packer nvidia-gl-G06
-#$packer nvidia-gl-G06-32bit
-#$packer nvidia-video-G06
-#$packer nvidia-video-G06-32bit
-#$packer openSUSE-repos-MicroOS-NVIDIA
+sudo systemctl enable avahi-daemon.service
+sudo systemctl enable ntpd.service
 
 # File Coopy
 sudo cp /etc/tlp.conf /etc/tlp.conf.bak
