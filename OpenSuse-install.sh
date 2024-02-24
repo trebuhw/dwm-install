@@ -28,6 +28,7 @@ $packer gimp
 $packer git
 $packer gnome-disk-utility
 $packer gparted
+$packer gsettings-desktop-schemas
 $packer gzip
 $packer harfbuzz-devel
 $packer htop
@@ -160,6 +161,6 @@ gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
 gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Modern-Ice'
 gsettings set org.gnome.desktop.interface font-name 'JetBrainsMono Nerd Font 10'
 
-plik_konfiguracyjny="/etc/sysconfig/yast2" zmienna_do_zamiany="Y2NCURSES_COLOR_THEME" nowa_wartosc="rxvt" && if grep -q "^$zmienna_do_zamiany" "$plik_konfiguracyjny"; then sed -i "s/^$zmienna_do_zamiany=.*/$zmienna_do_zamiany=\"$nowa_wartosc\"/" "$plik_konfiguracyjny" && echo "Zamieniono wartość $zmienna_do_zamiany na \"$nowa_wartosc\"."; else echo "$zmienna_do_zamiany nie zostało znalezione w pliku $plik_konfiguracyjny."; fi
+sudo sed -i 's/Y2NCURSES_COLOR_THEME="[^"]*"/Y2NCURSES_COLOR_THEME="rxvt"/' /etc/sysconfig/yast2
 
 systemctl reboot
