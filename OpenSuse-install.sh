@@ -47,6 +47,7 @@ $packer mlocate
 $packer neofetch
 $packer neovim
 $packer NetworkManager-applet
+$packer ncurses-devel
 $packer numlockx
 $packer opi
 $packer os-prober
