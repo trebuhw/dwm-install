@@ -48,10 +48,10 @@ $packer sublime-text
 $packer libreoffice
 $packer libreoffice-l10n-pl
 
-## YAY
-yay catppuccin-gtk-theme-mocha
-#$packer github-desktop
-#$packer google-chrome
+### DWM
+
+
+
 
 ## Wayland & Hyprland
 
@@ -64,6 +64,12 @@ yay catppuccin-gtk-theme-mocha
 #$packer xdg-desktop-portal-hyprland
 $packer libreoffice
 $packer libreoffice-l10n-pl
+
+## YAY
+
+#$packer github-desktop
+#$packer google-chrome
+
 
 exit 0
 

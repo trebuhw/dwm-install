@@ -22,7 +22,7 @@ rsync -av \
   --exclude=.mozilla \
   --exclude=.npm \
   --exclude=.pki \
-  --exclude=.rust \
+  --exclude=.rustup \
   --exclude=.ssh \
   --exclude=.tldr \
   --exclude=.vim \

@@ -20,7 +20,7 @@ shift + alt + d
 
 #DWM chatsheet
 super + shift + a
-    kitty -e ~/.config/dwm/cheatsheetHW.md
+    alacritty -e nvim ~/.config/dwm/cheatsheetHW.md
 
 #Pavucontrol
 super + v
