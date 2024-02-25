@@ -166,6 +166,8 @@ cp ~/dwm-install/files/.bashrc ~/
 
 cp -r ~/dwm-install/files/.icons ~/
 cp -r ~/dwm-install/files/.config/* ~/.config
+sudo ln -s ~/.config/yazi/ /root/.config/
+sudo ln -s ~/.config/ranger/ /root/.config/
 
 sudo chsh $USER -s /usr/bin/fish
 

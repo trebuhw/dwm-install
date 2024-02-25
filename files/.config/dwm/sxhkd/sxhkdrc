@@ -18,6 +18,10 @@ alt + d
 shift + alt + d
     rofi -show run    
 
+#DWM chatsheet
+super + shift + a
+    kitty -e ~/.config/dwm/cheatsheetHW.md
+
 #Pavucontrol
 super + v
     pavucontrol
@@ -26,11 +30,9 @@ super + v
 super + shift + q
     pkill dwm
 
-
 # I3 Lock
-super + x
-    $HOME/.config/dwm/scripts/Lock-x11.sh
-
+#super + x
+#    $HOME/.config/dwm/scripts/Lock-x11.sh
 
 #################################################################
 #     MULTIMEDIA KEYS

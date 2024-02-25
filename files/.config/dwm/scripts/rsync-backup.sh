@@ -2,11 +2,35 @@
 
 notify-send "Archiwum / backup - rozpoczęty" ;
 
-archiwum=/run/media/hubert/Archiwum/Linux/Backup/231120_OpenSuse/
-fl="-rlpv" # rsync flags
-opt="--exclude" # Wykluczone foldery
+rootDir='/run/media/hubert/Archiwum/Linux/Backup/240225_OpenSuse/root/'
+homeDir='/run/media/hubert/Archiwum/Linux/Backup/240225_OpenSuse/hubert'
 
-rsync $fl $opt '.cache' $opt '.gnupg' $opt '.log' $opt '.mozilla' $opt '.npm' $opt '.pki' $opt '.ssh' $opt 'bin' $opt 'Cloud' ~/ $archiwum/Hubert/ ;
+#root files
+sudo rsync -av /root/.config $rootDir
+sudo rsync -av /root/.local $rootDir
+
+#home files
+#rsync -av --exclude={.cache,.cargo,.dotfiles,.dotnet,.gnupg,.log,.moc,.mozilla,.npm,.pki,.rust,.ssh,.tldr,.vim,bin,Cloud,go,Pobrane/iso} ~/ $homeDir
+rsync -av \
+  --exclude=.cache \
+  --exclude=.cargo \
+  --exclude=.dotfiles \
+  --exclude=.dotnet \
+  --exclude=.gnupg \
+  --exclude=.log \
+  --exclude=.moc \
+  --exclude=.mozilla \
+  --exclude=.npm \
+  --exclude=.pki \
+  --exclude=.rust \
+  --exclude=.ssh \
+  --exclude=.tldr \
+  --exclude=.vim \
+  --exclude=bin \
+  --exclude=Cloud \
+  --exclude=go \
+  --exclude=Pobrane/iso \
+~/ $homeDir
 
 notify-send "Archiwum / Backup - zakończony" ;
 
