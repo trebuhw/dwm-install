@@ -76,6 +76,7 @@ $packer thunar-volman
 $packer time
 $packer tlp
 $packer tree
+$packer ueberzugpp
 $packer unrar
 $packer unzip
 $packer vim
@@ -98,6 +99,7 @@ $packer xorg-x11-server-Xvfb
 $packer xorg-x11-Xvnc
 $packer xorg-x11-Xvnc-module
 $packer xorgproto-devel
+$packer xwininfo
 $packer yazi
 $packer zathura
 $packer zathura-plugin-pdf-poppler
@@ -111,7 +113,7 @@ sudo zypper refresh && $packer github-desktop
 # OPI APP
 opi google-chrome
 opi trash-cli
-opi subl
+opi sublime
 
 # Nvidia add repository
 #zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA

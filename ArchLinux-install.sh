@@ -120,6 +120,7 @@ $packer tree
 $packer ttf-hack
 $packer ttf-inconsolata
 $packer ttf-jetbrains-mono-nerd
+$packer ueberzug
 $packer unrar
 $packer unzip
 $packer upd72020x-fw
@@ -137,6 +138,7 @@ $packer xorg-xinit
 $packer xorg-xkill
 $packer xorg-xrandr
 $packer xorg-xsetroot
+$packer xwininfo
 $packer yazi
 $packer zathura
 
