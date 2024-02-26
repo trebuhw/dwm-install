@@ -46,12 +46,11 @@ alias zrr='sudo zypper rr' #removerepo, rr - Usuwanie wybranego repozytorium
 alias zcd='sudo zypper packages --unneeded' # Usówanie osieroconych pakietów
 alias zcl='sudo zypper clean --all' # Clean repo, key repo, cache
 
-# alias tldr='tldr -t ocean'
-alias tldr='tldr --color always' # Install OpenSuse tealdeer run tldr -h
+alias tldr='tldr -t ocean'
+# alias tldr='tldr --color always' # Install OpenSuse tealdeer run tldr -h
 
 alias find='find -name'
 alias locate='locate -b'
-
 
 alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
 alias tofish="sudo chsh $USER -s /usr/bin/fish && echo 'Now log out.'"
@@ -106,14 +105,16 @@ alias ffes='$HOME/.config/scripts/fzf-scripts.sh'
 alias ffcp='cliphist list | fzf | cliphist decode | wl-copy'
 alias i30='nvim $HOME/Dokumenty/"i30_info.txt"'
 alias nf='neofetch'
-alias wi='xprop'
+alias wi='xprop' # info run program
+alias wg='xwininfo' # geometry winows
 alias bg='sxiv -t $HOME/Obrazy/Wallpaper/'
 alias sbg='cd $HOME/Obrazy/Wallpaper && sxiv'
 alias e="exit"
 alias po="sudo poweroff"
 alias rb="sudo reboot"
 alias rh="hyprctl dispatch exit"
-alias r='ranger'
+#alias r='ranger'
+alias r='~/.config/dwm/scripts/ranger.sh'
 #alias y='$HOME/Pobrane/git/yazi/yazi/target/release/yazi'
 alias y='yazi'
 alias rs='ranger --confdir=$HOME/.config/ranger.st/'
