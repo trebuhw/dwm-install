@@ -138,13 +138,13 @@ $packer xorg-xinit
 $packer xorg-xkill
 $packer xorg-xrandr
 $packer xorg-xsetroot
-$packer xwininfo
 $packer yazi
 $packer zathura
 
 yay archlinux-tweak-tool-git
 yay bibata-cursor-theme
 yay update-grub
+yay xwininfo
 
 sudo systemctl enable avahi-daemon.service
 sudo systemctl enable ntpd.service
