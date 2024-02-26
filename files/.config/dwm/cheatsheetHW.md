@@ -2,14 +2,14 @@
   Super = Windows Key
 
 # DWM config operations
-  Super          Return   *terminal* (`alacritty`)
+  Super          Return   *terminal* (`kitty`)
   Super          w        *web browser* (`google-chrome-stable`)
   Super   Shift  Return   *file manager* (`thunar`)
   Super          q        *quit* (kill focused window)
   Super          d        *show app menu* (`dmenu`)
   Super          p        *show app menu* (`dmenu-power-menu`)
   Super          x        *Lock scripts* (`Lock-x11.sh`)
-  Super   Shift  r        *reload dwm* (`reload`)
+  Super   Shift  r        *reload/restart dwm* (`reload/xkill`)
   Super          Escape   *kill application*
 
 # windows control
