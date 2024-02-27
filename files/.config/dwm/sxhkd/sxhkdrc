@@ -6,6 +6,10 @@
 alt + Return
     st
 
+# nvim - astrovim
+super + n
+    nvim    
+
 # Sublime-text-4
 super + s
     subl
