@@ -6,7 +6,7 @@
 alt + Return
     st
 
-# nvim - astrovim
+# nv
 super + n
     nvim    
 
