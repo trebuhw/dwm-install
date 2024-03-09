@@ -73,7 +73,7 @@ static const char mic[]         = "[ `amixer sget Capture | tail -n 1 | awk '{pr
 static const struct arg args[] = {
         /* function format          argument */
         { cpu_perc,             "[ CPU %s% ]",    NULL },
-        { run_command,          "[ TEM %s ]",    "sensors | awk '/^Package/ {print $4}' | sed 's/+//'" },
+        //{ run_command,          "[ TEM %s ]",    "sensors | awk '/^Package/ {print $4}' | sed 's/+//'" },
         //{ temp,               "[ TEM %s°C ]", "/sys/devices/platform/coretemp.0/hwmon/hwmon5/temp1_input" },
         { ram_perc,             "[ MEM %s% ]",    NULL },
         { ram_used,             "[ RAM %s ]",     NULL },
