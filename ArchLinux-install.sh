@@ -87,6 +87,7 @@ $packer openresolv
 $packer os-prober
 $packer p7zip
 $packer papirus-icon-theme
+$packer parcellite
 $packer pavucontrol
 $packer pdfarranger
 $packer picom

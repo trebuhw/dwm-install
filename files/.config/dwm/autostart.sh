@@ -22,6 +22,7 @@ run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
 run setxkbmap pl &
 xrdb ~/.Xresources &
 run nm-applet &
+run parcellite -n & # Ctrl+Alt+s run history clipboard
 run ~/.config/dwm/scripts/rclone.sh &
 #run "pamac-tray" &
 #run "variety" &

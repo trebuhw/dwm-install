@@ -39,6 +39,7 @@ $packer libreoffice-l10n-pl
 $packer libX11-devel
 $packer libXft-devel
 $packer libXinerama-devel
+$packer libxcb-res0
 $packer lsd
 $packer lxappearance
 $packer mako
@@ -53,6 +54,7 @@ $packer opi
 $packer os-prober
 $packer p7zip
 $packer papirus-icon-theme
+$packer parcellite
 $packer pavucontrol
 $packer pdfarranger
 $packer picom
