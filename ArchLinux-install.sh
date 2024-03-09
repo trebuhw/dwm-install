@@ -160,6 +160,7 @@ sudo cp -r ~/dwm-install/files/usr/share/icons/Bibata-Modern-Ice /usr/share/icon
 sudo cp -r ~/dwm-install/files/usr/share/themes/Catppuccin-Mocha-Standard-Blue-Dark /usr/share/themes
 #sudo cp ~/dwm-install/files/etc/X11/xorg.conf.d/20-intel.conf /etc/X11/xorg.conf.d
 
+# Coppy files
 cp ~/dwm-install/files/.vimrc ~/
 cp ~/dwm-install/files/.xinitrc ~/
 cp ~/dwm-install/files/.Xresources ~/
@@ -172,6 +173,11 @@ cp -r ~/dwm-install/files/.config/* ~/.config
 sudo ln -s ~/.config/yazi/ /root/.config/
 sudo ln -s ~/.config/ranger/ /root/.config/
 
+# Make the file executable
+cd /usr/share/xsessions
+sudo chmod +x dwm.desktop
+
+# Change shell to fish
 sudo chsh $USER -s /usr/bin/fish
 
 sudo fc-cache -fv
