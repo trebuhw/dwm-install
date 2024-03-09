@@ -36,6 +36,7 @@ $packer i3lock
 $packer kitty
 $packer libreoffice
 $packer libreoffice-l10n-pl
+$packer libstdc++6-32bit 
 $packer libX11-devel
 $packer libXft-devel
 $packer libXinerama-devel
