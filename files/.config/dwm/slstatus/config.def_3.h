@@ -84,9 +84,7 @@ static const struct arg args[] = {
         //{ keymap,             " %s ",          NULL },
         { battery_perc,         "[ BAT %s%% ]",   "BAT0" },
         //{ run_command,        "[%s]",           "TZ=Europe/Warsaw date +\"%a %Y/%m/%d - %H:%M\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        //{ run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%a, %d %b\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        //{ run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%H:%M\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-        { run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%a, %d/%m/%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
+        { run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%a %d/%m/%Y\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         //{ run_command,        "[%s]",           "TZ=Europe/Warsaw date +\"%a %F %T\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         { datetime,             "[ %s ]",         "%H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         //{ datetime,           "[%s]",           "%y/%m/%d %a - %H:%M" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */

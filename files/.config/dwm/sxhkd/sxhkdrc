@@ -8,7 +8,7 @@ alt + Return
 
 # nv
 super + n
-    nvim    
+    st -e nvim    
 
 # Sublime-text-4
 super + s

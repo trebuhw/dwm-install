@@ -13,6 +13,6 @@ chosen=$( cat ~/.config/dwm/scripts/emoji | rofi -dmenu -p "EMOJI" | awk '{print
 if [ -n "$1" ]; then
 	xdotool type "$chosen"
 else
-	printf "$chosen" | xclip
+	printf "$chosen" | xclip -selection clipboard
 	notify-send "'$chosen' copied to clipboard." &
 fi
