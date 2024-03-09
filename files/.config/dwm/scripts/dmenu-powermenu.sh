@@ -1,19 +1,19 @@
 #!/bin/bash
 
 function powermenu {
-    options="lock\nlogout\nscreenoff\nrestart\nshutdown"
-    selected=$(echo -e $options | dmenu ) # demenu skonfigurowane i zainstalowane z ~/.config/dwm/dmenu/ sudo make clean install
+    options="Block\nLogout\nScreenOff\nReboot\nPowerOff"
+    selected=$(echo -e $options | dmenu -i ) # demenu skonfigurowane i zainstalowane z ~/.config/dwm/dmenu/ sudo make clean install
  #   selected=$(echo -e $options | dmenu -p ">>>" -nb '#222222' -nf '#BBBBBB' -sb '#6790EB' -sf '#EEEEEE' -fn 'JetBrainsMono Nerd Font:size=10')
-    if [[ $selected = "shutdown" ]]; then
+    if [[ $selected = "PowerOff" ]]; then
         systemctl poweroff
-    elif [[ $selected = "restart" ]]; then
+    elif [[ $selected = "Reboot" ]]; then
         systemctl reboot
-    elif [[ $selected = "logout" ]]; then
+    elif [[ $selected = "Logout" ]]; then
         ~/.config/dwm/scripts/logout
-     elif [[ $selected = "lock" ]]; then
-        i3lock -c 000000
-    elif [[ $selected = "screenoff" ]]; then
+     elif [[ $selected = "Block" ]]; then
         i3lock -c 000000 && ~/.config/dwm/scripts/offscreen-x11
+    elif [[ $selected = "ScreenOff" ]]; then
+        ~/.config/dwm/scripts/offscreen-x11
     fi 
 }
 
