@@ -25,6 +25,7 @@ $packer bash-completion
 $packer bat
 $packer brightnessctl
 $packer btop
+$packer cargo
 $packer cpuid
 $packer cups
 $packer curl
@@ -37,6 +38,7 @@ $packer firefox
 $packer fish
 $packer flameshot
 $packer font-manager
+$packer fzf
 $packer galculator
 $packer gcc
 $packer gcolor3
