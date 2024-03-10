@@ -3,6 +3,10 @@
 # packer="sudo zypper -n install" # Wersja skrócona polecenia
 packer="sudo nala install -y"
 
+# Change stable to testing
+sudo mv /etc/apt/sources.list /etc/apt/sources.list.bak
+sudo cp -v ~/dwm-install/files/etc/apt/sources.list /etc/apt/
+
 sudo apt update && sudo apt upgrade
 
 sudo apt install -y nala
@@ -93,8 +97,8 @@ $packer libxft-dev
 $packer libxinerama-dev
 $packer xorg
 
-curl -fsSL https://starship.rs/install.sh | bash
-
+curl -sS https://starship.rs/install.sh | sh
+      
 # Install GitHub Desktop
 #sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
 #sudo sh -c 'echo -e "[shiftkey-packages]\nname=GitHub Desktop\nbaseurl=https://rpm.packages.shiftkey.dev/rpm/\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://rpm.packages.shiftkey.dev/gpg.key" > /etc/zypp/repos.d/shiftkey-packages.repo'
