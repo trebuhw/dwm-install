@@ -1,9 +1,11 @@
 #!/bin/bash
 
 # packer="sudo zypper -n install" # Wersja skrócona polecenia
-packer="sudo apt-get install -y"
+packer="sudo nala install -y"
 
 sudo apt update && sudo apt upgrade
+
+sudo apt install -y nala
 
 $packer alacritty
 $packer bash-completion
