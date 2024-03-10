@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # packer="sudo zypper -n install" # Wersja skrócona polecenia
-packer="sudo zypper --non-interactive install --no-recommends"
+packer="sudo apt-get install -y"
+
+sudo apt update && sudo apt upgrade
 
 $packer alacritty
 $packer bash-completion
@@ -108,20 +110,20 @@ $packer zathura
 $packer zathura-plugin-pdf-poppler
 
 # Install GitHub Desktop
-sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
-sudo sh -c 'echo -e "[shiftkey-packages]\nname=GitHub Desktop\nbaseurl=https://rpm.packages.shiftkey.dev/rpm/\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://rpm.packages.shiftkey.dev/gpg.key" > /etc/zypp/repos.d/shiftkey-packages.repo'
+#sudo rpm --import https://rpm.packages.shiftkey.dev/gpg.key
+#sudo sh -c 'echo -e "[shiftkey-packages]\nname=GitHub Desktop\nbaseurl=https://rpm.packages.shiftkey.dev/rpm/\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://rpm.packages.shiftkey.dev/gpg.key" > /etc/zypp/repos.d/shiftkey-packages.repo'
 # sudo sh -c 'echo -e "[mwt-packages]\nname=GitHub Desktop\nbaseurl=https://mirror.mwt.me/shiftkey-desktop/rpm\nenabled=1\ngpgcheck=1\nrepo_gpgcheck=1\ngpgkey=https://mirror.mwt.me/shiftkey-desktop/gpgkey" > /etc/zypp/repos.d/mwt-packages.repo'
-sudo zypper refresh && $packer github-desktop
+#sudo zypper refresh && $packer github-desktop
 
 # OPI APP
-opi google-chrome
-opi trash-cli
-opi sublime
+#opi google-chrome
+#opi trash-cli
+#opi sublime
 
 # Nvidia add repository
 #zypper addrepo --refresh https://download.nvidia.com/opensuse/tumbleweed NVIDIA
-packer openSUSE-repos-Tumbleweed-NVIDIA # Równoznaczne z powyższym
-sudo zypper refresh
+#packer openSUSE-repos-Tumbleweed-NVIDIA # Równoznaczne z powyższym
+#sudo zypper refresh
 #sudo zypper search nvidia
 
 # Install Drives
@@ -181,6 +183,6 @@ gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
 gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Modern-Ice'
 gsettings set org.gnome.desktop.interface font-name 'JetBrainsMono Nerd Font 10'
 
-sudo sed -i 's/Y2NCURSES_COLOR_THEME="[^"]*"/Y2NCURSES_COLOR_THEME="rxvt"/' /etc/sysconfig/yast2
+#sudo sed -i 's/Y2NCURSES_COLOR_THEME="[^"]*"/Y2NCURSES_COLOR_THEME="rxvt"/' /etc/sysconfig/yast2
 
 systemctl reboot
