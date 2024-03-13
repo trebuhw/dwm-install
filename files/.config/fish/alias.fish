@@ -1,7 +1,7 @@
 #list
 alias ls='lsd --color=auto'
 alias la='lsd -a'
-alias ll='ls -al'
+alias ll='lsd -al'
 alias l='lsd'
 alias lt='lsd --tree'
 alias l.="lsd -A | egrep '^\.'"
@@ -16,6 +16,7 @@ alias ns="nvidia-smi"
 alias bt='blueman-adapters'
 alias nma='nm-applet'
 alias btinfo="bluetoothctl info"
+alias think="bluetoothctl info | awk 'NR==2 || NR==22'"
 alias logout='pkill -KILL -u hubert'
 alias bs='brightnessctl set'
 alias bi='brightnessctl i'
