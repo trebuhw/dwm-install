@@ -44,11 +44,11 @@ super + shift + q
 
 #Raises volume
 XF86AudioRaiseVolume
-    ~/.config/hypr/scripts/volume --inc
+    ~/.config/dwm/scripts/volume --inc
 
 #Lowers volume
 XF86AudioLowerVolume
-    ~/.config/hypr/scripts/volume --dec
+    ~/.config/dwm/scripts/volume --dec
 
 #Mute
 XF86AudioMute
