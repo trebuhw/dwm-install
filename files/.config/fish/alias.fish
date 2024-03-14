@@ -16,7 +16,7 @@ alias ns="nvidia-smi"
 alias bt='blueman-adapters'
 alias nma='nm-applet'
 alias btinfo="bluetoothctl info"
-alias think="bluetoothctl info | awk 'NR==2 || NR==22'"
+alias think="bluetoothctl info | awk '/Name:/ || /Battery Percentage:/'"
 alias logout='pkill -KILL -u hubert'
 alias bs='brightnessctl set'
 alias bi='brightnessctl i'
