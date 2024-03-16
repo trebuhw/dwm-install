@@ -33,3 +33,13 @@
   Super   Shift   q        *kill dwm* (`pkill dwm`)
 # Parcellite
   Ctrl    Alt     s        *Show clipboard history* (`parcellite`)
+
+# TERMINAL:
+  CTRL    A  *Początek lini*
+  CTRL    E  *Koniec lini*
+  ALT     F  *Jedno słowo do przodu*
+  ALT     B  *Jedno słowo do tyłu*
+  CTRL    U  *Usówanie od kursora do początku lini*
+  CTRL    K  *Usówanie od kursora do końca lini*
+  CTR     R  *Wiersz poleceń na dole w terminalu*
+          ;  *Rozdzielić wiele poleceń w jednej lini*

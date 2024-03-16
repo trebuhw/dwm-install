@@ -58,12 +58,12 @@ set mouse=a                     " Required
 set encoding=UTF-8              " Set encoding
 let NERDTreeShowHidden=1        " NERDtree shows hidden files
 set term=kitty                  " fix for kitty terminal
-colorscheme dracula             " Dracula Color Scheme
+"colorscheme dracula             " Dracula Color Scheme
+colorscheme catppuccin-mocha     " Catppuccin-Mocha Color Scheme
 set termguicolors
+"colorscheme dracula             " Dracula Color Scheme
 "let g:tokyonight_style = 'night' " available: night, storm
 "let g:tokyonight_enable_italic = 1
-
-colorscheme catppuccin-mocha
 " get transparent bg & some markdown stuffs
 highlight Normal guibg=NONE ctermbg=NONE
 au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
@@ -100,7 +100,8 @@ inoremap <silent><expr> <Tab>
 " => Status Line
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " The lightline.vim theme
-" let g:lightline = {'colorscheme': 'catppuccin_mocha'}
+"let g:lightline = {'colorscheme': 'dracula'}
+let g:lightline = {'colorscheme': 'catppuccin'}
 " Always show statusline
 set laststatus=2
 " Uncomment to prevent non-normal modes showing in powerline and below powerline.
