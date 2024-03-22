@@ -106,6 +106,7 @@ $packer sparklines-git
 $packer speedtest-cli-git
 $packer spotify
 $packer squashfs-tools
+$packer scrot
 $packer starship
 $packer sublime-text-4
 $packer sxhkd

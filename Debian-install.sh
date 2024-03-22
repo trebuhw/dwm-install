@@ -79,6 +79,7 @@ $packer ripgrep
 $packer rofi
 $packer rsync
 $packer lm-sensors
+$packer scrot
 $packer sublime-text
 $packer sxhkd
 $packer sxiv

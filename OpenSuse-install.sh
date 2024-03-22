@@ -67,6 +67,7 @@ $packer rclone
 $packer ripgrep
 $packer rofi
 $packer rsync
+$packer scrot
 $packer sensors
 $packer starship
 $packer sxhkd
