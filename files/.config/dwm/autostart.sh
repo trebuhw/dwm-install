@@ -6,9 +6,21 @@ function run {
     $@&
   fi
 }
-run $HOME/.screenlayout/1.sh
-#run "dex $HOME/.config/autostart/arcolinux-welcome-app.desktop"
 run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
+feh --bg-fill $HOME/.background &
+xrdb ~/.Xresources &
+run nm-applet &
+run parcellite -n & # Ctrl+Alt+s run history clipboard
+run ~/.config/dwm/scripts/rclone.sh &
+run /usr/libexec/xfce4/notifyd/xfce4-notifyd & #OpenSuse
+run /usr/libexec/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
+picom -b  --config ~/.config/dwm/picom.conf &
+run numlockx on &
+run slstatus &
+sxhkd -c ~/.config/dwm/sxhkd/sxhkdrc &
+
+# Display
+#run $HOME/.screenlayout/1.sh
 #run "xrandr --output VGA-1 --primary --mode 1360x768 --pos 0x0 --rotate normal"
 #run "xrandr --output HDMI2 --mode 1920x1080 --pos 1920x0 --rotate normal --output HDMI1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off"
 #run xrandr --output eDP-1 --primary --mode 1368x768 --pos 0x0 --rotate normal --output DP-1 --off --output HDMI-1 --off --output DP-2 --off --output HDMI-2 --off
@@ -19,20 +31,13 @@ run "xrandr --output Virtual-1 --mode 1920x1080 --pos 0x0 --rotate normal"
 #run xrandr --output HDMI2 --right-of HDMI1 --auto
 #autorandr horizontal
 
+# Sysyem
 #run setxkbmap pl &
-xrdb ~/.Xresources &
-run nm-applet &
-run parcellite -n & # Ctrl+Alt+s run history clipboard
-run ~/.config/dwm/scripts/rclone.sh &
-run /usr/libexec/xfce4/notifyd/xfce4-notifyd & #OpenSuse
 #run /usr/lib/xfce4/notifyd/xfce4-notifyd & Arch
 #run "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1" & # Archlinux authentication
-run /usr/libexec/polkit-gnome-authentication-agent-1 & # OpenSuse authentication
-picom -b  --config ~/.config/dwm/picom.conf &
-run numlockx on &
-run slstatus &
-sxhkd -c ~/.config/dwm/sxhkd/sxhkdrc &
-feh --bg-fill $HOME/.background &
+
+# App
+#run "dex $HOME/.config/autostart/arcolinux-welcome-app.desktop"
 #feh --bg-fill $HOME/.config/dwm/bg/sea.jpg &
 #run "pamac-tray" &
 #run "variety" &

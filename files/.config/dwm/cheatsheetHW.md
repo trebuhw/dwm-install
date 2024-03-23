@@ -29,6 +29,7 @@
           Alt     d        *show app menu* (`rofi -drun`)
   Shift   Alt     d        *show app menu* (`rofi -run`)
   Super           v        *audio control* (`pavucontrol`)
+  Super   Shift   b        *bluetoh control* (`bluetoth-manager`)
   Super   Shift   a        *dwm cheatsheet*
   Super   Shift   q        *kill dwm* (`pkill dwm`)
 # Parcellite

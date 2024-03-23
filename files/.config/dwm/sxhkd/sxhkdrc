@@ -14,21 +14,25 @@ super + n
 super + s
     subl
 
-#Rofi
+# Rofi
 alt + d
     rofi -show drun
 
-#Rofi
+# Rofi
 shift + alt + d
     rofi -show run    
 
-#DWM chatsheet
+# DWM chatsheet
 super + shift + a
     alacritty -e nvim ~/.config/dwm/cheatsheetHW.md
 
-#Pavucontrol
+# Pavucontrol
 super + v
     pavucontrol
+
+# Bluetoth manager
+super + shift + b
+    blueman-manager
 
 # Restart DWM
 super + shift + q
@@ -38,43 +42,55 @@ super + shift + q
 #super + x
 #    $HOME/.config/dwm/scripts/Lock-x11.sh
 
+# SCREENSHOTS
+# Scrot
+Print
+    scrot '%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)/Screenshots'
+
+shift + Print
+    scrot --select '%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-user-dir PICTURES)/Screenshots'
+
+# flameshot
+alt + Print
+     flameshot gui
+
 #################################################################
 #     MULTIMEDIA KEYS
 #################################################################
 
-#Raises volume
+# Raises volume
 XF86AudioRaiseVolume
     ~/.config/dwm/scripts/volume --inc
 
-#Lowers volume
+# Lowers volume
 XF86AudioLowerVolume
     ~/.config/dwm/scripts/volume --dec
 
-#Mute
+# Mute
 XF86AudioMute
     ~/.config/hypr/scripts/volume --toogle
 
-#PLAY
+# PLAY
 XF86AudioPlay
     playerctl play-pause
 
-#Next
+# Next
 XF86AudioNext
     playerctl next
 
-#previous
+# previous
 XF86AudioPrev
     playerctl previous
 
-#Stop
+# Stop
 XF86AudioStop
     playerctl stop
 
-#Brightness up
+# Brightness up
 XF86MonBrightnessUp
     brightnessctl s 10%+
 
-#Brightness down
+# Brightness down
 XF86MonBrightnessDown
     brightnessctl s 10%-
 

@@ -83,6 +83,7 @@ static const struct arg args[] = {
         //{ run_command,        "[  %s ]  ",     mic },
         //{ keymap,             " %s ",          NULL },
         { battery_perc,         "[ BAT %s%% ]",   "BAT0" },
+        //{ wifi_perc,            "[ NET %s%% ]",  "wlp0s20f3" },
         //{ run_command,        "[%s]",           "TZ=Europe/Warsaw date +\"%a %Y/%m/%d - %H:%M\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         //{ run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%a, %d %b\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
         //{ run_command,          "[ %s ]",         "TZ=Europe/Warsaw date +\"%H:%M\"" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
